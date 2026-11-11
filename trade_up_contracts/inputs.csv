@@ -1,0 +1,22 @@
+contract,item,item_de,stattrak,wear,float,pattern,tradable_after,screenshot
+A,MP7 | Mischief,MP7 | Unheil,no,Battle-Scarred,0.749906659,338,2026-11-18 19:00,screenshots/inputs/mp7_mischief_338.png
+A,SG 553 | Aloha,SG 553 | Aloha,no,Minimal Wear,0.136595637,522,2026-11-18 19:00,screenshots/inputs/sg_553_aloha_522.png
+A,SCAR-20 | Poultrygeist,SCAR-20 | Poltergeist,no,Field-Tested,0.228001401,72,2026-11-18 19:00,screenshots/inputs/scar_20_poultrygeist_72.png
+A,UMP-45 | Motorized,UMP-45 | Motorblock,no,Well-Worn,0.429348439,932,2026-11-18 19:00,screenshots/inputs/ump_45_motorized_932.png
+A,UMP-45 | Motorized,UMP-45 | Motorblock,no,Field-Tested,0.353758126,245,2026-11-18 19:00,screenshots/inputs/ump_45_motorized_245.png
+A,Negev | Ultralight,Negev | Ultralux,no,Well-Worn,0.413276702,659,2026-11-18 19:00,screenshots/inputs/negev_ultralight_659.png
+A,Negev | Ultralight,Negev | Ultralux,no,Battle-Scarred,0.734715641,657,2026-11-18 19:00,screenshots/inputs/negev_ultralight_657.png
+A,MP5-SD | Necro Jr.,MP5-SD | Necro Jr.,no,Well-Worn,0.413452238,575,2026-11-18 19:00,screenshots/inputs/mp5_sd_necro_jr_575.png
+A,MP9 | Broken Record,MP9 | Springende Schallplatte,no,Well-Worn,0.448016703,761,2026-11-18 19:00,screenshots/inputs/mp9_broken_record_761.png
+A,UMP-45 | Roadblock,UMP-45 | Straßensperre,no,Well-Worn,0.415749729,701,2026-11-18 22:00,screenshots/inputs/ump_45_roadblock_701.png
+B,UMP-45 | Roadblock,UMP-45 | Straßensperre,no,Well-Worn,0.404056519,425,2026-11-17 17:00,screenshots/inputs/ump_45_roadblock_425.png
+B,MP9 | Broken Record,MP9 | Springende Schallplatte,no,Well-Worn,0.426940769,222,2026-11-17 17:00,screenshots/inputs/mp9_broken_record_222.png
+B,MP5-SD | Necro Jr.,MP5-SD | Necro Jr.,no,Well-Worn,0.395469397,491,2026-11-17 17:00,screenshots/inputs/mp5_sd_necro_jr_491.png
+B,Negev | Ultralight,Negev | Ultralux,no,Battle-Scarred,0.504461706,325,2026-11-17 17:00,screenshots/inputs/negev_ultralight_325.png
+B,MP5-SD | Gold Leaf,MP5-SD | Blattgold,no,Well-Worn,0.38284871,605,2026-11-17 17:00,screenshots/inputs/mp5_sd_gold_leaf_605.png
+B,MP5-SD | Gold Leaf,MP5-SD | Blattgold,no,Well-Worn,0.397180915,799,2026-11-17 17:00,screenshots/inputs/mp5_sd_gold_leaf_799.png
+B,MP5-SD | Gold Leaf,MP5-SD | Blattgold,no,Field-Tested,0.180657193,270,2026-11-17 17:00,screenshots/inputs/mp5_sd_gold_leaf_270.png
+B,SCAR-20 | Poultrygeist,SCAR-20 | Poltergeist,no,Field-Tested,0.205874741,890,2026-11-17 17:00,screenshots/inputs/scar_20_poultrygeist_890.png
+B,Negev | Dazzle,Negev | Blendung,no,Battle-Scarred,0.526608348,997,2026-11-17 17:00,screenshots/inputs/negev_dazzle_997.png
+B,Nova | Windblown,Nova | Pusteblume,no,Field-Tested,0.326750875,130,2026-11-17 17:00,screenshots/inputs/nova_windblown_130.png
+,UMP-45 | Roadblock,UMP-45 | Straßensperre,yes,Well-Worn,0.448740363,910,2026-11-18 19:00,screenshots/inputs/stattrak_ump_45_roadblock_910.png

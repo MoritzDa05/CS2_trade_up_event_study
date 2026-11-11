@@ -1,0 +1,68 @@
+contract,output,collection,float_min,float_max,probability,float_normalized,wear_normalized,float_raw,wear_raw
+A,Glock-18 | Moonrise,Clutch,0.0,0.65,0.0200,0.330070092,Field-Tested,0.280983383,Field-Tested
+A,MAG-7 | SWAG-7,Clutch,0.0,0.92,0.0200,0.467176130,Battle-Scarred,0.397699557,Well-Worn
+A,Negev | Lionfish,Clutch,0.0,0.55,0.0200,0.279290078,Field-Tested,0.237755170,Field-Tested
+A,Nova | Wild Six,Clutch,0.0,0.8,0.0200,0.406240113,Well-Worn,0.345825702,Field-Tested
+A,UMP-45 | Arctic Wolf,Clutch,0.0,0.8,0.0200,0.406240113,Well-Worn,0.345825702,Field-Tested
+A,G3SG1 | Dream Glade,Dreams & Nightmares,0.0,1.0,0.0400,0.507800141,Battle-Scarred,0.432282128,Well-Worn
+A,M4A1-S | Night Terror,Dreams & Nightmares,0.0,0.7,0.0400,0.355460099,Field-Tested,0.302597489,Field-Tested
+A,PP-Bizon | Space Cat,Dreams & Nightmares,0.0,0.67,0.0400,0.340226095,Field-Tested,0.289629025,Field-Tested
+A,USP-S | Ticket to Hell,Dreams & Nightmares,0.0,0.76,0.0400,0.385928107,Well-Worn,0.328534417,Field-Tested
+A,XM1014 | Zombie Offensive,Dreams & Nightmares,0.0,0.5,0.0400,0.253900071,Field-Tested,0.216141064,Field-Tested
+A,Galil AR | Connexion,Fracture,0.0,0.8,0.0400,0.406240113,Well-Worn,0.345825702,Field-Tested
+A,MAC-10 | Allure,Fracture,0.0,1.0,0.0400,0.507800141,Battle-Scarred,0.432282128,Well-Worn
+A,MAG-7 | Monster Call,Fracture,0.0,1.0,0.0400,0.507800141,Battle-Scarred,0.432282128,Well-Worn
+A,MP5-SD | Kitbash,Fracture,0.0,0.8,0.0400,0.406240113,Well-Worn,0.345825702,Field-Tested
+A,Tec-9 | Brother,Fracture,0.0,1.0,0.0400,0.507800141,Battle-Scarred,0.432282128,Well-Worn
+A,Dual Berettas | Angel Eyes,Genesis,0.0,1.0,0.0200,0.507800141,Battle-Scarred,0.432282128,Well-Worn
+A,M4A1-S | Liquidation,Genesis,0.0,1.0,0.0200,0.507800141,Battle-Scarred,0.432282128,Well-Worn
+A,MAC-10 | Cat Fight,Genesis,0.0,1.0,0.0200,0.507800141,Battle-Scarred,0.432282128,Well-Worn
+A,Nova | Ocular,Genesis,0.0,1.0,0.0200,0.507800141,Battle-Scarred,0.432282128,Well-Worn
+A,UMP-45 | Continuum,Genesis,0.0,1.0,0.0200,0.507800141,Battle-Scarred,0.432282128,Well-Worn
+A,Five-SeveN | Hybrid,Kilowatt,0.0,1.0,0.0400,0.507800141,Battle-Scarred,0.432282128,Well-Worn
+A,Glock-18 | Block-18,Kilowatt,0.0,0.671875,0.0400,0.341178220,Field-Tested,0.290439554,Field-Tested
+A,M4A4 | Etch Lord,Kilowatt,0.0,1.0,0.0400,0.507800141,Battle-Scarred,0.432282128,Well-Worn
+A,MP7 | Just Smile,Kilowatt,0.0,1.0,0.0400,0.507800141,Battle-Scarred,0.432282128,Well-Worn
+A,Sawed-Off | Analog Input,Kilowatt,0.0,0.61886,0.0400,0.314257195,Field-Tested,0.267522117,Field-Tested
+A,AWP | Atheris,Prisma,0.0,1.0,0.0200,0.507800141,Battle-Scarred,0.432282128,Well-Worn
+A,Desert Eagle | Light Rail,Prisma,0.0,0.9,0.0200,0.457020127,Battle-Scarred,0.389053915,Well-Worn
+A,MP5-SD | Gauss,Prisma,0.0,1.0,0.0200,0.507800141,Battle-Scarred,0.432282128,Well-Worn
+A,Tec-9 | Bamboozle,Prisma,0.0,0.8,0.0200,0.406240113,Well-Worn,0.345825702,Field-Tested
+A,UMP-45 | Moonrise,Prisma,0.0,0.4,0.0200,0.203120056,Field-Tested,0.172912851,Field-Tested
+A,Dual Berettas | Flora Carnivora,Recoil,0.0,1.0,0.0200,0.507800141,Battle-Scarred,0.432282128,Well-Worn
+A,M249 | Downtown,Recoil,0.0,0.65,0.0200,0.330070092,Field-Tested,0.280983383,Field-Tested
+A,P90 | Vent Rush,Recoil,0.0,0.7,0.0200,0.355460099,Field-Tested,0.302597489,Field-Tested
+A,R8 Revolver | Crazy 8,Recoil,0.0,1.0,0.0200,0.507800141,Battle-Scarred,0.432282128,Well-Worn
+A,SG 553 | Dragon Tech,Recoil,0.0,0.7,0.0200,0.355460099,Field-Tested,0.302597489,Field-Tested
+B,Glock-18 | Glockingbird,Boreal,0.0,0.67,0.1500,0.352186006,Field-Tested,0.251306895,Field-Tested
+B,M4A4 | Sheet Lightning,Boreal,0.0,0.75,0.1500,0.394238066,Well-Worn,0.281313688,Field-Tested
+B,G3SG1 | Dream Glade,Dreams & Nightmares,0.0,1.0,0.0400,0.525650755,Battle-Scarred,0.375084917,Field-Tested
+B,M4A1-S | Night Terror,Dreams & Nightmares,0.0,0.7,0.0400,0.367955529,Field-Tested,0.262559442,Field-Tested
+B,PP-Bizon | Space Cat,Dreams & Nightmares,0.0,0.67,0.0400,0.352186006,Field-Tested,0.251306895,Field-Tested
+B,USP-S | Ticket to Hell,Dreams & Nightmares,0.0,0.76,0.0400,0.399494574,Well-Worn,0.285064537,Field-Tested
+B,XM1014 | Zombie Offensive,Dreams & Nightmares,0.0,0.5,0.0400,0.262825378,Field-Tested,0.187542459,Field-Tested
+B,Galil AR | Connexion,Fracture,0.0,0.8,0.0200,0.420520604,Well-Worn,0.300067934,Field-Tested
+B,MAC-10 | Allure,Fracture,0.0,1.0,0.0200,0.525650755,Battle-Scarred,0.375084917,Field-Tested
+B,MAG-7 | Monster Call,Fracture,0.0,1.0,0.0200,0.525650755,Battle-Scarred,0.375084917,Field-Tested
+B,MP5-SD | Kitbash,Fracture,0.0,0.8,0.0200,0.420520604,Well-Worn,0.300067934,Field-Tested
+B,Tec-9 | Brother,Fracture,0.0,1.0,0.0200,0.525650755,Battle-Scarred,0.375084917,Field-Tested
+B,Desert Eagle | Directive,Gamma 2,0.06,1.0,0.0200,0.554111710,Battle-Scarred,0.412579822,Well-Worn
+B,Glock-18 | Weasel,Gamma 2,0.0,1.0,0.0200,0.525650755,Battle-Scarred,0.375084917,Field-Tested
+B,MAG-7 | Petroglyph,Gamma 2,0.0,0.44,0.0200,0.231286332,Field-Tested,0.165037364,Field-Tested
+B,SCAR-20 | Powercore,Gamma 2,0.0,1.0,0.0200,0.525650755,Battle-Scarred,0.375084917,Field-Tested
+B,SG 553 | Triarch,Gamma 2,0.0,1.0,0.0200,0.525650755,Battle-Scarred,0.375084917,Field-Tested
+B,Dual Berettas | Angel Eyes,Genesis,0.0,1.0,0.0200,0.525650755,Battle-Scarred,0.375084917,Field-Tested
+B,M4A1-S | Liquidation,Genesis,0.0,1.0,0.0200,0.525650755,Battle-Scarred,0.375084917,Field-Tested
+B,MAC-10 | Cat Fight,Genesis,0.0,1.0,0.0200,0.525650755,Battle-Scarred,0.375084917,Field-Tested
+B,Nova | Ocular,Genesis,0.0,1.0,0.0200,0.525650755,Battle-Scarred,0.375084917,Field-Tested
+B,UMP-45 | Continuum,Genesis,0.0,1.0,0.0200,0.525650755,Battle-Scarred,0.375084917,Field-Tested
+B,Dual Berettas | Flora Carnivora,Recoil,0.0,1.0,0.0200,0.525650755,Battle-Scarred,0.375084917,Field-Tested
+B,M249 | Downtown,Recoil,0.0,0.65,0.0200,0.341672991,Field-Tested,0.243805196,Field-Tested
+B,P90 | Vent Rush,Recoil,0.0,0.7,0.0200,0.367955529,Field-Tested,0.262559442,Field-Tested
+B,R8 Revolver | Crazy 8,Recoil,0.0,1.0,0.0200,0.525650755,Battle-Scarred,0.375084917,Field-Tested
+B,SG 553 | Dragon Tech,Recoil,0.0,0.7,0.0200,0.367955529,Field-Tested,0.262559442,Field-Tested
+B,AK-47 | Slate,Snakebite,0.0,1.0,0.0200,0.525650755,Battle-Scarred,0.375084917,Field-Tested
+B,Desert Eagle | Trigger Discipline,Snakebite,0.0,0.97,0.0200,0.509881232,Battle-Scarred,0.363832370,Field-Tested
+B,MAC-10 | Button Masher,Snakebite,0.0,1.0,0.0200,0.525650755,Battle-Scarred,0.375084917,Field-Tested
+B,Negev | dev_texture,Snakebite,0.0,0.65,0.0200,0.341672991,Field-Tested,0.243805196,Field-Tested
+B,P250 | Cyber Shell,Snakebite,0.0,0.85,0.0200,0.446803142,Well-Worn,0.318822180,Field-Tested
