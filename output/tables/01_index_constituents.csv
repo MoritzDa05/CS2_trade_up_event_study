@@ -1,0 +1,489 @@
+index,market_hash_name,group,est_median_price,trade_share
+capsules,Antwerp 2022 Contenders Sticker Capsule,capsule_sticker,0.52,1.0
+capsules,Berlin 2019 Legends (Holo-Foil),capsule_sticker,1.93,1.0
+capsules,Berlin 2019 Minor Challengers (Holo-Foil),capsule_sticker,1.9,1.0
+capsules,Berlin 2019 Returning Challengers (Holo-Foil),capsule_sticker,2.5,1.0
+capsules,Boston 2018 Returning Challengers (Holo-Foil),capsule_sticker,46.36,0.335
+capsules,Cologne 2016 Challengers (Holo-Foil),capsule_sticker,43.16,0.676
+capsules,Cologne 2016 Legends (Holo-Foil),capsule_sticker,37.89,0.733
+capsules,Community Sticker Capsule 1,capsule_sticker,1.98,1.0
+capsules,DreamHack Cluj-Napoca 2015 Legends (Foil),capsule_sticker,26.13,0.341
+capsules,ESL One Cologne 2014 Challengers,capsule_sticker,88.4,0.818
+capsules,ESL One Cologne 2014 Legends,capsule_sticker,112.96,0.892
+capsules,ESL One Cologne 2015 Challengers (Foil),capsule_sticker,48.87,0.523
+capsules,ESL One Cologne 2015 Legends (Foil),capsule_sticker,23.11,0.688
+capsules,ESL One Katowice 2015 Challengers (Holo-Foil),capsule_sticker,639.48,0.301
+capsules,ESL One Katowice 2015 Legends (Holo-Foil),capsule_sticker,258.03,0.318
+capsules,Katowice 2019 Legends (Holo-Foil),capsule_sticker,11.82,0.938
+capsules,Katowice 2019 Minor Challengers (Holo-Foil),capsule_sticker,9.85,0.886
+capsules,Katowice 2019 Returning Challengers (Holo-Foil),capsule_sticker,14.91,0.716
+capsules,Krakow 2017 Challengers (Holo-Foil),capsule_sticker,28.59,0.523
+capsules,Krakow 2017 Legends (Holo-Foil),capsule_sticker,21.46,0.528
+capsules,London 2018 Legends (Holo-Foil),capsule_sticker,20.27,0.551
+capsules,London 2018 Minor Challengers (Holo-Foil),capsule_sticker,15.51,0.534
+capsules,London 2018 Returning Challengers (Holo-Foil),capsule_sticker,19.71,0.477
+capsules,MLG Columbus 2016 Challengers (Holo-Foil),capsule_sticker,46.58,0.784
+capsules,MLG Columbus 2016 Legends (Holo-Foil),capsule_sticker,39.92,0.722
+capsules,Sticker Capsule,capsule_sticker,0.61,1.0
+capsules,Sticker Capsule 2,capsule_sticker,12.78,1.0
+capsules,Stockholm 2021 Challengers Sticker Capsule,capsule_sticker,2.8,1.0
+capsules,Stockholm 2021 Contenders Sticker Capsule,capsule_sticker,2.82,1.0
+capsules,Stockholm 2021 Legends Sticker Capsule,capsule_sticker,0.9,1.0
+musickits,"Music Kit | 3kliksphilip, Heading for the Source",control_musickit,0.9,1.0
+musickits,"Music Kit | AWOLNATION, I Am",control_musickit,4.28,1.0
+musickits,"Music Kit | Amon Tobin, All for Dust",control_musickit,3.44,1.0
+musickits,"Music Kit | Austin Wintory, Bachram",control_musickit,2.07,1.0
+musickits,"Music Kit | Austin Wintory, Desert Fire",control_musickit,3.52,1.0
+musickits,"Music Kit | Austin Wintory, Mocha Petal",control_musickit,1.62,1.0
+musickits,"Music Kit | Austin Wintory, The Devil Went Clubbing in Georgia",control_musickit,18.35,1.0
+musickits,"Music Kit | Beartooth, Disgusting",control_musickit,3.06,1.0
+musickits,"Music Kit | Ben Bromfield, Rabbit Hole",control_musickit,0.6,1.0
+musickits,"Music Kit | Chipzel, ~Yellow Magic~",control_musickit,1.22,1.0
+musickits,"Music Kit | DRYDEN, Feel The Power",control_musickit,1.77,1.0
+musickits,"Music Kit | Damjan Mravunac, The Talos Principle",control_musickit,4.23,0.994
+musickits,"Music Kit | Daniel Sadowski, Crimson Assault",control_musickit,3.07,1.0
+musickits,"Music Kit | Daniel Sadowski, Dead Shot",control_musickit,0.61,1.0
+musickits,"Music Kit | Daniel Sadowski, Eye of the Dragon",control_musickit,1.56,1.0
+musickits,"Music Kit | Daniel Sadowski, The 8-Bit Kit",control_musickit,3.43,1.0
+musickits,"Music Kit | Daniel Sadowski, Total Domination",control_musickit,3.46,1.0
+musickits,"Music Kit | Darude, Moments CSGO",control_musickit,2.96,1.0
+musickits,"Music Kit | Denzel Curry, ULTIMATE",control_musickit,4.06,1.0
+musickits,"Music Kit | Dren McDonald, Coffee! Kofe! Kahveh!",control_musickit,2.35,1.0
+musickits,"Music Kit | Dren, Death's Head Demolition",control_musickit,1.85,0.966
+musickits,"Music Kit | Dren, Gunman Taco Truck",control_musickit,19.75,1.0
+musickits,"Music Kit | Feed Me, High Noon",control_musickit,3.76,1.0
+musickits,"Music Kit | Freaky DNA, Vici",control_musickit,7.5,1.0
+musickits,"Music Kit | Humanity's Last Breath, Void",control_musickit,0.58,1.0
+musickits,"Music Kit | ISOxo, inhuman",control_musickit,6.43,1.0
+musickits,"Music Kit | Ian Hultquist, Lion's Mouth",control_musickit,3.2,0.977
+musickits,"Music Kit | Jesse Harlin, Astro Bellum",control_musickit,1.31,1.0
+musickits,"Music Kit | Juelz, Shooters",control_musickit,0.84,1.0
+musickits,"Music Kit | KILL SCRIPT, All Night",control_musickit,3.23,1.0
+musickits,"Music Kit | Kelly Bailey, Hazardous Environments",control_musickit,4.44,0.989
+musickits,"Music Kit | Ki:Theory, MOLOTOV",control_musickit,2.73,0.994
+musickits,"Music Kit | Knock2, Make U SWEAT!",control_musickit,1.26,1.0
+musickits,"Music Kit | Knock2, dashstar*",control_musickit,14.2,1.0
+musickits,"Music Kit | Laura Shigihara: Work Hard, Play Hard",control_musickit,2.41,1.0
+musickits,"Music Kit | Lennie Moore, Java Havana Funkaloo",control_musickit,4.56,1.0
+musickits,"Music Kit | Mateo Messina, For No Mankind",control_musickit,2.31,0.989
+musickits,"Music Kit | Matt Lange, IsoRhythm",control_musickit,2.66,0.994
+musickits,"Music Kit | Matt Levine, Agency",control_musickit,2.2,1.0
+musickits,"Music Kit | Matt Levine, Drifter",control_musickit,1.58,1.0
+musickits,"Music Kit | Meechy Darko, Gothic Luxury",control_musickit,1.77,1.0
+musickits,"Music Kit | Michael Bross, Invasion!",control_musickit,3.16,0.989
+musickits,"Music Kit | Midnight Riders, All I Want for Christmas",control_musickit,3.22,1.0
+musickits,"Music Kit | Mord Fustang, Diamonds",control_musickit,2.7,1.0
+musickits,"Music Kit | Neck Deep, The Lowlife Pack",control_musickit,4.17,1.0
+musickits,"Music Kit | New Beat Fund, Sponge Fingerz",control_musickit,3.88,1.0
+musickits,"Music Kit | Noisia, Sharpened",control_musickit,3.14,1.0
+musickits,"Music Kit | Perfect World, Ay Hey",control_musickit,4.04,1.0
+musickits,"Music Kit | Perfect World, 花脸 Hua Lian (Painted Face)",control_musickit,4.08,1.0
+musickits,"Music Kit | Proxy, Battlepack",control_musickit,2.56,1.0
+musickits,"Music Kit | Rad Cat, Reason",control_musickit,1.93,1.0
+musickits,"Music Kit | Robert Allaire, Insurgency",control_musickit,4.0,1.0
+musickits,"Music Kit | Sam Marshall, Bodacious",control_musickit,1.13,1.0
+musickits,"Music Kit | Sam Marshall, Clutch",control_musickit,0.78,1.0
+musickits,"Music Kit | Sarah Schachner, KOLIBRI",control_musickit,7.86,1.0
+musickits,"Music Kit | Sasha, LNOE",control_musickit,2.63,0.977
+musickits,"Music Kit | Scarlxrd, CHAIN$AW.LXADXUT.",control_musickit,2.84,1.0
+musickits,"Music Kit | Scarlxrd: King, Scar",control_musickit,2.8,1.0
+musickits,"Music Kit | Sean Murray, A*D*8",control_musickit,2.24,0.903
+musickits,"Music Kit | Skog, II-Headshot",control_musickit,2.79,1.0
+musickits,"Music Kit | Skog, Metal",control_musickit,3.88,1.0
+musickits,"Music Kit | Sullivan King, Lock Me Up",control_musickit,0.83,1.0
+musickits,"Music Kit | TWERL and Ekko & Sidetrack, Under Bright Lights",control_musickit,10.07,1.0
+musickits,"Music Kit | The Verkkars & n0thing, Flashbang Dance",control_musickit,3.51,1.0
+musickits,"Music Kit | The Verkkars, EZ4ENCE",control_musickit,4.45,1.0
+musickits,"Music Kit | Tim Huling, Devil's Paintbrush",control_musickit,1.22,1.0
+musickits,"Music Kit | Tim Huling, Neo Noir",control_musickit,0.62,1.0
+musickits,"Music Kit | Tree Adams and Ben Bromfield, M.U.D.D. FORCE",control_musickit,0.57,1.0
+musickits,"Music Kit | Tree Adams, Seventh Moon",control_musickit,0.96,1.0
+musickits,"Music Kit | Troels Folmann, Uber Blasto Phone",control_musickit,2.39,0.983
+musickits,"Music Kit | Various Artists, Hotline Miami",control_musickit,3.82,1.0
+musickits,"Music Kit | bbno$, u mad!",control_musickit,3.85,1.0
+musickits,"StatTrak™ Music Kit | 3kliksphilip, Heading for the Source",control_musickit,2.22,1.0
+musickits,"StatTrak™ Music Kit | AWOLNATION, I Am",control_musickit,7.36,1.0
+musickits,"StatTrak™ Music Kit | Amon Tobin, All for Dust",control_musickit,5.03,0.938
+musickits,"StatTrak™ Music Kit | Austin Wintory, Bachram",control_musickit,3.56,1.0
+musickits,"StatTrak™ Music Kit | Austin Wintory, Desert Fire",control_musickit,6.53,0.938
+musickits,"StatTrak™ Music Kit | Austin Wintory, Mocha Petal",control_musickit,3.25,0.983
+musickits,"StatTrak™ Music Kit | Austin Wintory, The Devil Went Clubbing in Georgia",control_musickit,30.03,0.983
+musickits,"StatTrak™ Music Kit | Beartooth, Aggressive",control_musickit,0.86,1.0
+musickits,"StatTrak™ Music Kit | Beartooth, Disgusting",control_musickit,5.54,0.983
+musickits,"StatTrak™ Music Kit | Ben Bromfield, Rabbit Hole",control_musickit,1.28,1.0
+musickits,"StatTrak™ Music Kit | Blitz Kids, The Good Youth",control_musickit,17.36,1.0
+musickits,"StatTrak™ Music Kit | Chipzel, ~Yellow Magic~",control_musickit,2.27,1.0
+musickits,"StatTrak™ Music Kit | DRYDEN, Feel The Power",control_musickit,3.06,1.0
+musickits,"StatTrak™ Music Kit | Damjan Mravunac, The Talos Principle",control_musickit,7.19,0.841
+musickits,"StatTrak™ Music Kit | Daniel Sadowski, Crimson Assault",control_musickit,6.03,0.761
+musickits,"StatTrak™ Music Kit | Daniel Sadowski, Dead Shot",control_musickit,1.19,1.0
+musickits,"StatTrak™ Music Kit | Daniel Sadowski, Eye of the Dragon",control_musickit,2.67,1.0
+musickits,"StatTrak™ Music Kit | Daniel Sadowski, The 8-Bit Kit",control_musickit,5.78,0.994
+musickits,"StatTrak™ Music Kit | Daniel Sadowski, Total Domination",control_musickit,5.98,0.983
+musickits,"StatTrak™ Music Kit | Darude, Moments CSGO",control_musickit,5.14,0.96
+musickits,"StatTrak™ Music Kit | Denzel Curry, ULTIMATE",control_musickit,7.06,1.0
+musickits,"StatTrak™ Music Kit | Dren McDonald, Coffee! Kofe! Kahveh!",control_musickit,4.59,1.0
+musickits,"StatTrak™ Music Kit | Dren, Death's Head Demolition",control_musickit,4.73,0.608
+musickits,"StatTrak™ Music Kit | Dren, Gunman Taco Truck",control_musickit,31.69,1.0
+musickits,"StatTrak™ Music Kit | Feed Me, High Noon",control_musickit,6.58,1.0
+musickits,"StatTrak™ Music Kit | Freaky DNA, Vici",control_musickit,13.35,0.983
+musickits,"StatTrak™ Music Kit | Humanity's Last Breath, Void",control_musickit,1.29,1.0
+musickits,"StatTrak™ Music Kit | Hundredth, FREE",control_musickit,0.84,1.0
+musickits,"StatTrak™ Music Kit | ISOxo, inhuman",control_musickit,9.83,1.0
+musickits,"StatTrak™ Music Kit | Ian Hultquist, Lion's Mouth",control_musickit,5.98,0.716
+musickits,"StatTrak™ Music Kit | Jesse Harlin, Astro Bellum",control_musickit,2.99,0.994
+musickits,"StatTrak™ Music Kit | Juelz, Shooters",control_musickit,1.67,1.0
+musickits,"StatTrak™ Music Kit | KILL SCRIPT, All Night",control_musickit,5.77,1.0
+musickits,"StatTrak™ Music Kit | Kelly Bailey, Hazardous Environments",control_musickit,6.88,0.812
+musickits,"StatTrak™ Music Kit | Ki:Theory, MOLOTOV",control_musickit,4.96,0.778
+musickits,"StatTrak™ Music Kit | Knock2, Make U SWEAT!",control_musickit,2.48,1.0
+musickits,"StatTrak™ Music Kit | Knock2, dashstar*",control_musickit,26.79,1.0
+musickits,"StatTrak™ Music Kit | Laura Shigihara: Work Hard, Play Hard",control_musickit,4.89,0.949
+musickits,"StatTrak™ Music Kit | Lennie Moore, Java Havana Funkaloo",control_musickit,7.69,1.0
+musickits,"StatTrak™ Music Kit | Mateo Messina, For No Mankind",control_musickit,4.55,0.761
+musickits,"StatTrak™ Music Kit | Matt Lange, IsoRhythm",control_musickit,5.25,0.898
+musickits,"StatTrak™ Music Kit | Matt Levine, Agency",control_musickit,4.28,1.0
+musickits,"StatTrak™ Music Kit | Matt Levine, Drifter",control_musickit,2.56,1.0
+musickits,"StatTrak™ Music Kit | Meechy Darko, Gothic Luxury",control_musickit,4.16,1.0
+musickits,"StatTrak™ Music Kit | Michael Bross, Invasion!",control_musickit,5.45,0.71
+musickits,"StatTrak™ Music Kit | Midnight Riders, All I Want for Christmas",control_musickit,6.23,0.989
+musickits,"StatTrak™ Music Kit | Mord Fustang, Diamonds",control_musickit,4.67,1.0
+musickits,"StatTrak™ Music Kit | Neck Deep, Life's Not Out To Get You",control_musickit,19.14,1.0
+musickits,"StatTrak™ Music Kit | Neck Deep, The Lowlife Pack",control_musickit,7.2,1.0
+musickits,"StatTrak™ Music Kit | New Beat Fund, Sponge Fingerz",control_musickit,6.28,0.966
+musickits,"StatTrak™ Music Kit | Noisia, Sharpened",control_musickit,6.62,0.847
+musickits,"StatTrak™ Music Kit | Perfect World, Ay Hey",control_musickit,6.94,1.0
+musickits,"StatTrak™ Music Kit | Perfect World, 花脸 Hua Lian (Painted Face)",control_musickit,6.6,1.0
+musickits,"StatTrak™ Music Kit | Proxy, Battlepack",control_musickit,4.69,0.926
+musickits,"StatTrak™ Music Kit | Rad Cat, Reason",control_musickit,3.4,1.0
+musickits,"StatTrak™ Music Kit | Roam, Backbone",control_musickit,2.18,1.0
+musickits,"StatTrak™ Music Kit | Robert Allaire, Insurgency",control_musickit,6.8,0.869
+musickits,"StatTrak™ Music Kit | Sam Marshall, Bodacious",control_musickit,1.85,1.0
+musickits,"StatTrak™ Music Kit | Sam Marshall, Clutch",control_musickit,1.57,1.0
+musickits,"StatTrak™ Music Kit | Sarah Schachner, KOLIBRI",control_musickit,12.3,0.96
+musickits,"StatTrak™ Music Kit | Sasha, LNOE",control_musickit,4.77,0.67
+musickits,"StatTrak™ Music Kit | Scarlxrd, CHAIN$AW.LXADXUT.",control_musickit,4.48,1.0
+musickits,"StatTrak™ Music Kit | Scarlxrd: King, Scar",control_musickit,4.66,1.0
+musickits,"StatTrak™ Music Kit | Sean Murray, A*D*8",control_musickit,4.4,0.642
+musickits,"StatTrak™ Music Kit | Skog, II-Headshot",control_musickit,4.96,1.0
+musickits,"StatTrak™ Music Kit | Skog, III-Arena",control_musickit,0.81,1.0
+musickits,"StatTrak™ Music Kit | Skog, Metal",control_musickit,7.53,0.938
+musickits,"StatTrak™ Music Kit | Sullivan King, Lock Me Up",control_musickit,1.76,1.0
+musickits,"StatTrak™ Music Kit | TWERL and Ekko & Sidetrack, Under Bright Lights",control_musickit,17.38,1.0
+musickits,"StatTrak™ Music Kit | The Verkkars & n0thing, Flashbang Dance",control_musickit,6.4,1.0
+musickits,"StatTrak™ Music Kit | The Verkkars, EZ4ENCE",control_musickit,7.29,1.0
+musickits,"StatTrak™ Music Kit | Tim Huling, Devil's Paintbrush",control_musickit,2.7,1.0
+musickits,"StatTrak™ Music Kit | Tim Huling, Neo Noir",control_musickit,1.05,1.0
+musickits,"StatTrak™ Music Kit | Tree Adams and Ben Bromfield, M.U.D.D. FORCE",control_musickit,0.91,1.0
+musickits,"StatTrak™ Music Kit | Tree Adams, Seventh Moon",control_musickit,2.4,1.0
+musickits,"StatTrak™ Music Kit | Troels Folmann, Uber Blasto Phone",control_musickit,5.05,0.699
+musickits,"StatTrak™ Music Kit | Twin Atlantic, GLA",control_musickit,1.04,1.0
+musickits,"StatTrak™ Music Kit | Various Artists, Hotline Miami",control_musickit,6.7,1.0
+musickits,"StatTrak™ Music Kit | bbno$, u mad!",control_musickit,7.02,1.0
+agents,'Blueberries' Buckshot | NSWC SEAL,control_agent,14.75,1.0
+agents,'Medium Rare' Crasswater | Guerrilla Warfare,control_agent,56.52,1.0
+agents,'The Doctor' Romanov | Sabre,control_agent,14.0,1.0
+agents,'Two Times' McCoy | TACP Cavalry,control_agent,8.97,1.0
+agents,'Two Times' McCoy | USAF TACP,control_agent,8.45,1.0
+agents,1st Lieutenant Farlow | SWAT,control_agent,12.04,1.0
+agents,3rd Commando Company | KSK,control_agent,14.48,1.0
+agents,Arno The Overgrown | Guerrilla Warfare,control_agent,31.18,1.0
+agents,Aspirant | Gendarmerie Nationale,control_agent,10.2,1.0
+agents,B Squadron Officer | SAS,control_agent,16.61,1.0
+agents,Bio-Haz Specialist | SWAT,control_agent,14.84,1.0
+agents,Blackwolf | Sabre,control_agent,8.89,1.0
+agents,Bloody Darryl The Strapped | The Professionals,control_agent,42.51,1.0
+agents,Buckshot | NSWC SEAL,control_agent,8.14,1.0
+agents,Chef d'Escadron Rouchard | Gendarmerie Nationale,control_agent,22.27,1.0
+agents,Chem-Haz Capitaine | Gendarmerie Nationale,control_agent,23.69,1.0
+agents,Chem-Haz Specialist | SWAT,control_agent,13.67,1.0
+agents,Cmdr. Davida 'Goggles' Fernandez | SEAL Frogman,control_agent,66.62,1.0
+agents,Cmdr. Frank 'Wet Sox' Baroud | SEAL Frogman,control_agent,56.47,1.0
+agents,Cmdr. Mae 'Dead Cold' Jamison | SWAT,control_agent,19.32,1.0
+agents,Col. Mangos Dabisi | Guerrilla Warfare,control_agent,34.11,1.0
+agents,Crasswater The Forgotten | Guerrilla Warfare,control_agent,30.54,1.0
+agents,D Squadron Officer | NZSAS,control_agent,108.91,1.0
+agents,Dragomir | Sabre,control_agent,7.36,1.0
+agents,Dragomir | Sabre Footsoldier,control_agent,9.25,1.0
+agents,Elite Trapper Solman | Guerrilla Warfare,control_agent,47.7,1.0
+agents,Enforcer | Phoenix,control_agent,6.55,1.0
+agents,Getaway Sally | The Professionals,control_agent,135.15,1.0
+agents,Ground Rebel  | Elite Crew,control_agent,10.39,1.0
+agents,John 'Van Healen' Kask | SWAT,control_agent,11.77,1.0
+agents,Jungle Rebel | Elite Crew,control_agent,27.24,1.0
+agents,Lieutenant 'Tree Hugger' Farlow | SWAT,control_agent,19.12,1.0
+agents,Lieutenant Rex Krikey | SEAL Frogman,control_agent,20.98,1.0
+agents,Little Kev | The Professionals,control_agent,36.6,1.0
+agents,Lt. Commander Ricksaw | NSWC SEAL,control_agent,20.28,1.0
+agents,Markus Delrow | FBI HRT,control_agent,10.53,1.0
+agents,Maximus | Sabre,control_agent,10.91,1.0
+agents,Michael Syfers  | FBI Sniper,control_agent,18.43,1.0
+agents,Number K | The Professionals,control_agent,66.39,1.0
+agents,Officer Jacques Beltram | Gendarmerie Nationale,control_agent,18.96,1.0
+agents,Operator | FBI SWAT,control_agent,12.28,1.0
+agents,Osiris | Elite Crew,control_agent,10.1,1.0
+agents,Primeiro Tenente | Brazilian 1st Battalion,control_agent,55.22,1.0
+agents,Prof. Shahmat | Elite Crew,control_agent,8.21,1.0
+agents,Rezan The Ready | Sabre,control_agent,8.29,1.0
+agents,Rezan the Redshirt | Sabre,control_agent,8.71,1.0
+agents,Safecracker Voltzmann | The Professionals,control_agent,32.34,1.0
+agents,Seal Team 6 Soldier | NSWC SEAL,control_agent,15.89,1.0
+agents,Sergeant Bombson | SWAT,control_agent,13.57,1.0
+agents,Sir Bloody Darryl Royale | The Professionals,control_agent,56.42,1.0
+agents,Sir Bloody Loudmouth Darryl | The Professionals,control_agent,88.31,1.0
+agents,Sir Bloody Miami Darryl | The Professionals,control_agent,131.19,1.0
+agents,Sir Bloody Silent Darryl | The Professionals,control_agent,43.05,1.0
+agents,Sir Bloody Skullhead Darryl | The Professionals,control_agent,47.64,1.0
+agents,Slingshot | Phoenix,control_agent,11.57,1.0
+agents,Soldier | Phoenix,control_agent,5.93,1.0
+agents,Sous-Lieutenant Medic | Gendarmerie Nationale,control_agent,11.51,1.0
+agents,Special Agent Ava | FBI,control_agent,24.86,1.0
+agents,Street Soldier | Phoenix,control_agent,13.33,1.0
+agents,The Elite Mr. Muhlik | Elite Crew,control_agent,11.9,1.0
+agents,Trapper Aggressor | Guerrilla Warfare,control_agent,25.53,1.0
+agents,Trapper | Guerrilla Warfare,control_agent,30.47,1.0
+agents,Vypa Sista of the Revolution | Guerrilla Warfare,control_agent,58.48,1.0
+combined,'Blueberries' Buckshot | NSWC SEAL,control_agent,14.75,1.0
+combined,'Medium Rare' Crasswater | Guerrilla Warfare,control_agent,56.52,1.0
+combined,'The Doctor' Romanov | Sabre,control_agent,14.0,1.0
+combined,'Two Times' McCoy | TACP Cavalry,control_agent,8.97,1.0
+combined,'Two Times' McCoy | USAF TACP,control_agent,8.45,1.0
+combined,1st Lieutenant Farlow | SWAT,control_agent,12.04,1.0
+combined,3rd Commando Company | KSK,control_agent,14.48,1.0
+combined,Antwerp 2022 Contenders Sticker Capsule,capsule_sticker,0.52,1.0
+combined,Arno The Overgrown | Guerrilla Warfare,control_agent,31.18,1.0
+combined,Aspirant | Gendarmerie Nationale,control_agent,10.2,1.0
+combined,B Squadron Officer | SAS,control_agent,16.61,1.0
+combined,Berlin 2019 Legends (Holo-Foil),capsule_sticker,1.93,1.0
+combined,Berlin 2019 Minor Challengers (Holo-Foil),capsule_sticker,1.9,1.0
+combined,Berlin 2019 Returning Challengers (Holo-Foil),capsule_sticker,2.5,1.0
+combined,Bio-Haz Specialist | SWAT,control_agent,14.84,1.0
+combined,Blackwolf | Sabre,control_agent,8.89,1.0
+combined,Bloody Darryl The Strapped | The Professionals,control_agent,42.51,1.0
+combined,Boston 2018 Returning Challengers (Holo-Foil),capsule_sticker,46.36,0.335
+combined,Buckshot | NSWC SEAL,control_agent,8.14,1.0
+combined,Chef d'Escadron Rouchard | Gendarmerie Nationale,control_agent,22.27,1.0
+combined,Chem-Haz Capitaine | Gendarmerie Nationale,control_agent,23.69,1.0
+combined,Chem-Haz Specialist | SWAT,control_agent,13.67,1.0
+combined,Cmdr. Davida 'Goggles' Fernandez | SEAL Frogman,control_agent,66.62,1.0
+combined,Cmdr. Frank 'Wet Sox' Baroud | SEAL Frogman,control_agent,56.47,1.0
+combined,Cmdr. Mae 'Dead Cold' Jamison | SWAT,control_agent,19.32,1.0
+combined,Col. Mangos Dabisi | Guerrilla Warfare,control_agent,34.11,1.0
+combined,Cologne 2016 Challengers (Holo-Foil),capsule_sticker,43.16,0.676
+combined,Cologne 2016 Legends (Holo-Foil),capsule_sticker,37.89,0.733
+combined,Community Sticker Capsule 1,capsule_sticker,1.98,1.0
+combined,Crasswater The Forgotten | Guerrilla Warfare,control_agent,30.54,1.0
+combined,D Squadron Officer | NZSAS,control_agent,108.91,1.0
+combined,Dragomir | Sabre,control_agent,7.36,1.0
+combined,Dragomir | Sabre Footsoldier,control_agent,9.25,1.0
+combined,DreamHack Cluj-Napoca 2015 Legends (Foil),capsule_sticker,26.13,0.341
+combined,ESL One Cologne 2014 Challengers,capsule_sticker,88.4,0.818
+combined,ESL One Cologne 2014 Legends,capsule_sticker,112.96,0.892
+combined,ESL One Cologne 2015 Challengers (Foil),capsule_sticker,48.87,0.523
+combined,ESL One Cologne 2015 Legends (Foil),capsule_sticker,23.11,0.688
+combined,ESL One Katowice 2015 Challengers (Holo-Foil),capsule_sticker,639.48,0.301
+combined,ESL One Katowice 2015 Legends (Holo-Foil),capsule_sticker,258.03,0.318
+combined,Elite Trapper Solman | Guerrilla Warfare,control_agent,47.7,1.0
+combined,Enforcer | Phoenix,control_agent,6.55,1.0
+combined,Getaway Sally | The Professionals,control_agent,135.15,1.0
+combined,Ground Rebel  | Elite Crew,control_agent,10.39,1.0
+combined,John 'Van Healen' Kask | SWAT,control_agent,11.77,1.0
+combined,Jungle Rebel | Elite Crew,control_agent,27.24,1.0
+combined,Katowice 2019 Legends (Holo-Foil),capsule_sticker,11.82,0.938
+combined,Katowice 2019 Minor Challengers (Holo-Foil),capsule_sticker,9.85,0.886
+combined,Katowice 2019 Returning Challengers (Holo-Foil),capsule_sticker,14.91,0.716
+combined,Krakow 2017 Challengers (Holo-Foil),capsule_sticker,28.59,0.523
+combined,Krakow 2017 Legends (Holo-Foil),capsule_sticker,21.46,0.528
+combined,Lieutenant 'Tree Hugger' Farlow | SWAT,control_agent,19.12,1.0
+combined,Lieutenant Rex Krikey | SEAL Frogman,control_agent,20.98,1.0
+combined,Little Kev | The Professionals,control_agent,36.6,1.0
+combined,London 2018 Legends (Holo-Foil),capsule_sticker,20.27,0.551
+combined,London 2018 Minor Challengers (Holo-Foil),capsule_sticker,15.51,0.534
+combined,London 2018 Returning Challengers (Holo-Foil),capsule_sticker,19.71,0.477
+combined,Lt. Commander Ricksaw | NSWC SEAL,control_agent,20.28,1.0
+combined,MLG Columbus 2016 Challengers (Holo-Foil),capsule_sticker,46.58,0.784
+combined,MLG Columbus 2016 Legends (Holo-Foil),capsule_sticker,39.92,0.722
+combined,Markus Delrow | FBI HRT,control_agent,10.53,1.0
+combined,Maximus | Sabre,control_agent,10.91,1.0
+combined,Michael Syfers  | FBI Sniper,control_agent,18.43,1.0
+combined,"Music Kit | 3kliksphilip, Heading for the Source",control_musickit,0.9,1.0
+combined,"Music Kit | AWOLNATION, I Am",control_musickit,4.28,1.0
+combined,"Music Kit | Amon Tobin, All for Dust",control_musickit,3.44,1.0
+combined,"Music Kit | Austin Wintory, Bachram",control_musickit,2.07,1.0
+combined,"Music Kit | Austin Wintory, Desert Fire",control_musickit,3.52,1.0
+combined,"Music Kit | Austin Wintory, Mocha Petal",control_musickit,1.62,1.0
+combined,"Music Kit | Austin Wintory, The Devil Went Clubbing in Georgia",control_musickit,18.35,1.0
+combined,"Music Kit | Beartooth, Disgusting",control_musickit,3.06,1.0
+combined,"Music Kit | Ben Bromfield, Rabbit Hole",control_musickit,0.6,1.0
+combined,"Music Kit | Chipzel, ~Yellow Magic~",control_musickit,1.22,1.0
+combined,"Music Kit | DRYDEN, Feel The Power",control_musickit,1.77,1.0
+combined,"Music Kit | Damjan Mravunac, The Talos Principle",control_musickit,4.23,0.994
+combined,"Music Kit | Daniel Sadowski, Crimson Assault",control_musickit,3.07,1.0
+combined,"Music Kit | Daniel Sadowski, Dead Shot",control_musickit,0.61,1.0
+combined,"Music Kit | Daniel Sadowski, Eye of the Dragon",control_musickit,1.56,1.0
+combined,"Music Kit | Daniel Sadowski, The 8-Bit Kit",control_musickit,3.43,1.0
+combined,"Music Kit | Daniel Sadowski, Total Domination",control_musickit,3.46,1.0
+combined,"Music Kit | Darude, Moments CSGO",control_musickit,2.96,1.0
+combined,"Music Kit | Denzel Curry, ULTIMATE",control_musickit,4.06,1.0
+combined,"Music Kit | Dren McDonald, Coffee! Kofe! Kahveh!",control_musickit,2.35,1.0
+combined,"Music Kit | Dren, Death's Head Demolition",control_musickit,1.85,0.966
+combined,"Music Kit | Dren, Gunman Taco Truck",control_musickit,19.75,1.0
+combined,"Music Kit | Feed Me, High Noon",control_musickit,3.76,1.0
+combined,"Music Kit | Freaky DNA, Vici",control_musickit,7.5,1.0
+combined,"Music Kit | Humanity's Last Breath, Void",control_musickit,0.58,1.0
+combined,"Music Kit | ISOxo, inhuman",control_musickit,6.43,1.0
+combined,"Music Kit | Ian Hultquist, Lion's Mouth",control_musickit,3.2,0.977
+combined,"Music Kit | Jesse Harlin, Astro Bellum",control_musickit,1.31,1.0
+combined,"Music Kit | Juelz, Shooters",control_musickit,0.84,1.0
+combined,"Music Kit | KILL SCRIPT, All Night",control_musickit,3.23,1.0
+combined,"Music Kit | Kelly Bailey, Hazardous Environments",control_musickit,4.44,0.989
+combined,"Music Kit | Ki:Theory, MOLOTOV",control_musickit,2.73,0.994
+combined,"Music Kit | Knock2, Make U SWEAT!",control_musickit,1.26,1.0
+combined,"Music Kit | Knock2, dashstar*",control_musickit,14.2,1.0
+combined,"Music Kit | Laura Shigihara: Work Hard, Play Hard",control_musickit,2.41,1.0
+combined,"Music Kit | Lennie Moore, Java Havana Funkaloo",control_musickit,4.56,1.0
+combined,"Music Kit | Mateo Messina, For No Mankind",control_musickit,2.31,0.989
+combined,"Music Kit | Matt Lange, IsoRhythm",control_musickit,2.66,0.994
+combined,"Music Kit | Matt Levine, Agency",control_musickit,2.2,1.0
+combined,"Music Kit | Matt Levine, Drifter",control_musickit,1.58,1.0
+combined,"Music Kit | Meechy Darko, Gothic Luxury",control_musickit,1.77,1.0
+combined,"Music Kit | Michael Bross, Invasion!",control_musickit,3.16,0.989
+combined,"Music Kit | Midnight Riders, All I Want for Christmas",control_musickit,3.22,1.0
+combined,"Music Kit | Mord Fustang, Diamonds",control_musickit,2.7,1.0
+combined,"Music Kit | Neck Deep, The Lowlife Pack",control_musickit,4.17,1.0
+combined,"Music Kit | New Beat Fund, Sponge Fingerz",control_musickit,3.88,1.0
+combined,"Music Kit | Noisia, Sharpened",control_musickit,3.14,1.0
+combined,"Music Kit | Perfect World, Ay Hey",control_musickit,4.04,1.0
+combined,"Music Kit | Perfect World, 花脸 Hua Lian (Painted Face)",control_musickit,4.08,1.0
+combined,"Music Kit | Proxy, Battlepack",control_musickit,2.56,1.0
+combined,"Music Kit | Rad Cat, Reason",control_musickit,1.93,1.0
+combined,"Music Kit | Robert Allaire, Insurgency",control_musickit,4.0,1.0
+combined,"Music Kit | Sam Marshall, Bodacious",control_musickit,1.13,1.0
+combined,"Music Kit | Sam Marshall, Clutch",control_musickit,0.78,1.0
+combined,"Music Kit | Sarah Schachner, KOLIBRI",control_musickit,7.86,1.0
+combined,"Music Kit | Sasha, LNOE",control_musickit,2.63,0.977
+combined,"Music Kit | Scarlxrd, CHAIN$AW.LXADXUT.",control_musickit,2.84,1.0
+combined,"Music Kit | Scarlxrd: King, Scar",control_musickit,2.8,1.0
+combined,"Music Kit | Sean Murray, A*D*8",control_musickit,2.24,0.903
+combined,"Music Kit | Skog, II-Headshot",control_musickit,2.79,1.0
+combined,"Music Kit | Skog, Metal",control_musickit,3.88,1.0
+combined,"Music Kit | Sullivan King, Lock Me Up",control_musickit,0.83,1.0
+combined,"Music Kit | TWERL and Ekko & Sidetrack, Under Bright Lights",control_musickit,10.07,1.0
+combined,"Music Kit | The Verkkars & n0thing, Flashbang Dance",control_musickit,3.51,1.0
+combined,"Music Kit | The Verkkars, EZ4ENCE",control_musickit,4.45,1.0
+combined,"Music Kit | Tim Huling, Devil's Paintbrush",control_musickit,1.22,1.0
+combined,"Music Kit | Tim Huling, Neo Noir",control_musickit,0.62,1.0
+combined,"Music Kit | Tree Adams and Ben Bromfield, M.U.D.D. FORCE",control_musickit,0.57,1.0
+combined,"Music Kit | Tree Adams, Seventh Moon",control_musickit,0.96,1.0
+combined,"Music Kit | Troels Folmann, Uber Blasto Phone",control_musickit,2.39,0.983
+combined,"Music Kit | Various Artists, Hotline Miami",control_musickit,3.82,1.0
+combined,"Music Kit | bbno$, u mad!",control_musickit,3.85,1.0
+combined,Number K | The Professionals,control_agent,66.39,1.0
+combined,Officer Jacques Beltram | Gendarmerie Nationale,control_agent,18.96,1.0
+combined,Operator | FBI SWAT,control_agent,12.28,1.0
+combined,Osiris | Elite Crew,control_agent,10.1,1.0
+combined,Primeiro Tenente | Brazilian 1st Battalion,control_agent,55.22,1.0
+combined,Prof. Shahmat | Elite Crew,control_agent,8.21,1.0
+combined,Rezan The Ready | Sabre,control_agent,8.29,1.0
+combined,Rezan the Redshirt | Sabre,control_agent,8.71,1.0
+combined,Safecracker Voltzmann | The Professionals,control_agent,32.34,1.0
+combined,Seal Team 6 Soldier | NSWC SEAL,control_agent,15.89,1.0
+combined,Sergeant Bombson | SWAT,control_agent,13.57,1.0
+combined,Sir Bloody Darryl Royale | The Professionals,control_agent,56.42,1.0
+combined,Sir Bloody Loudmouth Darryl | The Professionals,control_agent,88.31,1.0
+combined,Sir Bloody Miami Darryl | The Professionals,control_agent,131.19,1.0
+combined,Sir Bloody Silent Darryl | The Professionals,control_agent,43.05,1.0
+combined,Sir Bloody Skullhead Darryl | The Professionals,control_agent,47.64,1.0
+combined,Slingshot | Phoenix,control_agent,11.57,1.0
+combined,Soldier | Phoenix,control_agent,5.93,1.0
+combined,Sous-Lieutenant Medic | Gendarmerie Nationale,control_agent,11.51,1.0
+combined,Special Agent Ava | FBI,control_agent,24.86,1.0
+combined,"StatTrak™ Music Kit | 3kliksphilip, Heading for the Source",control_musickit,2.22,1.0
+combined,"StatTrak™ Music Kit | AWOLNATION, I Am",control_musickit,7.36,1.0
+combined,"StatTrak™ Music Kit | Amon Tobin, All for Dust",control_musickit,5.03,0.938
+combined,"StatTrak™ Music Kit | Austin Wintory, Bachram",control_musickit,3.56,1.0
+combined,"StatTrak™ Music Kit | Austin Wintory, Desert Fire",control_musickit,6.53,0.938
+combined,"StatTrak™ Music Kit | Austin Wintory, Mocha Petal",control_musickit,3.25,0.983
+combined,"StatTrak™ Music Kit | Austin Wintory, The Devil Went Clubbing in Georgia",control_musickit,30.03,0.983
+combined,"StatTrak™ Music Kit | Beartooth, Aggressive",control_musickit,0.86,1.0
+combined,"StatTrak™ Music Kit | Beartooth, Disgusting",control_musickit,5.54,0.983
+combined,"StatTrak™ Music Kit | Ben Bromfield, Rabbit Hole",control_musickit,1.28,1.0
+combined,"StatTrak™ Music Kit | Blitz Kids, The Good Youth",control_musickit,17.36,1.0
+combined,"StatTrak™ Music Kit | Chipzel, ~Yellow Magic~",control_musickit,2.27,1.0
+combined,"StatTrak™ Music Kit | DRYDEN, Feel The Power",control_musickit,3.06,1.0
+combined,"StatTrak™ Music Kit | Damjan Mravunac, The Talos Principle",control_musickit,7.19,0.841
+combined,"StatTrak™ Music Kit | Daniel Sadowski, Crimson Assault",control_musickit,6.03,0.761
+combined,"StatTrak™ Music Kit | Daniel Sadowski, Dead Shot",control_musickit,1.19,1.0
+combined,"StatTrak™ Music Kit | Daniel Sadowski, Eye of the Dragon",control_musickit,2.67,1.0
+combined,"StatTrak™ Music Kit | Daniel Sadowski, The 8-Bit Kit",control_musickit,5.78,0.994
+combined,"StatTrak™ Music Kit | Daniel Sadowski, Total Domination",control_musickit,5.98,0.983
+combined,"StatTrak™ Music Kit | Darude, Moments CSGO",control_musickit,5.14,0.96
+combined,"StatTrak™ Music Kit | Denzel Curry, ULTIMATE",control_musickit,7.06,1.0
+combined,"StatTrak™ Music Kit | Dren McDonald, Coffee! Kofe! Kahveh!",control_musickit,4.59,1.0
+combined,"StatTrak™ Music Kit | Dren, Death's Head Demolition",control_musickit,4.73,0.608
+combined,"StatTrak™ Music Kit | Dren, Gunman Taco Truck",control_musickit,31.69,1.0
+combined,"StatTrak™ Music Kit | Feed Me, High Noon",control_musickit,6.58,1.0
+combined,"StatTrak™ Music Kit | Freaky DNA, Vici",control_musickit,13.35,0.983
+combined,"StatTrak™ Music Kit | Humanity's Last Breath, Void",control_musickit,1.29,1.0
+combined,"StatTrak™ Music Kit | Hundredth, FREE",control_musickit,0.84,1.0
+combined,"StatTrak™ Music Kit | ISOxo, inhuman",control_musickit,9.83,1.0
+combined,"StatTrak™ Music Kit | Ian Hultquist, Lion's Mouth",control_musickit,5.98,0.716
+combined,"StatTrak™ Music Kit | Jesse Harlin, Astro Bellum",control_musickit,2.99,0.994
+combined,"StatTrak™ Music Kit | Juelz, Shooters",control_musickit,1.67,1.0
+combined,"StatTrak™ Music Kit | KILL SCRIPT, All Night",control_musickit,5.77,1.0
+combined,"StatTrak™ Music Kit | Kelly Bailey, Hazardous Environments",control_musickit,6.88,0.812
+combined,"StatTrak™ Music Kit | Ki:Theory, MOLOTOV",control_musickit,4.96,0.778
+combined,"StatTrak™ Music Kit | Knock2, Make U SWEAT!",control_musickit,2.48,1.0
+combined,"StatTrak™ Music Kit | Knock2, dashstar*",control_musickit,26.79,1.0
+combined,"StatTrak™ Music Kit | Laura Shigihara: Work Hard, Play Hard",control_musickit,4.89,0.949
+combined,"StatTrak™ Music Kit | Lennie Moore, Java Havana Funkaloo",control_musickit,7.69,1.0
+combined,"StatTrak™ Music Kit | Mateo Messina, For No Mankind",control_musickit,4.55,0.761
+combined,"StatTrak™ Music Kit | Matt Lange, IsoRhythm",control_musickit,5.25,0.898
+combined,"StatTrak™ Music Kit | Matt Levine, Agency",control_musickit,4.28,1.0
+combined,"StatTrak™ Music Kit | Matt Levine, Drifter",control_musickit,2.56,1.0
+combined,"StatTrak™ Music Kit | Meechy Darko, Gothic Luxury",control_musickit,4.16,1.0
+combined,"StatTrak™ Music Kit | Michael Bross, Invasion!",control_musickit,5.45,0.71
+combined,"StatTrak™ Music Kit | Midnight Riders, All I Want for Christmas",control_musickit,6.23,0.989
+combined,"StatTrak™ Music Kit | Mord Fustang, Diamonds",control_musickit,4.67,1.0
+combined,"StatTrak™ Music Kit | Neck Deep, Life's Not Out To Get You",control_musickit,19.14,1.0
+combined,"StatTrak™ Music Kit | Neck Deep, The Lowlife Pack",control_musickit,7.2,1.0
+combined,"StatTrak™ Music Kit | New Beat Fund, Sponge Fingerz",control_musickit,6.28,0.966
+combined,"StatTrak™ Music Kit | Noisia, Sharpened",control_musickit,6.62,0.847
+combined,"StatTrak™ Music Kit | Perfect World, Ay Hey",control_musickit,6.94,1.0
+combined,"StatTrak™ Music Kit | Perfect World, 花脸 Hua Lian (Painted Face)",control_musickit,6.6,1.0
+combined,"StatTrak™ Music Kit | Proxy, Battlepack",control_musickit,4.69,0.926
+combined,"StatTrak™ Music Kit | Rad Cat, Reason",control_musickit,3.4,1.0
+combined,"StatTrak™ Music Kit | Roam, Backbone",control_musickit,2.18,1.0
+combined,"StatTrak™ Music Kit | Robert Allaire, Insurgency",control_musickit,6.8,0.869
+combined,"StatTrak™ Music Kit | Sam Marshall, Bodacious",control_musickit,1.85,1.0
+combined,"StatTrak™ Music Kit | Sam Marshall, Clutch",control_musickit,1.57,1.0
+combined,"StatTrak™ Music Kit | Sarah Schachner, KOLIBRI",control_musickit,12.3,0.96
+combined,"StatTrak™ Music Kit | Sasha, LNOE",control_musickit,4.77,0.67
+combined,"StatTrak™ Music Kit | Scarlxrd, CHAIN$AW.LXADXUT.",control_musickit,4.48,1.0
+combined,"StatTrak™ Music Kit | Scarlxrd: King, Scar",control_musickit,4.66,1.0
+combined,"StatTrak™ Music Kit | Sean Murray, A*D*8",control_musickit,4.4,0.642
+combined,"StatTrak™ Music Kit | Skog, II-Headshot",control_musickit,4.96,1.0
+combined,"StatTrak™ Music Kit | Skog, III-Arena",control_musickit,0.81,1.0
+combined,"StatTrak™ Music Kit | Skog, Metal",control_musickit,7.53,0.938
+combined,"StatTrak™ Music Kit | Sullivan King, Lock Me Up",control_musickit,1.76,1.0
+combined,"StatTrak™ Music Kit | TWERL and Ekko & Sidetrack, Under Bright Lights",control_musickit,17.38,1.0
+combined,"StatTrak™ Music Kit | The Verkkars & n0thing, Flashbang Dance",control_musickit,6.4,1.0
+combined,"StatTrak™ Music Kit | The Verkkars, EZ4ENCE",control_musickit,7.29,1.0
+combined,"StatTrak™ Music Kit | Tim Huling, Devil's Paintbrush",control_musickit,2.7,1.0
+combined,"StatTrak™ Music Kit | Tim Huling, Neo Noir",control_musickit,1.05,1.0
+combined,"StatTrak™ Music Kit | Tree Adams and Ben Bromfield, M.U.D.D. FORCE",control_musickit,0.91,1.0
+combined,"StatTrak™ Music Kit | Tree Adams, Seventh Moon",control_musickit,2.4,1.0
+combined,"StatTrak™ Music Kit | Troels Folmann, Uber Blasto Phone",control_musickit,5.05,0.699
+combined,"StatTrak™ Music Kit | Twin Atlantic, GLA",control_musickit,1.04,1.0
+combined,"StatTrak™ Music Kit | Various Artists, Hotline Miami",control_musickit,6.7,1.0
+combined,"StatTrak™ Music Kit | bbno$, u mad!",control_musickit,7.02,1.0
+combined,Sticker Capsule,capsule_sticker,0.61,1.0
+combined,Sticker Capsule 2,capsule_sticker,12.78,1.0
+combined,Stockholm 2021 Challengers Sticker Capsule,capsule_sticker,2.8,1.0
+combined,Stockholm 2021 Contenders Sticker Capsule,capsule_sticker,2.82,1.0
+combined,Stockholm 2021 Legends Sticker Capsule,capsule_sticker,0.9,1.0
+combined,Street Soldier | Phoenix,control_agent,13.33,1.0
+combined,The Elite Mr. Muhlik | Elite Crew,control_agent,11.9,1.0
+combined,Trapper Aggressor | Guerrilla Warfare,control_agent,25.53,1.0
+combined,Trapper | Guerrilla Warfare,control_agent,30.47,1.0
+combined,Vypa Sista of the Revolution | Guerrilla Warfare,control_agent,58.48,1.0

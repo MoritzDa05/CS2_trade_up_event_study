@@ -1,0 +1,795 @@
+15:52:45 [INFO] Itemliste: 5249 | bereits erledigt: 0 | zu holen: 5249
+15:52:45 [INFO] Geschaetzte Laufzeit (ohne Backoffs): ~437 Minuten.
+15:52:45 [INFO] Pruefe Cookie mit Probe-Item: AK-47 | Redline (Field-Tested)
+15:52:46 [INFO] Cookie OK. Waehrung laut Steam: prefix='' suffix='€'  (1=USD erwartet -> '$')
+15:53:39 [INFO] [10/5249] ok=10 empty=0 not_found=0 failed=0 | 0.9 min gelaufen
+15:54:34 [INFO] [20/5249] ok=20 empty=0 not_found=0 failed=0 | 1.8 min gelaufen
+15:55:29 [INFO] [30/5249] ok=30 empty=0 not_found=0 failed=0 | 2.7 min gelaufen
+15:56:19 [INFO] [40/5249] ok=40 empty=0 not_found=0 failed=0 | 3.5 min gelaufen
+15:57:13 [INFO] [50/5249] ok=50 empty=0 not_found=0 failed=0 | 4.4 min gelaufen
+15:58:04 [INFO] [60/5249] ok=60 empty=0 not_found=0 failed=0 | 5.3 min gelaufen
+15:58:56 [INFO] [70/5249] ok=70 empty=0 not_found=0 failed=0 | 6.2 min gelaufen
+15:59:48 [INFO] [80/5249] ok=80 empty=0 not_found=0 failed=0 | 7.0 min gelaufen
+16:00:43 [INFO] [90/5249] ok=90 empty=0 not_found=0 failed=0 | 8.0 min gelaufen
+16:01:36 [INFO] [100/5249] ok=100 empty=0 not_found=0 failed=0 | 8.8 min gelaufen
+16:02:27 [INFO] [110/5249] ok=110 empty=0 not_found=0 failed=0 | 9.7 min gelaufen
+16:03:22 [INFO] [120/5249] ok=120 empty=0 not_found=0 failed=0 | 10.6 min gelaufen
+16:04:16 [INFO] [130/5249] ok=130 empty=0 not_found=0 failed=0 | 11.5 min gelaufen
+16:05:09 [INFO] [140/5249] ok=140 empty=0 not_found=0 failed=0 | 12.4 min gelaufen
+16:06:02 [INFO] [150/5249] ok=150 empty=0 not_found=0 failed=0 | 13.3 min gelaufen
+16:06:52 [INFO] [160/5249] ok=160 empty=0 not_found=0 failed=0 | 14.1 min gelaufen
+16:07:44 [INFO] [170/5249] ok=170 empty=0 not_found=0 failed=0 | 15.0 min gelaufen
+16:08:36 [INFO] [180/5249] ok=180 empty=0 not_found=0 failed=0 | 15.8 min gelaufen
+16:09:28 [INFO] [190/5249] ok=190 empty=0 not_found=0 failed=0 | 16.7 min gelaufen
+16:10:20 [INFO] [200/5249] ok=200 empty=0 not_found=0 failed=0 | 17.6 min gelaufen
+16:11:13 [INFO] [210/5249] ok=210 empty=0 not_found=0 failed=0 | 18.5 min gelaufen
+16:12:06 [INFO] [220/5249] ok=220 empty=0 not_found=0 failed=0 | 19.3 min gelaufen
+16:12:59 [INFO] [230/5249] ok=230 empty=0 not_found=0 failed=0 | 20.2 min gelaufen
+16:13:54 [INFO] [240/5249] ok=240 empty=0 not_found=0 failed=0 | 21.1 min gelaufen
+16:14:47 [INFO] [250/5249] ok=250 empty=0 not_found=0 failed=0 | 22.0 min gelaufen
+16:15:38 [INFO] [260/5249] ok=260 empty=0 not_found=0 failed=0 | 22.9 min gelaufen
+16:16:30 [INFO] [270/5249] ok=270 empty=0 not_found=0 failed=0 | 23.7 min gelaufen
+16:17:21 [INFO] [280/5249] ok=280 empty=0 not_found=0 failed=0 | 24.6 min gelaufen
+16:18:15 [INFO] [290/5249] ok=290 empty=0 not_found=0 failed=0 | 25.5 min gelaufen
+16:19:11 [INFO] [300/5249] ok=300 empty=0 not_found=0 failed=0 | 26.4 min gelaufen
+16:20:06 [INFO] [310/5249] ok=310 empty=0 not_found=0 failed=0 | 27.3 min gelaufen
+16:20:58 [INFO] [320/5249] ok=320 empty=0 not_found=0 failed=0 | 28.2 min gelaufen
+16:21:51 [INFO] [330/5249] ok=330 empty=0 not_found=0 failed=0 | 29.1 min gelaufen
+16:22:43 [INFO] [340/5249] ok=340 empty=0 not_found=0 failed=0 | 30.0 min gelaufen
+16:23:36 [INFO] [350/5249] ok=350 empty=0 not_found=0 failed=0 | 30.8 min gelaufen
+16:24:28 [INFO] [360/5249] ok=360 empty=0 not_found=0 failed=0 | 31.7 min gelaufen
+16:25:21 [INFO] [370/5249] ok=370 empty=0 not_found=0 failed=0 | 32.6 min gelaufen
+16:26:14 [INFO] [380/5249] ok=380 empty=0 not_found=0 failed=0 | 33.5 min gelaufen
+16:27:09 [INFO] [390/5249] ok=390 empty=0 not_found=0 failed=0 | 34.4 min gelaufen
+16:28:04 [INFO] [400/5249] ok=400 empty=0 not_found=0 failed=0 | 35.3 min gelaufen
+16:28:56 [INFO] [410/5249] ok=410 empty=0 not_found=0 failed=0 | 36.2 min gelaufen
+16:29:46 [INFO] [420/5249] ok=420 empty=0 not_found=0 failed=0 | 37.0 min gelaufen
+16:30:37 [INFO] [430/5249] ok=430 empty=0 not_found=0 failed=0 | 37.9 min gelaufen
+16:31:30 [INFO] [440/5249] ok=440 empty=0 not_found=0 failed=0 | 38.7 min gelaufen
+16:32:20 [INFO] [450/5249] ok=450 empty=0 not_found=0 failed=0 | 39.6 min gelaufen
+16:33:14 [INFO] [460/5249] ok=460 empty=0 not_found=0 failed=0 | 40.5 min gelaufen
+16:34:07 [INFO] [470/5249] ok=470 empty=0 not_found=0 failed=0 | 41.4 min gelaufen
+16:35:03 [INFO] [480/5249] ok=480 empty=0 not_found=0 failed=0 | 42.3 min gelaufen
+16:35:56 [INFO] [490/5249] ok=490 empty=0 not_found=0 failed=0 | 43.2 min gelaufen
+16:36:50 [INFO] [500/5249] ok=500 empty=0 not_found=0 failed=0 | 44.1 min gelaufen
+16:37:45 [INFO] [510/5249] ok=510 empty=0 not_found=0 failed=0 | 45.0 min gelaufen
+16:38:39 [INFO] [520/5249] ok=520 empty=0 not_found=0 failed=0 | 45.9 min gelaufen
+16:39:32 [INFO] [530/5249] ok=530 empty=0 not_found=0 failed=0 | 46.8 min gelaufen
+16:40:20 [INFO] [540/5249] ok=540 empty=0 not_found=0 failed=0 | 47.6 min gelaufen
+16:41:13 [INFO] [550/5249] ok=550 empty=0 not_found=0 failed=0 | 48.5 min gelaufen
+16:42:08 [INFO] [560/5249] ok=560 empty=0 not_found=0 failed=0 | 49.4 min gelaufen
+16:43:01 [INFO] [570/5249] ok=570 empty=0 not_found=0 failed=0 | 50.2 min gelaufen
+16:43:57 [INFO] [580/5249] ok=580 empty=0 not_found=0 failed=0 | 51.2 min gelaufen
+16:44:51 [INFO] [590/5249] ok=590 empty=0 not_found=0 failed=0 | 52.1 min gelaufen
+16:45:44 [INFO] [600/5249] ok=600 empty=0 not_found=0 failed=0 | 53.0 min gelaufen
+16:46:39 [INFO] [610/5249] ok=610 empty=0 not_found=0 failed=0 | 53.9 min gelaufen
+16:47:34 [INFO] [620/5249] ok=620 empty=0 not_found=0 failed=0 | 54.8 min gelaufen
+16:48:27 [INFO] [630/5249] ok=630 empty=0 not_found=0 failed=0 | 55.7 min gelaufen
+16:49:23 [INFO] [640/5249] ok=640 empty=0 not_found=0 failed=0 | 56.6 min gelaufen
+16:50:16 [INFO] [650/5249] ok=650 empty=0 not_found=0 failed=0 | 57.5 min gelaufen
+16:51:12 [INFO] [660/5249] ok=660 empty=0 not_found=0 failed=0 | 58.4 min gelaufen
+16:52:03 [INFO] [670/5249] ok=670 empty=0 not_found=0 failed=0 | 59.3 min gelaufen
+16:52:57 [INFO] [680/5249] ok=680 empty=0 not_found=0 failed=0 | 60.2 min gelaufen
+16:53:49 [INFO] [690/5249] ok=690 empty=0 not_found=0 failed=0 | 61.0 min gelaufen
+16:54:46 [INFO] [700/5249] ok=700 empty=0 not_found=0 failed=0 | 62.0 min gelaufen
+16:55:38 [INFO] [710/5249] ok=710 empty=0 not_found=0 failed=0 | 62.9 min gelaufen
+16:56:33 [INFO] [720/5249] ok=720 empty=0 not_found=0 failed=0 | 63.8 min gelaufen
+16:57:24 [INFO] [730/5249] ok=730 empty=0 not_found=0 failed=0 | 64.6 min gelaufen
+16:58:18 [INFO] [740/5249] ok=740 empty=0 not_found=0 failed=0 | 65.5 min gelaufen
+16:59:09 [INFO] [750/5249] ok=750 empty=0 not_found=0 failed=0 | 66.4 min gelaufen
+17:00:03 [INFO] [760/5249] ok=760 empty=0 not_found=0 failed=0 | 67.3 min gelaufen
+17:00:55 [INFO] [770/5249] ok=770 empty=0 not_found=0 failed=0 | 68.2 min gelaufen
+17:01:48 [INFO] [780/5249] ok=780 empty=0 not_found=0 failed=0 | 69.0 min gelaufen
+17:02:42 [INFO] [790/5249] ok=790 empty=0 not_found=0 failed=0 | 69.9 min gelaufen
+17:03:36 [INFO] [800/5249] ok=800 empty=0 not_found=0 failed=0 | 70.8 min gelaufen
+17:04:31 [INFO] [810/5249] ok=810 empty=0 not_found=0 failed=0 | 71.7 min gelaufen
+17:05:25 [INFO] [820/5249] ok=820 empty=0 not_found=0 failed=0 | 72.7 min gelaufen
+17:06:19 [INFO] [830/5249] ok=830 empty=0 not_found=0 failed=0 | 73.6 min gelaufen
+17:07:11 [INFO] [840/5249] ok=840 empty=0 not_found=0 failed=0 | 74.4 min gelaufen
+17:08:06 [INFO] [850/5249] ok=850 empty=0 not_found=0 failed=0 | 75.3 min gelaufen
+17:08:58 [INFO] [860/5249] ok=860 empty=0 not_found=0 failed=0 | 76.2 min gelaufen
+17:09:50 [INFO] [870/5249] ok=870 empty=0 not_found=0 failed=0 | 77.1 min gelaufen
+17:10:43 [INFO] [880/5249] ok=880 empty=0 not_found=0 failed=0 | 78.0 min gelaufen
+17:11:36 [INFO] [890/5249] ok=890 empty=0 not_found=0 failed=0 | 78.8 min gelaufen
+17:12:26 [INFO] [900/5249] ok=900 empty=0 not_found=0 failed=0 | 79.7 min gelaufen
+17:13:21 [INFO] [910/5249] ok=910 empty=0 not_found=0 failed=0 | 80.6 min gelaufen
+17:14:14 [INFO] [920/5249] ok=920 empty=0 not_found=0 failed=0 | 81.5 min gelaufen
+17:15:08 [INFO] [930/5249] ok=930 empty=0 not_found=0 failed=0 | 82.4 min gelaufen
+17:16:03 [INFO] [940/5249] ok=940 empty=0 not_found=0 failed=0 | 83.3 min gelaufen
+17:16:57 [INFO] [950/5249] ok=950 empty=0 not_found=0 failed=0 | 84.2 min gelaufen
+17:17:53 [INFO] [960/5249] ok=960 empty=0 not_found=0 failed=0 | 85.1 min gelaufen
+17:18:47 [INFO] [970/5249] ok=970 empty=0 not_found=0 failed=0 | 86.0 min gelaufen
+17:19:41 [INFO] [980/5249] ok=980 empty=0 not_found=0 failed=0 | 86.9 min gelaufen
+17:20:32 [INFO] [990/5249] ok=990 empty=0 not_found=0 failed=0 | 87.8 min gelaufen
+17:21:23 [INFO] [1000/5249] ok=1000 empty=0 not_found=0 failed=0 | 88.6 min gelaufen
+17:22:16 [INFO] [1010/5249] ok=1010 empty=0 not_found=0 failed=0 | 89.5 min gelaufen
+17:23:08 [INFO] [1020/5249] ok=1020 empty=0 not_found=0 failed=0 | 90.4 min gelaufen
+17:24:01 [INFO] [1030/5249] ok=1030 empty=0 not_found=0 failed=0 | 91.3 min gelaufen
+17:24:54 [INFO] [1040/5249] ok=1040 empty=0 not_found=0 failed=0 | 92.1 min gelaufen
+17:25:44 [INFO] [1050/5249] ok=1050 empty=0 not_found=0 failed=0 | 93.0 min gelaufen
+17:26:36 [INFO] [1060/5249] ok=1060 empty=0 not_found=0 failed=0 | 93.8 min gelaufen
+17:27:28 [INFO] [1070/5249] ok=1070 empty=0 not_found=0 failed=0 | 94.7 min gelaufen
+17:28:20 [INFO] [1080/5249] ok=1080 empty=0 not_found=0 failed=0 | 95.6 min gelaufen
+17:29:10 [INFO] [1090/5249] ok=1090 empty=0 not_found=0 failed=0 | 96.4 min gelaufen
+17:30:03 [INFO] [1100/5249] ok=1100 empty=0 not_found=0 failed=0 | 97.3 min gelaufen
+17:30:54 [INFO] [1110/5249] ok=1110 empty=0 not_found=0 failed=0 | 98.1 min gelaufen
+17:31:48 [INFO] [1120/5249] ok=1120 empty=0 not_found=0 failed=0 | 99.0 min gelaufen
+17:32:39 [INFO] [1130/5249] ok=1130 empty=0 not_found=0 failed=0 | 99.9 min gelaufen
+17:33:33 [INFO] [1140/5249] ok=1140 empty=0 not_found=0 failed=0 | 100.8 min gelaufen
+17:34:25 [INFO] [1150/5249] ok=1150 empty=0 not_found=0 failed=0 | 101.6 min gelaufen
+17:35:17 [INFO] [1160/5249] ok=1160 empty=0 not_found=0 failed=0 | 102.5 min gelaufen
+17:36:12 [INFO] [1170/5249] ok=1170 empty=0 not_found=0 failed=0 | 103.4 min gelaufen
+17:37:04 [INFO] [1180/5249] ok=1180 empty=0 not_found=0 failed=0 | 104.3 min gelaufen
+17:37:56 [INFO] [1190/5249] ok=1190 empty=0 not_found=0 failed=0 | 105.2 min gelaufen
+17:38:49 [INFO] [1200/5249] ok=1200 empty=0 not_found=0 failed=0 | 106.0 min gelaufen
+17:39:43 [INFO] [1210/5249] ok=1210 empty=0 not_found=0 failed=0 | 106.9 min gelaufen
+17:40:33 [INFO] [1220/5249] ok=1220 empty=0 not_found=0 failed=0 | 107.8 min gelaufen
+17:41:29 [INFO] [1230/5249] ok=1230 empty=0 not_found=0 failed=0 | 108.7 min gelaufen
+17:42:24 [INFO] [1240/5249] ok=1240 empty=0 not_found=0 failed=0 | 109.6 min gelaufen
+17:43:19 [INFO] [1250/5249] ok=1250 empty=0 not_found=0 failed=0 | 110.6 min gelaufen
+17:44:11 [INFO] [1260/5249] ok=1260 empty=0 not_found=0 failed=0 | 111.4 min gelaufen
+17:45:04 [INFO] [1270/5249] ok=1270 empty=0 not_found=0 failed=0 | 112.3 min gelaufen
+17:45:57 [INFO] [1280/5249] ok=1280 empty=0 not_found=0 failed=0 | 113.2 min gelaufen
+17:46:46 [INFO] [1290/5249] ok=1290 empty=0 not_found=0 failed=0 | 114.0 min gelaufen
+17:47:37 [INFO] [1300/5249] ok=1300 empty=0 not_found=0 failed=0 | 114.8 min gelaufen
+17:48:28 [INFO] [1310/5249] ok=1310 empty=0 not_found=0 failed=0 | 115.7 min gelaufen
+17:49:17 [INFO] [1320/5249] ok=1320 empty=0 not_found=0 failed=0 | 116.5 min gelaufen
+17:50:06 [INFO] [1330/5249] ok=1330 empty=0 not_found=0 failed=0 | 117.3 min gelaufen
+17:51:03 [INFO] [1340/5249] ok=1340 empty=0 not_found=0 failed=0 | 118.3 min gelaufen
+17:51:55 [INFO] [1350/5249] ok=1350 empty=0 not_found=0 failed=0 | 119.2 min gelaufen
+17:52:48 [INFO] [1360/5249] ok=1360 empty=0 not_found=0 failed=0 | 120.0 min gelaufen
+17:53:39 [INFO] [1370/5249] ok=1370 empty=0 not_found=0 failed=0 | 120.9 min gelaufen
+17:54:32 [INFO] [1380/5249] ok=1380 empty=0 not_found=0 failed=0 | 121.8 min gelaufen
+17:55:27 [INFO] [1390/5249] ok=1390 empty=0 not_found=0 failed=0 | 122.7 min gelaufen
+17:56:21 [INFO] [1400/5249] ok=1400 empty=0 not_found=0 failed=0 | 123.6 min gelaufen
+17:57:13 [INFO] [1410/5249] ok=1410 empty=0 not_found=0 failed=0 | 124.4 min gelaufen
+17:58:05 [INFO] [1420/5249] ok=1420 empty=0 not_found=0 failed=0 | 125.3 min gelaufen
+17:58:57 [INFO] [1430/5249] ok=1430 empty=0 not_found=0 failed=0 | 126.2 min gelaufen
+17:59:52 [INFO] [1440/5249] ok=1440 empty=0 not_found=0 failed=0 | 127.1 min gelaufen
+18:00:44 [INFO] [1450/5249] ok=1450 empty=0 not_found=0 failed=0 | 128.0 min gelaufen
+18:01:40 [INFO] [1460/5249] ok=1460 empty=0 not_found=0 failed=0 | 128.9 min gelaufen
+18:02:32 [INFO] [1470/5249] ok=1470 empty=0 not_found=0 failed=0 | 129.8 min gelaufen
+18:03:27 [INFO] [1480/5249] ok=1480 empty=0 not_found=0 failed=0 | 130.7 min gelaufen
+18:04:18 [INFO] [1490/5249] ok=1490 empty=0 not_found=0 failed=0 | 131.5 min gelaufen
+18:05:13 [INFO] [1500/5249] ok=1500 empty=0 not_found=0 failed=0 | 132.4 min gelaufen
+18:06:05 [INFO] [1510/5249] ok=1510 empty=0 not_found=0 failed=0 | 133.3 min gelaufen
+18:06:59 [INFO] [1520/5249] ok=1520 empty=0 not_found=0 failed=0 | 134.2 min gelaufen
+18:07:53 [INFO] [1530/5249] ok=1530 empty=0 not_found=0 failed=0 | 135.1 min gelaufen
+18:08:45 [INFO] [1540/5249] ok=1540 empty=0 not_found=0 failed=0 | 136.0 min gelaufen
+18:09:39 [INFO] [1550/5249] ok=1550 empty=0 not_found=0 failed=0 | 136.9 min gelaufen
+18:10:34 [INFO] [1560/5249] ok=1560 empty=0 not_found=0 failed=0 | 137.8 min gelaufen
+18:11:28 [INFO] [1570/5249] ok=1570 empty=0 not_found=0 failed=0 | 138.7 min gelaufen
+18:12:22 [INFO] [1580/5249] ok=1580 empty=0 not_found=0 failed=0 | 139.6 min gelaufen
+18:13:15 [INFO] [1590/5249] ok=1590 empty=0 not_found=0 failed=0 | 140.5 min gelaufen
+18:14:07 [INFO] [1600/5249] ok=1600 empty=0 not_found=0 failed=0 | 141.4 min gelaufen
+18:14:58 [INFO] [1610/5249] ok=1610 empty=0 not_found=0 failed=0 | 142.2 min gelaufen
+18:15:50 [INFO] [1620/5249] ok=1620 empty=0 not_found=0 failed=0 | 143.1 min gelaufen
+18:16:42 [INFO] [1630/5249] ok=1630 empty=0 not_found=0 failed=0 | 143.9 min gelaufen
+18:17:36 [INFO] [1640/5249] ok=1640 empty=0 not_found=0 failed=0 | 144.8 min gelaufen
+18:18:31 [INFO] [1650/5249] ok=1650 empty=0 not_found=0 failed=0 | 145.8 min gelaufen
+18:19:25 [INFO] [1660/5249] ok=1660 empty=0 not_found=0 failed=0 | 146.7 min gelaufen
+18:20:19 [INFO] [1670/5249] ok=1670 empty=0 not_found=0 failed=0 | 147.6 min gelaufen
+18:21:11 [INFO] [1680/5249] ok=1680 empty=0 not_found=0 failed=0 | 148.4 min gelaufen
+18:22:05 [INFO] [1690/5249] ok=1690 empty=0 not_found=0 failed=0 | 149.3 min gelaufen
+18:22:58 [INFO] [1700/5249] ok=1700 empty=0 not_found=0 failed=0 | 150.2 min gelaufen
+18:23:49 [INFO] [1710/5249] ok=1710 empty=0 not_found=0 failed=0 | 151.1 min gelaufen
+18:24:42 [INFO] [1720/5249] ok=1720 empty=0 not_found=0 failed=0 | 151.9 min gelaufen
+18:25:34 [INFO] [1730/5249] ok=1730 empty=0 not_found=0 failed=0 | 152.8 min gelaufen
+18:26:26 [INFO] [1740/5249] ok=1740 empty=0 not_found=0 failed=0 | 153.7 min gelaufen
+18:27:17 [INFO] [1750/5249] ok=1750 empty=0 not_found=0 failed=0 | 154.5 min gelaufen
+18:28:12 [INFO] [1760/5249] ok=1760 empty=0 not_found=0 failed=0 | 155.4 min gelaufen
+18:29:03 [INFO] [1770/5249] ok=1770 empty=0 not_found=0 failed=0 | 156.3 min gelaufen
+18:29:57 [INFO] [1780/5249] ok=1780 empty=0 not_found=0 failed=0 | 157.2 min gelaufen
+18:30:51 [INFO] [1790/5249] ok=1790 empty=0 not_found=0 failed=0 | 158.1 min gelaufen
+18:31:44 [INFO] [1800/5249] ok=1800 empty=0 not_found=0 failed=0 | 159.0 min gelaufen
+18:32:37 [INFO] [1810/5249] ok=1810 empty=0 not_found=0 failed=0 | 159.9 min gelaufen
+18:33:29 [INFO] [1820/5249] ok=1820 empty=0 not_found=0 failed=0 | 160.7 min gelaufen
+18:34:21 [INFO] [1830/5249] ok=1830 empty=0 not_found=0 failed=0 | 161.6 min gelaufen
+18:35:14 [INFO] [1840/5249] ok=1840 empty=0 not_found=0 failed=0 | 162.5 min gelaufen
+18:36:06 [INFO] [1850/5249] ok=1850 empty=0 not_found=0 failed=0 | 163.3 min gelaufen
+18:36:57 [INFO] [1860/5249] ok=1860 empty=0 not_found=0 failed=0 | 164.2 min gelaufen
+18:37:47 [INFO] [1870/5249] ok=1870 empty=0 not_found=0 failed=0 | 165.0 min gelaufen
+18:38:42 [INFO] [1880/5249] ok=1880 empty=0 not_found=0 failed=0 | 165.9 min gelaufen
+18:39:40 [INFO] [1890/5249] ok=1890 empty=0 not_found=0 failed=0 | 166.9 min gelaufen
+18:40:33 [INFO] [1900/5249] ok=1900 empty=0 not_found=0 failed=0 | 167.8 min gelaufen
+18:41:25 [INFO] [1910/5249] ok=1910 empty=0 not_found=0 failed=0 | 168.7 min gelaufen
+18:42:20 [INFO] [1920/5249] ok=1920 empty=0 not_found=0 failed=0 | 169.6 min gelaufen
+18:43:14 [INFO] [1930/5249] ok=1930 empty=0 not_found=0 failed=0 | 170.5 min gelaufen
+18:44:08 [INFO] [1940/5249] ok=1940 empty=0 not_found=0 failed=0 | 171.4 min gelaufen
+18:45:03 [INFO] [1950/5249] ok=1950 empty=0 not_found=0 failed=0 | 172.3 min gelaufen
+18:45:56 [INFO] [1960/5249] ok=1960 empty=0 not_found=0 failed=0 | 173.2 min gelaufen
+18:46:48 [INFO] [1970/5249] ok=1970 empty=0 not_found=0 failed=0 | 174.0 min gelaufen
+18:47:41 [INFO] [1980/5249] ok=1980 empty=0 not_found=0 failed=0 | 174.9 min gelaufen
+18:48:36 [INFO] [1990/5249] ok=1990 empty=0 not_found=0 failed=0 | 175.8 min gelaufen
+18:49:29 [INFO] [2000/5249] ok=2000 empty=0 not_found=0 failed=0 | 176.7 min gelaufen
+18:50:19 [INFO] [2010/5249] ok=2010 empty=0 not_found=0 failed=0 | 177.6 min gelaufen
+18:51:11 [INFO] [2020/5249] ok=2020 empty=0 not_found=0 failed=0 | 178.4 min gelaufen
+18:52:04 [INFO] [2030/5249] ok=2030 empty=0 not_found=0 failed=0 | 179.3 min gelaufen
+18:52:53 [INFO] [2040/5249] ok=2040 empty=0 not_found=0 failed=0 | 180.1 min gelaufen
+18:53:46 [INFO] [2050/5249] ok=2050 empty=0 not_found=0 failed=0 | 181.0 min gelaufen
+18:54:43 [INFO] [2060/5249] ok=2060 empty=0 not_found=0 failed=0 | 181.9 min gelaufen
+18:55:38 [INFO] [2070/5249] ok=2070 empty=0 not_found=0 failed=0 | 182.9 min gelaufen
+18:56:32 [INFO] [2080/5249] ok=2080 empty=0 not_found=0 failed=0 | 183.8 min gelaufen
+18:57:26 [INFO] [2090/5249] ok=2090 empty=0 not_found=0 failed=0 | 184.7 min gelaufen
+18:58:18 [INFO] [2100/5249] ok=2100 empty=0 not_found=0 failed=0 | 185.5 min gelaufen
+18:59:12 [INFO] [2110/5249] ok=2110 empty=0 not_found=0 failed=0 | 186.4 min gelaufen
+19:00:05 [INFO] [2120/5249] ok=2120 empty=0 not_found=0 failed=0 | 187.3 min gelaufen
+19:00:56 [INFO] [2130/5249] ok=2130 empty=0 not_found=0 failed=0 | 188.2 min gelaufen
+19:01:47 [INFO] [2140/5249] ok=2140 empty=0 not_found=0 failed=0 | 189.0 min gelaufen
+19:02:43 [INFO] [2150/5249] ok=2150 empty=0 not_found=0 failed=0 | 190.0 min gelaufen
+19:03:38 [INFO] [2160/5249] ok=2160 empty=0 not_found=0 failed=0 | 190.9 min gelaufen
+19:04:33 [INFO] [2170/5249] ok=2170 empty=0 not_found=0 failed=0 | 191.8 min gelaufen
+19:05:28 [INFO] [2180/5249] ok=2180 empty=0 not_found=0 failed=0 | 192.7 min gelaufen
+19:06:21 [INFO] [2190/5249] ok=2190 empty=0 not_found=0 failed=0 | 193.6 min gelaufen
+19:07:14 [INFO] [2200/5249] ok=2200 empty=0 not_found=0 failed=0 | 194.5 min gelaufen
+19:08:07 [INFO] [2210/5249] ok=2210 empty=0 not_found=0 failed=0 | 195.4 min gelaufen
+19:09:00 [INFO] [2220/5249] ok=2220 empty=0 not_found=0 failed=0 | 196.2 min gelaufen
+19:09:52 [INFO] [2230/5249] ok=2230 empty=0 not_found=0 failed=0 | 197.1 min gelaufen
+19:10:43 [INFO] [2240/5249] ok=2240 empty=0 not_found=0 failed=0 | 197.9 min gelaufen
+19:11:38 [INFO] [2250/5249] ok=2250 empty=0 not_found=0 failed=0 | 198.9 min gelaufen
+19:12:34 [INFO] [2260/5249] ok=2260 empty=0 not_found=0 failed=0 | 199.8 min gelaufen
+19:13:25 [INFO] [2270/5249] ok=2270 empty=0 not_found=0 failed=0 | 200.7 min gelaufen
+19:14:20 [INFO] [2280/5249] ok=2280 empty=0 not_found=0 failed=0 | 201.6 min gelaufen
+19:15:14 [INFO] [2290/5249] ok=2290 empty=0 not_found=0 failed=0 | 202.5 min gelaufen
+19:16:06 [INFO] [2300/5249] ok=2300 empty=0 not_found=0 failed=0 | 203.3 min gelaufen
+19:17:01 [INFO] [2310/5249] ok=2310 empty=0 not_found=0 failed=0 | 204.3 min gelaufen
+19:17:52 [INFO] [2320/5249] ok=2320 empty=0 not_found=0 failed=0 | 205.1 min gelaufen
+19:18:46 [INFO] [2330/5249] ok=2330 empty=0 not_found=0 failed=0 | 206.0 min gelaufen
+19:19:40 [INFO] [2340/5249] ok=2340 empty=0 not_found=0 failed=0 | 206.9 min gelaufen
+19:20:32 [INFO] [2350/5249] ok=2350 empty=0 not_found=0 failed=0 | 207.8 min gelaufen
+19:21:26 [INFO] [2360/5249] ok=2360 empty=0 not_found=0 failed=0 | 208.7 min gelaufen
+19:22:18 [INFO] [2370/5249] ok=2370 empty=0 not_found=0 failed=0 | 209.5 min gelaufen
+19:23:10 [INFO] [2380/5249] ok=2380 empty=0 not_found=0 failed=0 | 210.4 min gelaufen
+19:24:02 [INFO] [2390/5249] ok=2390 empty=0 not_found=0 failed=0 | 211.3 min gelaufen
+19:24:56 [INFO] [2400/5249] ok=2400 empty=0 not_found=0 failed=0 | 212.2 min gelaufen
+19:25:50 [INFO] [2410/5249] ok=2410 empty=0 not_found=0 failed=0 | 213.1 min gelaufen
+19:26:46 [INFO] [2420/5249] ok=2420 empty=0 not_found=0 failed=0 | 214.0 min gelaufen
+19:27:38 [INFO] [2430/5249] ok=2430 empty=0 not_found=0 failed=0 | 214.9 min gelaufen
+19:28:31 [INFO] [2440/5249] ok=2440 empty=0 not_found=0 failed=0 | 215.7 min gelaufen
+19:29:23 [INFO] [2450/5249] ok=2450 empty=0 not_found=0 failed=0 | 216.6 min gelaufen
+19:30:13 [INFO] [2460/5249] ok=2460 empty=0 not_found=0 failed=0 | 217.5 min gelaufen
+19:31:08 [INFO] [2470/5249] ok=2470 empty=0 not_found=0 failed=0 | 218.4 min gelaufen
+19:32:03 [INFO] [2480/5249] ok=2480 empty=0 not_found=0 failed=0 | 219.3 min gelaufen
+19:32:54 [INFO] [2490/5249] ok=2490 empty=0 not_found=0 failed=0 | 220.1 min gelaufen
+19:33:47 [INFO] [2500/5249] ok=2500 empty=0 not_found=0 failed=0 | 221.0 min gelaufen
+19:34:41 [INFO] [2510/5249] ok=2510 empty=0 not_found=0 failed=0 | 221.9 min gelaufen
+19:35:34 [INFO] [2520/5249] ok=2520 empty=0 not_found=0 failed=0 | 222.8 min gelaufen
+19:36:29 [INFO] [2530/5249] ok=2530 empty=0 not_found=0 failed=0 | 223.7 min gelaufen
+19:37:18 [INFO] [2540/5249] ok=2540 empty=0 not_found=0 failed=0 | 224.5 min gelaufen
+19:38:12 [INFO] [2550/5249] ok=2550 empty=0 not_found=0 failed=0 | 225.4 min gelaufen
+19:39:06 [INFO] [2560/5249] ok=2560 empty=0 not_found=0 failed=0 | 226.3 min gelaufen
+19:39:57 [INFO] [2570/5249] ok=2570 empty=0 not_found=0 failed=0 | 227.2 min gelaufen
+19:40:53 [INFO] [2580/5249] ok=2580 empty=0 not_found=0 failed=0 | 228.1 min gelaufen
+19:41:45 [INFO] [2590/5249] ok=2590 empty=0 not_found=0 failed=0 | 229.0 min gelaufen
+19:42:38 [INFO] [2600/5249] ok=2600 empty=0 not_found=0 failed=0 | 229.9 min gelaufen
+19:43:33 [INFO] [2610/5249] ok=2610 empty=0 not_found=0 failed=0 | 230.8 min gelaufen
+19:44:24 [INFO] [2620/5249] ok=2620 empty=0 not_found=0 failed=0 | 231.6 min gelaufen
+19:45:15 [INFO] [2630/5249] ok=2630 empty=0 not_found=0 failed=0 | 232.5 min gelaufen
+19:46:09 [INFO] [2640/5249] ok=2640 empty=0 not_found=0 failed=0 | 233.4 min gelaufen
+19:47:02 [INFO] [2650/5249] ok=2650 empty=0 not_found=0 failed=0 | 234.3 min gelaufen
+19:47:53 [INFO] [2660/5249] ok=2660 empty=0 not_found=0 failed=0 | 235.1 min gelaufen
+19:48:45 [INFO] [2670/5249] ok=2670 empty=0 not_found=0 failed=0 | 236.0 min gelaufen
+19:49:38 [INFO] [2680/5249] ok=2680 empty=0 not_found=0 failed=0 | 236.9 min gelaufen
+19:50:30 [INFO] [2690/5249] ok=2690 empty=0 not_found=0 failed=0 | 237.7 min gelaufen
+19:51:22 [INFO] [2700/5249] ok=2700 empty=0 not_found=0 failed=0 | 238.6 min gelaufen
+19:52:12 [INFO] [2710/5249] ok=2710 empty=0 not_found=0 failed=0 | 239.4 min gelaufen
+19:53:01 [INFO] [2720/5249] ok=2720 empty=0 not_found=0 failed=0 | 240.3 min gelaufen
+19:53:55 [INFO] [2730/5249] ok=2730 empty=0 not_found=0 failed=0 | 241.2 min gelaufen
+19:54:50 [INFO] [2740/5249] ok=2740 empty=0 not_found=0 failed=0 | 242.1 min gelaufen
+19:55:46 [INFO] [2750/5249] ok=2750 empty=0 not_found=0 failed=0 | 243.0 min gelaufen
+19:56:37 [INFO] [2760/5249] ok=2760 empty=0 not_found=0 failed=0 | 243.9 min gelaufen
+19:57:30 [INFO] [2770/5249] ok=2770 empty=0 not_found=0 failed=0 | 244.7 min gelaufen
+19:58:24 [INFO] [2780/5249] ok=2780 empty=0 not_found=0 failed=0 | 245.6 min gelaufen
+19:59:17 [INFO] [2790/5249] ok=2790 empty=0 not_found=0 failed=0 | 246.5 min gelaufen
+20:00:09 [INFO] [2800/5249] ok=2800 empty=0 not_found=0 failed=0 | 247.4 min gelaufen
+20:01:02 [INFO] [2810/5249] ok=2810 empty=0 not_found=0 failed=0 | 248.3 min gelaufen
+20:01:52 [INFO] [2820/5249] ok=2820 empty=0 not_found=0 failed=0 | 249.1 min gelaufen
+20:02:44 [INFO] [2830/5249] ok=2830 empty=0 not_found=0 failed=0 | 250.0 min gelaufen
+20:03:35 [INFO] [2840/5249] ok=2840 empty=0 not_found=0 failed=0 | 250.8 min gelaufen
+20:04:28 [INFO] [2850/5249] ok=2850 empty=0 not_found=0 failed=0 | 251.7 min gelaufen
+20:05:20 [INFO] [2860/5249] ok=2860 empty=0 not_found=0 failed=0 | 252.6 min gelaufen
+20:06:14 [INFO] [2870/5249] ok=2870 empty=0 not_found=0 failed=0 | 253.5 min gelaufen
+20:07:08 [INFO] [2880/5249] ok=2880 empty=0 not_found=0 failed=0 | 254.4 min gelaufen
+20:08:02 [INFO] [2890/5249] ok=2890 empty=0 not_found=0 failed=0 | 255.3 min gelaufen
+20:08:54 [INFO] [2900/5249] ok=2900 empty=0 not_found=0 failed=0 | 256.1 min gelaufen
+20:09:45 [INFO] [2910/5249] ok=2910 empty=0 not_found=0 failed=0 | 257.0 min gelaufen
+20:10:41 [INFO] [2920/5249] ok=2920 empty=0 not_found=0 failed=0 | 257.9 min gelaufen
+20:11:30 [INFO] [2930/5249] ok=2930 empty=0 not_found=0 failed=0 | 258.7 min gelaufen
+20:12:22 [INFO] [2940/5249] ok=2940 empty=0 not_found=0 failed=0 | 259.6 min gelaufen
+20:13:11 [INFO] [2950/5249] ok=2950 empty=0 not_found=0 failed=0 | 260.4 min gelaufen
+20:14:02 [INFO] [2960/5249] ok=2960 empty=0 not_found=0 failed=0 | 261.3 min gelaufen
+20:14:53 [INFO] [2970/5249] ok=2970 empty=0 not_found=0 failed=0 | 262.1 min gelaufen
+20:15:47 [INFO] [2980/5249] ok=2980 empty=0 not_found=0 failed=0 | 263.0 min gelaufen
+20:16:38 [INFO] [2990/5249] ok=2990 empty=0 not_found=0 failed=0 | 263.9 min gelaufen
+20:17:37 [INFO] [3000/5249] ok=3000 empty=0 not_found=0 failed=0 | 264.8 min gelaufen
+20:18:18 [WARNING] HTTP 500 -- Serverfehler. Warte 6 s (Versuch 1/4).
+20:18:24 [WARNING] HTTP 500 -- Serverfehler. Warte 9 s (Versuch 2/4).
+20:18:33 [WARNING] HTTP 500 -- Serverfehler. Warte 18 s (Versuch 3/4).
+20:18:52 [WARNING] HTTP 500 -- Serverfehler. Warte 45 s (Versuch 4/4).
+20:19:36 [ERROR] [3008/5249] ★ StatTrak™ Bayonet | Crimson Web (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+20:19:47 [INFO] [3010/5249] ok=3009 empty=0 not_found=0 failed=1 | 267.0 min gelaufen
+20:20:34 [INFO] [3020/5249] ok=3019 empty=0 not_found=0 failed=1 | 267.8 min gelaufen
+20:21:25 [INFO] [3030/5249] ok=3029 empty=0 not_found=0 failed=1 | 268.7 min gelaufen
+20:22:17 [INFO] [3040/5249] ok=3039 empty=0 not_found=0 failed=1 | 269.5 min gelaufen
+20:23:11 [INFO] [3050/5249] ok=3049 empty=0 not_found=0 failed=1 | 270.4 min gelaufen
+20:24:00 [INFO] [3060/5249] ok=3059 empty=0 not_found=0 failed=1 | 271.2 min gelaufen
+20:24:41 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+20:24:46 [WARNING] HTTP 500 -- Serverfehler. Warte 10 s (Versuch 2/4).
+20:24:57 [WARNING] HTTP 500 -- Serverfehler. Warte 20 s (Versuch 3/4).
+20:25:17 [WARNING] HTTP 500 -- Serverfehler. Warte 43 s (Versuch 4/4).
+20:26:00 [ERROR] [3068/5249] ★ StatTrak™ Bayonet | Ultraviolet (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+20:26:12 [INFO] [3070/5249] ok=3068 empty=0 not_found=0 failed=2 | 273.4 min gelaufen
+20:27:05 [INFO] [3080/5249] ok=3078 empty=0 not_found=0 failed=2 | 274.3 min gelaufen
+20:27:59 [INFO] [3090/5249] ok=3088 empty=0 not_found=0 failed=2 | 275.2 min gelaufen
+20:28:55 [INFO] [3100/5249] ok=3098 empty=0 not_found=0 failed=2 | 276.2 min gelaufen
+20:29:43 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+20:29:49 [WARNING] HTTP 500 -- Serverfehler. Warte 10 s (Versuch 2/4).
+20:29:59 [WARNING] HTTP 500 -- Serverfehler. Warte 19 s (Versuch 3/4).
+20:30:19 [WARNING] HTTP 500 -- Serverfehler. Warte 35 s (Versuch 4/4).
+20:30:55 [ERROR] [3109/5249] ★ StatTrak™ Bowie Knife | Crimson Web (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+20:31:00 [INFO] [3110/5249] ok=3107 empty=0 not_found=0 failed=3 | 278.2 min gelaufen
+20:31:53 [INFO] [3120/5249] ok=3117 empty=0 not_found=0 failed=3 | 279.1 min gelaufen
+20:32:47 [INFO] [3130/5249] ok=3127 empty=0 not_found=0 failed=3 | 280.0 min gelaufen
+20:33:42 [INFO] [3140/5249] ok=3137 empty=0 not_found=0 failed=3 | 280.9 min gelaufen
+20:34:28 [WARNING] HTTP 500 -- Serverfehler. Warte 6 s (Versuch 1/4).
+20:34:34 [WARNING] HTTP 500 -- Serverfehler. Warte 10 s (Versuch 2/4).
+20:34:44 [WARNING] HTTP 500 -- Serverfehler. Warte 19 s (Versuch 3/4).
+20:35:03 [WARNING] HTTP 500 -- Serverfehler. Warte 44 s (Versuch 4/4).
+20:35:48 [ERROR] [3149/5249] ★ StatTrak™ Bowie Knife | Safari Mesh (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+20:35:53 [INFO] [3150/5249] ok=3146 empty=0 not_found=0 failed=4 | 283.1 min gelaufen
+20:36:44 [INFO] [3160/5249] ok=3156 empty=0 not_found=0 failed=4 | 284.0 min gelaufen
+20:37:38 [INFO] [3170/5249] ok=3166 empty=0 not_found=0 failed=4 | 284.9 min gelaufen
+20:38:35 [INFO] [3180/5249] ok=3176 empty=0 not_found=0 failed=4 | 285.8 min gelaufen
+20:39:26 [INFO] [3190/5249] ok=3186 empty=0 not_found=0 failed=4 | 286.7 min gelaufen
+20:40:18 [INFO] [3200/5249] ok=3196 empty=0 not_found=0 failed=4 | 287.5 min gelaufen
+20:41:10 [INFO] [3210/5249] ok=3206 empty=0 not_found=0 failed=4 | 288.4 min gelaufen
+20:42:02 [INFO] [3220/5249] ok=3216 empty=0 not_found=0 failed=4 | 289.3 min gelaufen
+20:42:59 [INFO] [3230/5249] ok=3226 empty=0 not_found=0 failed=4 | 290.2 min gelaufen
+20:43:51 [INFO] [3240/5249] ok=3236 empty=0 not_found=0 failed=4 | 291.1 min gelaufen
+20:44:43 [INFO] [3250/5249] ok=3246 empty=0 not_found=0 failed=4 | 292.0 min gelaufen
+20:45:36 [INFO] [3260/5249] ok=3256 empty=0 not_found=0 failed=4 | 292.8 min gelaufen
+20:46:26 [INFO] [3270/5249] ok=3265 empty=1 not_found=0 failed=4 | 293.7 min gelaufen
+20:47:21 [INFO] [3280/5249] ok=3275 empty=1 not_found=0 failed=4 | 294.6 min gelaufen
+20:48:13 [INFO] [3290/5249] ok=3285 empty=1 not_found=0 failed=4 | 295.5 min gelaufen
+20:48:46 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+20:48:51 [WARNING] HTTP 500 -- Serverfehler. Warte 9 s (Versuch 2/4).
+20:49:01 [WARNING] HTTP 500 -- Serverfehler. Warte 21 s (Versuch 3/4).
+20:49:22 [WARNING] HTTP 500 -- Serverfehler. Warte 36 s (Versuch 4/4).
+20:49:59 [ERROR] [3296/5249] ★ StatTrak™ Classic Knife | Crimson Web (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+20:50:19 [INFO] [3300/5249] ok=3294 empty=1 not_found=0 failed=5 | 297.5 min gelaufen
+20:51:11 [INFO] [3310/5249] ok=3304 empty=1 not_found=0 failed=5 | 298.4 min gelaufen
+20:52:06 [INFO] [3320/5249] ok=3314 empty=1 not_found=0 failed=5 | 299.3 min gelaufen
+20:52:57 [INFO] [3330/5249] ok=3324 empty=1 not_found=0 failed=5 | 300.2 min gelaufen
+20:53:01 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+20:53:07 [WARNING] HTTP 500 -- Serverfehler. Warte 10 s (Versuch 2/4).
+20:53:17 [WARNING] HTTP 500 -- Serverfehler. Warte 19 s (Versuch 3/4).
+20:53:36 [WARNING] HTTP 500 -- Serverfehler. Warte 36 s (Versuch 4/4).
+20:54:13 [ERROR] [3331/5249] ★ StatTrak™ Classic Knife | Urban Masked (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+20:55:01 [INFO] [3340/5249] ok=3333 empty=1 not_found=0 failed=6 | 302.3 min gelaufen
+20:55:53 [INFO] [3350/5249] ok=3343 empty=1 not_found=0 failed=6 | 303.1 min gelaufen
+20:56:44 [INFO] [3360/5249] ok=3353 empty=1 not_found=0 failed=6 | 304.0 min gelaufen
+20:57:21 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+20:57:25 [WARNING] HTTP 500 -- Serverfehler. Warte 10 s (Versuch 2/4).
+20:57:35 [WARNING] HTTP 500 -- Serverfehler. Warte 18 s (Versuch 3/4).
+20:57:53 [WARNING] HTTP 500 -- Serverfehler. Warte 42 s (Versuch 4/4).
+20:58:36 [ERROR] [3367/5249] ★ StatTrak™ Falchion Knife | Crimson Web (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+20:58:53 [INFO] [3370/5249] ok=3362 empty=1 not_found=0 failed=7 | 306.1 min gelaufen
+20:59:48 [INFO] [3380/5249] ok=3372 empty=1 not_found=0 failed=7 | 307.0 min gelaufen
+21:00:41 [INFO] [3390/5249] ok=3382 empty=1 not_found=0 failed=7 | 307.9 min gelaufen
+21:01:34 [INFO] [3400/5249] ok=3391 empty=2 not_found=0 failed=7 | 308.8 min gelaufen
+21:02:33 [INFO] [3410/5249] ok=3401 empty=2 not_found=0 failed=7 | 309.8 min gelaufen
+21:03:26 [INFO] [3420/5249] ok=3411 empty=2 not_found=0 failed=7 | 310.7 min gelaufen
+21:04:21 [INFO] [3430/5249] ok=3421 empty=2 not_found=0 failed=7 | 311.6 min gelaufen
+21:05:16 [INFO] [3440/5249] ok=3431 empty=2 not_found=0 failed=7 | 312.5 min gelaufen
+21:06:10 [INFO] [3450/5249] ok=3441 empty=2 not_found=0 failed=7 | 313.4 min gelaufen
+21:07:02 [INFO] [3460/5249] ok=3451 empty=2 not_found=0 failed=7 | 314.3 min gelaufen
+21:07:57 [INFO] [3470/5249] ok=3461 empty=2 not_found=0 failed=7 | 315.2 min gelaufen
+21:08:49 [INFO] [3480/5249] ok=3471 empty=2 not_found=0 failed=7 | 316.0 min gelaufen
+21:09:43 [INFO] [3490/5249] ok=3481 empty=2 not_found=0 failed=7 | 317.0 min gelaufen
+21:10:38 [INFO] [3500/5249] ok=3491 empty=2 not_found=0 failed=7 | 317.9 min gelaufen
+21:11:27 [INFO] [3510/5249] ok=3500 empty=3 not_found=0 failed=7 | 318.7 min gelaufen
+21:12:26 [INFO] [3520/5249] ok=3510 empty=3 not_found=0 failed=7 | 319.7 min gelaufen
+21:13:22 [INFO] [3530/5249] ok=3520 empty=3 not_found=0 failed=7 | 320.6 min gelaufen
+21:14:18 [INFO] [3540/5249] ok=3530 empty=3 not_found=0 failed=7 | 321.5 min gelaufen
+21:15:09 [INFO] [3550/5249] ok=3540 empty=3 not_found=0 failed=7 | 322.4 min gelaufen
+21:16:04 [INFO] [3560/5249] ok=3550 empty=3 not_found=0 failed=7 | 323.3 min gelaufen
+21:16:56 [INFO] [3570/5249] ok=3559 empty=4 not_found=0 failed=7 | 324.2 min gelaufen
+21:17:48 [INFO] [3580/5249] ok=3569 empty=4 not_found=0 failed=7 | 325.0 min gelaufen
+21:18:38 [INFO] [3590/5249] ok=3579 empty=4 not_found=0 failed=7 | 325.9 min gelaufen
+21:19:32 [INFO] [3600/5249] ok=3589 empty=4 not_found=0 failed=7 | 326.8 min gelaufen
+21:20:26 [INFO] [3610/5249] ok=3599 empty=4 not_found=0 failed=7 | 327.7 min gelaufen
+21:21:21 [INFO] [3620/5249] ok=3609 empty=4 not_found=0 failed=7 | 328.6 min gelaufen
+21:22:13 [INFO] [3630/5249] ok=3619 empty=4 not_found=0 failed=7 | 329.4 min gelaufen
+21:23:09 [INFO] [3640/5249] ok=3629 empty=4 not_found=0 failed=7 | 330.4 min gelaufen
+21:24:01 [INFO] [3650/5249] ok=3639 empty=4 not_found=0 failed=7 | 331.3 min gelaufen
+21:24:51 [INFO] [3660/5249] ok=3649 empty=4 not_found=0 failed=7 | 332.1 min gelaufen
+21:25:44 [INFO] [3670/5249] ok=3659 empty=4 not_found=0 failed=7 | 333.0 min gelaufen
+21:26:37 [INFO] [3680/5249] ok=3669 empty=4 not_found=0 failed=7 | 333.8 min gelaufen
+21:27:31 [INFO] [3690/5249] ok=3679 empty=4 not_found=0 failed=7 | 334.7 min gelaufen
+21:28:22 [INFO] [3700/5249] ok=3689 empty=4 not_found=0 failed=7 | 335.6 min gelaufen
+21:29:16 [INFO] [3710/5249] ok=3699 empty=4 not_found=0 failed=7 | 336.5 min gelaufen
+21:30:07 [INFO] [3720/5249] ok=3709 empty=4 not_found=0 failed=7 | 337.4 min gelaufen
+21:31:02 [INFO] [3730/5249] ok=3719 empty=4 not_found=0 failed=7 | 338.3 min gelaufen
+21:31:54 [INFO] [3740/5249] ok=3729 empty=4 not_found=0 failed=7 | 339.1 min gelaufen
+21:32:49 [INFO] [3750/5249] ok=3739 empty=4 not_found=0 failed=7 | 340.0 min gelaufen
+21:33:40 [INFO] [3760/5249] ok=3749 empty=4 not_found=0 failed=7 | 340.9 min gelaufen
+21:34:31 [INFO] [3770/5249] ok=3759 empty=4 not_found=0 failed=7 | 341.8 min gelaufen
+21:35:27 [INFO] [3780/5249] ok=3768 empty=5 not_found=0 failed=7 | 342.7 min gelaufen
+21:36:19 [INFO] [3790/5249] ok=3778 empty=5 not_found=0 failed=7 | 343.6 min gelaufen
+21:37:17 [INFO] [3800/5249] ok=3788 empty=5 not_found=0 failed=7 | 344.5 min gelaufen
+21:38:09 [INFO] [3810/5249] ok=3798 empty=5 not_found=0 failed=7 | 345.4 min gelaufen
+21:39:05 [INFO] [3820/5249] ok=3808 empty=5 not_found=0 failed=7 | 346.3 min gelaufen
+21:39:58 [INFO] [3830/5249] ok=3818 empty=5 not_found=0 failed=7 | 347.2 min gelaufen
+21:40:52 [INFO] [3840/5249] ok=3828 empty=5 not_found=0 failed=7 | 348.1 min gelaufen
+21:41:46 [INFO] [3850/5249] ok=3838 empty=5 not_found=0 failed=7 | 349.0 min gelaufen
+21:42:41 [INFO] [3860/5249] ok=3848 empty=5 not_found=0 failed=7 | 349.9 min gelaufen
+21:43:29 [INFO] [3870/5249] ok=3858 empty=5 not_found=0 failed=7 | 350.7 min gelaufen
+21:44:22 [INFO] [3880/5249] ok=3868 empty=5 not_found=0 failed=7 | 351.6 min gelaufen
+21:45:13 [INFO] [3890/5249] ok=3878 empty=5 not_found=0 failed=7 | 352.4 min gelaufen
+21:46:07 [INFO] [3900/5249] ok=3888 empty=5 not_found=0 failed=7 | 353.4 min gelaufen
+21:47:02 [INFO] [3910/5249] ok=3898 empty=5 not_found=0 failed=7 | 354.3 min gelaufen
+21:47:18 [WARNING] HTTP 500 -- Serverfehler. Warte 6 s (Versuch 1/4).
+21:47:24 [WARNING] HTTP 500 -- Serverfehler. Warte 10 s (Versuch 2/4).
+21:47:34 [WARNING] HTTP 500 -- Serverfehler. Warte 20 s (Versuch 3/4).
+21:47:54 [WARNING] HTTP 500 -- Serverfehler. Warte 38 s (Versuch 4/4).
+21:48:32 [ERROR] [3913/5249] ★ StatTrak™ M9 Bayonet | Boreal Forest (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+21:49:09 [WARNING] HTTP 429 -- Rate Limit erreicht. Warte 52 s (Versuch 1/4).
+21:50:01 [WARNING] HTTP 429 -- Rate Limit erreicht. Warte 113 s (Versuch 2/4).
+21:51:55 [WARNING] HTTP 429 -- Rate Limit erreicht. Warte 289 s (Versuch 3/4).
+21:56:44 [WARNING] HTTP 429 -- Rate Limit erreicht. Warte 621 s (Versuch 4/4).
+22:07:06 [ERROR] [3920/5249] ★ StatTrak™ M9 Bayonet | Bright Water (Minimal Wear) -> SteamRateLimit: HTTP 429 -- Rate Limit erreicht.
+22:07:06 [INFO] [3920/5249] ok=3906 empty=5 not_found=0 failed=9 | 374.3 min gelaufen
+22:07:12 [WARNING] HTTP 429 -- Rate Limit erreicht. Warte 57 s (Versuch 1/4).
+22:08:09 [WARNING] HTTP 429 -- Rate Limit erreicht. Warte 134 s (Versuch 2/4).
+22:10:24 [WARNING] HTTP 429 -- Rate Limit erreicht. Warte 341 s (Versuch 3/4).
+22:16:05 [WARNING] HTTP 429 -- Rate Limit erreicht. Warte 638 s (Versuch 4/4).
+22:26:43 [ERROR] [3921/5249] ★ StatTrak™ M9 Bayonet | Bright Water (Well-Worn) -> SteamRateLimit: HTTP 429 -- Rate Limit erreicht.
+22:26:48 [WARNING] HTTP 429 -- Rate Limit erreicht. Warte 68 s (Versuch 1/4).
+22:27:56 [WARNING] HTTP 429 -- Rate Limit erreicht. Warte 118 s (Versuch 2/4).
+22:29:55 [WARNING] HTTP 429 -- Rate Limit erreicht. Warte 301 s (Versuch 3/4).
+22:34:56 [WARNING] HTTP 429 -- Rate Limit erreicht. Warte 544 s (Versuch 4/4).
+22:44:01 [ERROR] [3922/5249] ★ StatTrak™ M9 Bayonet | Case Hardened (Battle-Scarred) -> SteamRateLimit: HTTP 429 -- Rate Limit erreicht.
+22:44:05 [WARNING] HTTP 429 -- Rate Limit erreicht. Warte 68 s (Versuch 1/4).
+22:45:13 [WARNING] HTTP 429 -- Rate Limit erreicht. Warte 109 s (Versuch 2/4).
+22:47:03 [WARNING] HTTP 429 -- Rate Limit erreicht. Warte 262 s (Versuch 3/4).
+22:51:25 [WARNING] HTTP 429 -- Rate Limit erreicht. Warte 639 s (Versuch 4/4).
+23:02:05 [ERROR] [3923/5249] ★ StatTrak™ M9 Bayonet | Case Hardened (Factory New) -> SteamRateLimit: HTTP 429 -- Rate Limit erreicht.
+23:02:11 [WARNING] HTTP 429 -- Rate Limit erreicht. Warte 54 s (Versuch 1/4).
+23:03:05 [WARNING] HTTP 429 -- Rate Limit erreicht. Warte 111 s (Versuch 2/4).
+23:04:55 [WARNING] HTTP 429 -- Rate Limit erreicht. Warte 339 s (Versuch 3/4).
+23:10:34 [WARNING] HTTP 429 -- Rate Limit erreicht. Warte 671 s (Versuch 4/4).
+23:22:18 [INFO] [3930/5249] ok=3906 empty=5 not_found=7 failed=12 | 449.5 min gelaufen
+23:22:34 [ERROR] AUTH-FEHLER: 10 aufeinanderfolgende 400er. Cookie vermutlich abgelaufen -- Abbruch, damit du nicht die halbe Liste faelschlich als 'nicht gefunden' markierst.
+23:22:34 [ERROR] Hol ein frisches Cookie und starte neu -- Resume greift.
+23:22:34 [INFO] Fertig. ok=3906 empty=5 not_found=9 failed=12
+23:24:42 [INFO] Panel: 6664913 Zeilen, 3906 Items, 2013-08-14 bis 2026-08-28
+17:03:21 [INFO] Itemliste: 5249 | bereits erledigt: 3932 | zu holen: 1317
+17:03:21 [INFO] Geschaetzte Laufzeit (ohne Backoffs): ~165 Minuten.
+17:03:21 [INFO] Pruefe Cookie mit Probe-Item: AK-47 | Redline (Field-Tested)
+17:03:22 [INFO] Cookie OK. Waehrung laut Steam: prefix='' suffix='€'  (1=USD erwartet -> '$')
+17:04:35 [INFO] [10/1317] ok=10 empty=0 not_found=0 failed=0 | 1.2 min gelaufen
+17:05:54 [INFO] [20/1317] ok=20 empty=0 not_found=0 failed=0 | 2.5 min gelaufen
+17:07:07 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+17:07:12 [WARNING] HTTP 500 -- Serverfehler. Warte 10 s (Versuch 2/4).
+17:07:23 [WARNING] HTTP 500 -- Serverfehler. Warte 22 s (Versuch 3/4).
+17:07:45 [WARNING] HTTP 500 -- Serverfehler. Warte 45 s (Versuch 4/4).
+17:08:31 [ERROR] [29/1317] ★ StatTrak™ M9 Bayonet | Night (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+17:08:40 [INFO] [30/1317] ok=29 empty=0 not_found=0 failed=1 | 5.3 min gelaufen
+17:10:01 [INFO] [40/1317] ok=38 empty=1 not_found=0 failed=1 | 6.7 min gelaufen
+17:11:16 [INFO] [50/1317] ok=48 empty=1 not_found=0 failed=1 | 7.9 min gelaufen
+17:12:38 [INFO] [60/1317] ok=58 empty=1 not_found=0 failed=1 | 9.3 min gelaufen
+17:13:54 [INFO] [70/1317] ok=68 empty=1 not_found=0 failed=1 | 10.5 min gelaufen
+17:15:14 [INFO] [80/1317] ok=78 empty=1 not_found=0 failed=1 | 11.9 min gelaufen
+17:16:33 [INFO] [90/1317] ok=87 empty=2 not_found=0 failed=1 | 13.2 min gelaufen
+17:17:50 [INFO] [100/1317] ok=97 empty=2 not_found=0 failed=1 | 14.5 min gelaufen
+17:19:06 [INFO] [110/1317] ok=107 empty=2 not_found=0 failed=1 | 15.7 min gelaufen
+17:20:26 [INFO] [120/1317] ok=117 empty=2 not_found=0 failed=1 | 17.1 min gelaufen
+17:21:42 [INFO] [130/1317] ok=127 empty=2 not_found=0 failed=1 | 18.3 min gelaufen
+17:23:03 [INFO] [140/1317] ok=137 empty=2 not_found=0 failed=1 | 19.7 min gelaufen
+17:23:44 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+17:24:28 [INFO] [150/1317] ok=147 empty=2 not_found=0 failed=1 | 21.1 min gelaufen
+17:25:48 [INFO] [160/1317] ok=156 empty=3 not_found=0 failed=1 | 22.4 min gelaufen
+17:27:02 [INFO] [170/1317] ok=166 empty=3 not_found=0 failed=1 | 23.7 min gelaufen
+17:28:24 [INFO] [180/1317] ok=176 empty=3 not_found=0 failed=1 | 25.0 min gelaufen
+17:29:47 [INFO] [190/1317] ok=186 empty=3 not_found=0 failed=1 | 26.4 min gelaufen
+17:31:05 [INFO] [200/1317] ok=196 empty=3 not_found=0 failed=1 | 27.7 min gelaufen
+17:32:26 [INFO] [210/1317] ok=206 empty=3 not_found=0 failed=1 | 29.1 min gelaufen
+17:33:45 [INFO] [220/1317] ok=216 empty=3 not_found=0 failed=1 | 30.4 min gelaufen
+17:35:07 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+17:35:13 [WARNING] HTTP 500 -- Serverfehler. Warte 11 s (Versuch 2/4).
+17:35:24 [WARNING] HTTP 500 -- Serverfehler. Warte 18 s (Versuch 3/4).
+17:35:43 [WARNING] HTTP 500 -- Serverfehler. Warte 38 s (Versuch 4/4).
+17:36:22 [ERROR] [230/1317] ★ StatTrak™ Paracord Knife | Crimson Web (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+17:36:22 [INFO] [230/1317] ok=225 empty=3 not_found=0 failed=2 | 33.0 min gelaufen
+17:37:39 [INFO] [240/1317] ok=235 empty=3 not_found=0 failed=2 | 34.3 min gelaufen
+17:39:00 [INFO] [250/1317] ok=245 empty=3 not_found=0 failed=2 | 35.6 min gelaufen
+17:40:17 [INFO] [260/1317] ok=255 empty=3 not_found=0 failed=2 | 36.9 min gelaufen
+17:41:34 [INFO] [270/1317] ok=265 empty=3 not_found=0 failed=2 | 38.2 min gelaufen
+17:42:55 [INFO] [280/1317] ok=275 empty=3 not_found=0 failed=2 | 39.6 min gelaufen
+17:44:10 [INFO] [290/1317] ok=285 empty=3 not_found=0 failed=2 | 40.8 min gelaufen
+17:45:32 [INFO] [300/1317] ok=295 empty=3 not_found=0 failed=2 | 42.2 min gelaufen
+17:46:47 [INFO] [310/1317] ok=305 empty=3 not_found=0 failed=2 | 43.4 min gelaufen
+17:47:52 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+17:47:57 [WARNING] HTTP 500 -- Serverfehler. Warte 9 s (Versuch 2/4).
+17:48:06 [WARNING] HTTP 500 -- Serverfehler. Warte 19 s (Versuch 3/4).
+17:48:26 [WARNING] HTTP 500 -- Serverfehler. Warte 35 s (Versuch 4/4).
+17:49:01 [ERROR] [319/1317] ★ StatTrak™ Shadow Daggers | Crimson Web (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+17:49:08 [INFO] [320/1317] ok=314 empty=3 not_found=0 failed=3 | 45.8 min gelaufen
+17:50:25 [INFO] [330/1317] ok=324 empty=3 not_found=0 failed=3 | 47.0 min gelaufen
+17:51:44 [INFO] [340/1317] ok=334 empty=3 not_found=0 failed=3 | 48.4 min gelaufen
+17:53:07 [INFO] [350/1317] ok=344 empty=3 not_found=0 failed=3 | 49.7 min gelaufen
+17:54:27 [INFO] [360/1317] ok=354 empty=3 not_found=0 failed=3 | 51.1 min gelaufen
+17:55:46 [INFO] [370/1317] ok=363 empty=4 not_found=0 failed=3 | 52.4 min gelaufen
+17:57:10 [INFO] [380/1317] ok=373 empty=4 not_found=0 failed=3 | 53.8 min gelaufen
+17:57:43 [WARNING] HTTP 500 -- Serverfehler. Warte 4 s (Versuch 1/4).
+17:57:47 [WARNING] HTTP 500 -- Serverfehler. Warte 10 s (Versuch 2/4).
+17:57:58 [WARNING] HTTP 500 -- Serverfehler. Warte 19 s (Versuch 3/4).
+17:58:17 [WARNING] HTTP 500 -- Serverfehler. Warte 43 s (Versuch 4/4).
+17:59:01 [ERROR] [384/1317] ★ StatTrak™ Shadow Daggers | Urban Masked (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+17:59:46 [INFO] [390/1317] ok=382 empty=4 not_found=0 failed=4 | 56.4 min gelaufen
+18:01:09 [INFO] [400/1317] ok=392 empty=4 not_found=0 failed=4 | 57.8 min gelaufen
+18:01:52 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+18:01:57 [WARNING] HTTP 500 -- Serverfehler. Warte 10 s (Versuch 2/4).
+18:02:07 [WARNING] HTTP 500 -- Serverfehler. Warte 22 s (Versuch 3/4).
+18:02:30 [WARNING] HTTP 500 -- Serverfehler. Warte 40 s (Versuch 4/4).
+18:03:09 [ERROR] [405/1317] ★ StatTrak™ Skeleton Knife | Crimson Web (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+18:03:47 [INFO] [410/1317] ok=401 empty=4 not_found=0 failed=5 | 60.4 min gelaufen
+18:05:02 [INFO] [420/1317] ok=411 empty=4 not_found=0 failed=5 | 61.7 min gelaufen
+18:08:03 [WARNING] Netzwerkfehler: HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/pricehistory/?appid=730&currency=1&market_hash_name=%E2%98%85%20StatTrak%E2%84%A2%20Skeleton%20Knife%20%7C%20Night%20Stripe%20%28Factory%20New%29 (Caused by NameResolutionError("HTTPSConnection(host='steamcommunity.com', port=443): Failed to resolve 'steamcommunity.com' ([Errno 11001] getaddrinfo failed)")) Warte 5 s (Versuch 1/4).
+18:21:53 [WARNING] Netzwerkfehler: HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/pricehistory/?appid=730&currency=1&market_hash_name=%E2%98%85%20StatTrak%E2%84%A2%20Skeleton%20Knife%20%7C%20Night%20Stripe%20%28Factory%20New%29 (Caused by NameResolutionError("HTTPSConnection(host='steamcommunity.com', port=443): Failed to resolve 'steamcommunity.com' ([Errno 11001] getaddrinfo failed)")) Warte 10 s (Versuch 2/4).
+18:22:04 [WARNING] Netzwerkfehler: HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/pricehistory/?appid=730&currency=1&market_hash_name=%E2%98%85%20StatTrak%E2%84%A2%20Skeleton%20Knife%20%7C%20Night%20Stripe%20%28Factory%20New%29 (Caused by NameResolutionError("HTTPSConnection(host='steamcommunity.com', port=443): Failed to resolve 'steamcommunity.com' ([Errno 11001] getaddrinfo failed)")) Warte 18 s (Versuch 3/4).
+18:22:55 [INFO] [430/1317] ok=421 empty=4 not_found=0 failed=5 | 79.6 min gelaufen
+18:24:13 [INFO] [440/1317] ok=431 empty=4 not_found=0 failed=5 | 80.8 min gelaufen
+18:25:36 [INFO] [450/1317] ok=441 empty=4 not_found=0 failed=5 | 82.2 min gelaufen
+18:26:55 [INFO] [460/1317] ok=450 empty=5 not_found=0 failed=5 | 83.5 min gelaufen
+18:28:11 [INFO] [470/1317] ok=460 empty=5 not_found=0 failed=5 | 84.8 min gelaufen
+18:29:16 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+18:29:22 [WARNING] HTTP 500 -- Serverfehler. Warte 11 s (Versuch 2/4).
+18:29:34 [WARNING] HTTP 500 -- Serverfehler. Warte 18 s (Versuch 3/4).
+18:29:52 [WARNING] HTTP 500 -- Serverfehler. Warte 41 s (Versuch 4/4).
+18:30:33 [ERROR] [479/1317] ★ StatTrak™ Stiletto Knife | Crimson Web (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+18:30:42 [INFO] [480/1317] ok=469 empty=5 not_found=0 failed=6 | 87.3 min gelaufen
+18:32:04 [INFO] [490/1317] ok=479 empty=5 not_found=0 failed=6 | 88.7 min gelaufen
+18:33:23 [INFO] [500/1317] ok=489 empty=5 not_found=0 failed=6 | 90.0 min gelaufen
+18:34:41 [INFO] [510/1317] ok=499 empty=5 not_found=0 failed=6 | 91.3 min gelaufen
+18:36:03 [INFO] [520/1317] ok=509 empty=5 not_found=0 failed=6 | 92.7 min gelaufen
+18:37:18 [INFO] [530/1317] ok=519 empty=5 not_found=0 failed=6 | 93.9 min gelaufen
+18:38:35 [INFO] [540/1317] ok=529 empty=5 not_found=0 failed=6 | 95.2 min gelaufen
+18:39:52 [INFO] [550/1317] ok=538 empty=6 not_found=0 failed=6 | 96.5 min gelaufen
+18:40:18 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+18:40:23 [WARNING] HTTP 500 -- Serverfehler. Warte 9 s (Versuch 2/4).
+18:40:33 [WARNING] HTTP 500 -- Serverfehler. Warte 22 s (Versuch 3/4).
+18:40:55 [WARNING] HTTP 500 -- Serverfehler. Warte 46 s (Versuch 4/4).
+18:41:41 [ERROR] [553/1317] ★ StatTrak™ Survival Knife | Crimson Web (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+18:42:35 [INFO] [560/1317] ok=547 empty=6 not_found=0 failed=7 | 99.2 min gelaufen
+18:43:52 [INFO] [570/1317] ok=557 empty=6 not_found=0 failed=7 | 100.5 min gelaufen
+18:45:10 [INFO] [580/1317] ok=567 empty=6 not_found=0 failed=7 | 101.8 min gelaufen
+18:46:33 [INFO] [590/1317] ok=577 empty=6 not_found=0 failed=7 | 103.2 min gelaufen
+18:47:53 [INFO] [600/1317] ok=587 empty=6 not_found=0 failed=7 | 104.5 min gelaufen
+18:49:17 [INFO] [610/1317] ok=597 empty=6 not_found=0 failed=7 | 105.9 min gelaufen
+18:50:38 [INFO] [620/1317] ok=607 empty=6 not_found=0 failed=7 | 107.3 min gelaufen
+18:51:30 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+18:51:36 [WARNING] HTTP 500 -- Serverfehler. Warte 9 s (Versuch 2/4).
+18:51:46 [WARNING] HTTP 500 -- Serverfehler. Warte 18 s (Versuch 3/4).
+18:52:04 [WARNING] HTTP 500 -- Serverfehler. Warte 41 s (Versuch 4/4).
+18:52:44 [ERROR] [627/1317] ★ StatTrak™ Talon Knife | Crimson Web (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+18:53:08 [INFO] [630/1317] ok=616 empty=6 not_found=0 failed=8 | 109.8 min gelaufen
+18:56:06 [WARNING] Netzwerkfehler: HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/pricehistory/?appid=730&currency=1&market_hash_name=%E2%98%85%20StatTrak%E2%84%A2%20Talon%20Knife%20%7C%20Damascus%20Steel%20%28Factory%20New%29 (Caused by NameResolutionError("HTTPSConnection(host='steamcommunity.com', port=443): Failed to resolve 'steamcommunity.com' ([Errno 11001] getaddrinfo failed)")) Warte 6 s (Versuch 1/4).
+19:53:13 [WARNING] Netzwerkfehler: HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/pricehistory/?appid=730&currency=1&market_hash_name=%E2%98%85%20StatTrak%E2%84%A2%20Talon%20Knife%20%7C%20Damascus%20Steel%20%28Factory%20New%29 (Caused by NameResolutionError("HTTPSConnection(host='steamcommunity.com', port=443): Failed to resolve 'steamcommunity.com' ([Errno 11001] getaddrinfo failed)")) Warte 10 s (Versuch 2/4).
+19:53:23 [WARNING] Netzwerkfehler: HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/pricehistory/?appid=730&currency=1&market_hash_name=%E2%98%85%20StatTrak%E2%84%A2%20Talon%20Knife%20%7C%20Damascus%20Steel%20%28Factory%20New%29 (Caused by NameResolutionError("HTTPSConnection(host='steamcommunity.com', port=443): Failed to resolve 'steamcommunity.com' ([Errno 11001] getaddrinfo failed)")) Warte 18 s (Versuch 3/4).
+19:53:41 [WARNING] Netzwerkfehler: HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/pricehistory/?appid=730&currency=1&market_hash_name=%E2%98%85%20StatTrak%E2%84%A2%20Talon%20Knife%20%7C%20Damascus%20Steel%20%28Factory%20New%29 (Caused by NameResolutionError("HTTPSConnection(host='steamcommunity.com', port=443): Failed to resolve 'steamcommunity.com' ([Errno 11001] getaddrinfo failed)")) Warte 44 s (Versuch 4/4).
+19:55:25 [INFO] [640/1317] ok=626 empty=6 not_found=0 failed=8 | 172.1 min gelaufen
+19:56:41 [INFO] [650/1317] ok=635 empty=7 not_found=0 failed=8 | 173.3 min gelaufen
+19:58:00 [INFO] [660/1317] ok=645 empty=7 not_found=0 failed=8 | 174.6 min gelaufen
+19:59:19 [INFO] [670/1317] ok=655 empty=7 not_found=0 failed=8 | 175.9 min gelaufen
+20:00:37 [INFO] [680/1317] ok=664 empty=8 not_found=0 failed=8 | 177.2 min gelaufen
+20:01:53 [INFO] [690/1317] ok=674 empty=8 not_found=0 failed=8 | 178.5 min gelaufen
+20:03:08 [INFO] [700/1317] ok=684 empty=8 not_found=0 failed=8 | 179.8 min gelaufen
+20:03:16 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+20:03:22 [WARNING] HTTP 500 -- Serverfehler. Warte 9 s (Versuch 2/4).
+20:03:32 [WARNING] HTTP 500 -- Serverfehler. Warte 20 s (Versuch 3/4).
+20:03:52 [WARNING] HTTP 500 -- Serverfehler. Warte 42 s (Versuch 4/4).
+20:04:34 [ERROR] [701/1317] ★ StatTrak™ Ursus Knife | Crimson Web (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+20:05:43 [INFO] [710/1317] ok=693 empty=8 not_found=0 failed=9 | 182.4 min gelaufen
+20:06:24 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+20:06:30 [WARNING] HTTP 500 -- Serverfehler. Warte 9 s (Versuch 2/4).
+20:06:38 [WARNING] HTTP 500 -- Serverfehler. Warte 20 s (Versuch 3/4).
+20:06:59 [WARNING] HTTP 500 -- Serverfehler. Warte 43 s (Versuch 4/4).
+20:07:42 [ERROR] [715/1317] ★ StatTrak™ Ursus Knife | Forest DDPAT (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+20:08:21 [INFO] [720/1317] ok=702 empty=8 not_found=0 failed=10 | 185.0 min gelaufen
+20:09:40 [INFO] [730/1317] ok=711 empty=9 not_found=0 failed=10 | 186.3 min gelaufen
+20:10:58 [INFO] [740/1317] ok=721 empty=9 not_found=0 failed=10 | 187.6 min gelaufen
+20:12:11 [INFO] [750/1317] ok=731 empty=9 not_found=0 failed=10 | 188.8 min gelaufen
+20:13:33 [INFO] [760/1317] ok=740 empty=10 not_found=0 failed=10 | 190.2 min gelaufen
+20:14:52 [INFO] [770/1317] ok=750 empty=10 not_found=0 failed=10 | 191.5 min gelaufen
+20:16:08 [INFO] [780/1317] ok=760 empty=10 not_found=0 failed=10 | 192.8 min gelaufen
+20:17:29 [INFO] [790/1317] ok=770 empty=10 not_found=0 failed=10 | 194.1 min gelaufen
+20:18:47 [INFO] [800/1317] ok=780 empty=10 not_found=0 failed=10 | 195.4 min gelaufen
+20:20:07 [INFO] [810/1317] ok=790 empty=10 not_found=0 failed=10 | 196.7 min gelaufen
+20:21:27 [INFO] [820/1317] ok=800 empty=10 not_found=0 failed=10 | 198.1 min gelaufen
+20:22:42 [INFO] [830/1317] ok=810 empty=10 not_found=0 failed=10 | 199.3 min gelaufen
+20:23:58 [INFO] [840/1317] ok=820 empty=10 not_found=0 failed=10 | 200.6 min gelaufen
+20:25:11 [INFO] [850/1317] ok=830 empty=10 not_found=0 failed=10 | 201.8 min gelaufen
+20:26:29 [INFO] [860/1317] ok=840 empty=10 not_found=0 failed=10 | 203.1 min gelaufen
+20:27:46 [INFO] [870/1317] ok=850 empty=10 not_found=0 failed=10 | 204.4 min gelaufen
+20:29:04 [INFO] [880/1317] ok=860 empty=10 not_found=0 failed=10 | 205.7 min gelaufen
+20:30:19 [INFO] [890/1317] ok=870 empty=10 not_found=0 failed=10 | 207.0 min gelaufen
+20:31:35 [INFO] [900/1317] ok=880 empty=10 not_found=0 failed=10 | 208.2 min gelaufen
+20:32:57 [INFO] [910/1317] ok=890 empty=10 not_found=0 failed=10 | 209.6 min gelaufen
+20:34:12 [INFO] [920/1317] ok=900 empty=10 not_found=0 failed=10 | 210.8 min gelaufen
+20:35:39 [INFO] [930/1317] ok=909 empty=11 not_found=0 failed=10 | 212.3 min gelaufen
+20:36:57 [INFO] [940/1317] ok=919 empty=11 not_found=0 failed=10 | 213.6 min gelaufen
+20:38:17 [INFO] [950/1317] ok=929 empty=11 not_found=0 failed=10 | 214.9 min gelaufen
+20:39:35 [INFO] [960/1317] ok=939 empty=11 not_found=0 failed=10 | 216.2 min gelaufen
+20:40:56 [INFO] [970/1317] ok=949 empty=11 not_found=0 failed=10 | 217.6 min gelaufen
+20:42:14 [INFO] [980/1317] ok=959 empty=11 not_found=0 failed=10 | 218.9 min gelaufen
+20:43:35 [INFO] [990/1317] ok=969 empty=11 not_found=0 failed=10 | 220.2 min gelaufen
+20:44:51 [INFO] [1000/1317] ok=979 empty=11 not_found=0 failed=10 | 221.5 min gelaufen
+20:46:08 [INFO] [1010/1317] ok=989 empty=11 not_found=0 failed=10 | 222.8 min gelaufen
+20:47:25 [INFO] [1020/1317] ok=999 empty=11 not_found=0 failed=10 | 224.0 min gelaufen
+20:48:42 [INFO] [1030/1317] ok=1009 empty=11 not_found=0 failed=10 | 225.3 min gelaufen
+20:49:59 [INFO] [1040/1317] ok=1019 empty=11 not_found=0 failed=10 | 226.6 min gelaufen
+20:51:18 [INFO] [1050/1317] ok=1029 empty=11 not_found=0 failed=10 | 227.9 min gelaufen
+20:52:37 [INFO] [1060/1317] ok=1039 empty=11 not_found=0 failed=10 | 229.3 min gelaufen
+20:53:56 [INFO] [1070/1317] ok=1049 empty=11 not_found=0 failed=10 | 230.6 min gelaufen
+20:55:13 [INFO] [1080/1317] ok=1059 empty=11 not_found=0 failed=10 | 231.9 min gelaufen
+20:56:33 [INFO] [1090/1317] ok=1069 empty=11 not_found=0 failed=10 | 233.2 min gelaufen
+20:57:54 [INFO] [1100/1317] ok=1079 empty=11 not_found=0 failed=10 | 234.5 min gelaufen
+20:59:08 [INFO] [1110/1317] ok=1089 empty=11 not_found=0 failed=10 | 235.8 min gelaufen
+21:00:29 [INFO] [1120/1317] ok=1099 empty=11 not_found=0 failed=10 | 237.1 min gelaufen
+21:01:45 [INFO] [1130/1317] ok=1109 empty=11 not_found=0 failed=10 | 238.4 min gelaufen
+21:03:00 [INFO] [1140/1317] ok=1119 empty=11 not_found=0 failed=10 | 239.6 min gelaufen
+21:04:18 [INFO] [1150/1317] ok=1129 empty=11 not_found=0 failed=10 | 240.9 min gelaufen
+21:05:36 [INFO] [1160/1317] ok=1139 empty=11 not_found=0 failed=10 | 242.2 min gelaufen
+21:06:52 [INFO] [1170/1317] ok=1149 empty=11 not_found=0 failed=10 | 243.5 min gelaufen
+21:08:11 [INFO] [1180/1317] ok=1159 empty=11 not_found=0 failed=10 | 244.8 min gelaufen
+21:09:25 [INFO] [1190/1317] ok=1169 empty=11 not_found=0 failed=10 | 246.0 min gelaufen
+21:10:44 [INFO] [1200/1317] ok=1179 empty=11 not_found=0 failed=10 | 247.4 min gelaufen
+21:12:03 [INFO] [1210/1317] ok=1189 empty=11 not_found=0 failed=10 | 248.7 min gelaufen
+21:13:15 [INFO] [1220/1317] ok=1199 empty=11 not_found=0 failed=10 | 249.9 min gelaufen
+21:14:32 [INFO] [1230/1317] ok=1209 empty=11 not_found=0 failed=10 | 251.2 min gelaufen
+21:15:46 [INFO] [1240/1317] ok=1219 empty=11 not_found=0 failed=10 | 252.4 min gelaufen
+21:17:01 [INFO] [1250/1317] ok=1229 empty=11 not_found=0 failed=10 | 253.6 min gelaufen
+21:18:18 [INFO] [1260/1317] ok=1239 empty=11 not_found=0 failed=10 | 254.9 min gelaufen
+21:19:30 [INFO] [1270/1317] ok=1249 empty=11 not_found=0 failed=10 | 256.1 min gelaufen
+21:20:46 [INFO] [1280/1317] ok=1259 empty=11 not_found=0 failed=10 | 257.4 min gelaufen
+21:22:06 [INFO] [1290/1317] ok=1269 empty=11 not_found=0 failed=10 | 258.7 min gelaufen
+21:23:01 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+21:23:06 [WARNING] HTTP 500 -- Serverfehler. Warte 11 s (Versuch 2/4).
+21:23:17 [WARNING] HTTP 500 -- Serverfehler. Warte 18 s (Versuch 3/4).
+21:23:35 [WARNING] HTTP 500 -- Serverfehler. Warte 34 s (Versuch 4/4).
+21:24:09 [ERROR] [1297/1317] Souvenir AWP | Dragon Lore (Well-Worn) -> SteamTransient: HTTP 500 -- Serverfehler.
+21:24:34 [INFO] [1300/1317] ok=1277 empty=12 not_found=0 failed=11 | 261.2 min gelaufen
+21:25:49 [INFO] [1310/1317] ok=1287 empty=12 not_found=0 failed=11 | 262.4 min gelaufen
+21:26:44 [INFO] [1317/1317] ok=1294 empty=12 not_found=0 failed=11 | 263.4 min gelaufen
+21:26:44 [INFO] Fertig. ok=1294 empty=12 not_found=0 failed=11
+21:32:55 [INFO] Panel: 7483700 Zeilen, 5200 Items, 2013-08-14 bis 2026-09-01
+21:33:24 [INFO] Itemliste: 5249 | bereits erledigt: 5226 | zu holen: 23
+21:33:24 [INFO] Geschaetzte Laufzeit (ohne Backoffs): ~4 Minuten.
+21:33:24 [INFO] Pruefe Cookie mit Probe-Item: AK-47 | Redline (Field-Tested)
+21:33:24 [INFO] Cookie OK. Waehrung laut Steam: prefix='' suffix='€'  (1=USD erwartet -> '$')
+21:33:25 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+21:33:30 [WARNING] HTTP 500 -- Serverfehler. Warte 9 s (Versuch 2/4).
+21:33:39 [WARNING] HTTP 500 -- Serverfehler. Warte 20 s (Versuch 3/4).
+21:34:00 [WARNING] HTTP 500 -- Serverfehler. Warte 34 s (Versuch 4/4).
+21:34:34 [ERROR] [1/23] ★ StatTrak™ Bayonet | Crimson Web (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+21:34:43 [WARNING] HTTP 500 -- Serverfehler. Warte 4 s (Versuch 1/4).
+21:34:48 [WARNING] HTTP 500 -- Serverfehler. Warte 11 s (Versuch 2/4).
+21:34:59 [WARNING] HTTP 500 -- Serverfehler. Warte 21 s (Versuch 3/4).
+21:35:20 [WARNING] HTTP 500 -- Serverfehler. Warte 39 s (Versuch 4/4).
+21:35:59 [ERROR] [2/23] ★ StatTrak™ Bayonet | Ultraviolet (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+21:36:08 [WARNING] HTTP 500 -- Serverfehler. Warte 4 s (Versuch 1/4).
+21:36:12 [WARNING] HTTP 500 -- Serverfehler. Warte 11 s (Versuch 2/4).
+21:36:24 [WARNING] HTTP 500 -- Serverfehler. Warte 23 s (Versuch 3/4).
+21:36:47 [WARNING] HTTP 500 -- Serverfehler. Warte 40 s (Versuch 4/4).
+21:37:28 [ERROR] [3/23] ★ StatTrak™ Bowie Knife | Crimson Web (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+21:37:40 [WARNING] HTTP 500 -- Serverfehler. Warte 4 s (Versuch 1/4).
+21:37:44 [WARNING] HTTP 500 -- Serverfehler. Warte 9 s (Versuch 2/4).
+21:37:53 [WARNING] HTTP 500 -- Serverfehler. Warte 20 s (Versuch 3/4).
+21:38:14 [WARNING] HTTP 500 -- Serverfehler. Warte 35 s (Versuch 4/4).
+21:38:49 [ERROR] [4/23] ★ StatTrak™ Bowie Knife | Safari Mesh (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+21:38:57 [WARNING] HTTP 500 -- Serverfehler. Warte 4 s (Versuch 1/4).
+21:39:02 [WARNING] HTTP 500 -- Serverfehler. Warte 10 s (Versuch 2/4).
+21:39:13 [WARNING] HTTP 500 -- Serverfehler. Warte 23 s (Versuch 3/4).
+21:39:36 [WARNING] HTTP 500 -- Serverfehler. Warte 45 s (Versuch 4/4).
+21:40:21 [ERROR] [5/23] ★ StatTrak™ Classic Knife | Crimson Web (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+21:40:31 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+21:40:37 [WARNING] HTTP 500 -- Serverfehler. Warte 9 s (Versuch 2/4).
+21:40:46 [WARNING] HTTP 500 -- Serverfehler. Warte 19 s (Versuch 3/4).
+21:41:05 [WARNING] HTTP 500 -- Serverfehler. Warte 36 s (Versuch 4/4).
+21:41:42 [ERROR] [6/23] ★ StatTrak™ Classic Knife | Urban Masked (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+21:41:52 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+21:41:57 [WARNING] HTTP 500 -- Serverfehler. Warte 10 s (Versuch 2/4).
+21:42:08 [WARNING] HTTP 500 -- Serverfehler. Warte 19 s (Versuch 3/4).
+21:42:27 [WARNING] HTTP 500 -- Serverfehler. Warte 35 s (Versuch 4/4).
+21:43:02 [ERROR] [7/23] ★ StatTrak™ Falchion Knife | Crimson Web (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+21:43:11 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+21:43:17 [WARNING] HTTP 500 -- Serverfehler. Warte 9 s (Versuch 2/4).
+21:43:25 [WARNING] HTTP 500 -- Serverfehler. Warte 17 s (Versuch 3/4).
+21:43:43 [WARNING] HTTP 500 -- Serverfehler. Warte 46 s (Versuch 4/4).
+21:44:29 [ERROR] [8/23] ★ StatTrak™ M9 Bayonet | Boreal Forest (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+21:44:47 [INFO] [10/23] ok=2 empty=0 not_found=0 failed=8 | 11.4 min gelaufen
+21:45:19 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+21:45:25 [WARNING] HTTP 500 -- Serverfehler. Warte 11 s (Versuch 2/4).
+21:45:36 [WARNING] HTTP 500 -- Serverfehler. Warte 17 s (Versuch 3/4).
+21:45:53 [WARNING] HTTP 500 -- Serverfehler. Warte 39 s (Versuch 4/4).
+21:46:32 [ERROR] [13/23] ★ StatTrak™ M9 Bayonet | Night (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+21:46:42 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+21:46:47 [WARNING] HTTP 500 -- Serverfehler. Warte 10 s (Versuch 2/4).
+21:46:57 [WARNING] HTTP 500 -- Serverfehler. Warte 19 s (Versuch 3/4).
+21:47:16 [WARNING] HTTP 500 -- Serverfehler. Warte 42 s (Versuch 4/4).
+21:47:58 [ERROR] [14/23] ★ StatTrak™ Paracord Knife | Crimson Web (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+21:48:10 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+21:48:16 [WARNING] HTTP 500 -- Serverfehler. Warte 11 s (Versuch 2/4).
+21:48:28 [WARNING] HTTP 500 -- Serverfehler. Warte 21 s (Versuch 3/4).
+21:48:49 [WARNING] HTTP 500 -- Serverfehler. Warte 39 s (Versuch 4/4).
+21:49:29 [ERROR] [15/23] ★ StatTrak™ Shadow Daggers | Crimson Web (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+21:49:39 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+21:49:44 [WARNING] HTTP 500 -- Serverfehler. Warte 11 s (Versuch 2/4).
+21:49:55 [WARNING] HTTP 500 -- Serverfehler. Warte 19 s (Versuch 3/4).
+21:50:15 [WARNING] HTTP 500 -- Serverfehler. Warte 44 s (Versuch 4/4).
+21:50:59 [ERROR] [16/23] ★ StatTrak™ Shadow Daggers | Urban Masked (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+21:51:09 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+21:51:14 [WARNING] HTTP 500 -- Serverfehler. Warte 11 s (Versuch 2/4).
+21:51:26 [WARNING] HTTP 500 -- Serverfehler. Warte 21 s (Versuch 3/4).
+21:51:46 [WARNING] HTTP 500 -- Serverfehler. Warte 41 s (Versuch 4/4).
+21:52:28 [ERROR] [17/23] ★ StatTrak™ Skeleton Knife | Crimson Web (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+21:52:40 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+21:52:45 [WARNING] HTTP 500 -- Serverfehler. Warte 10 s (Versuch 2/4).
+21:52:56 [WARNING] HTTP 500 -- Serverfehler. Warte 17 s (Versuch 3/4).
+21:53:14 [WARNING] HTTP 500 -- Serverfehler. Warte 42 s (Versuch 4/4).
+21:53:56 [ERROR] [18/23] ★ StatTrak™ Stiletto Knife | Crimson Web (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+21:54:08 [WARNING] HTTP 500 -- Serverfehler. Warte 4 s (Versuch 1/4).
+21:54:13 [WARNING] HTTP 500 -- Serverfehler. Warte 11 s (Versuch 2/4).
+21:54:24 [WARNING] HTTP 500 -- Serverfehler. Warte 17 s (Versuch 3/4).
+21:54:41 [WARNING] HTTP 500 -- Serverfehler. Warte 41 s (Versuch 4/4).
+21:55:22 [ERROR] [19/23] ★ StatTrak™ Survival Knife | Crimson Web (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+21:55:35 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+21:55:40 [WARNING] HTTP 500 -- Serverfehler. Warte 9 s (Versuch 2/4).
+21:55:49 [WARNING] HTTP 500 -- Serverfehler. Warte 22 s (Versuch 3/4).
+21:56:12 [WARNING] HTTP 500 -- Serverfehler. Warte 46 s (Versuch 4/4).
+21:56:58 [ERROR] [20/23] ★ StatTrak™ Talon Knife | Crimson Web (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+21:56:58 [INFO] [20/23] ok=4 empty=0 not_found=0 failed=16 | 23.6 min gelaufen
+21:57:08 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+21:57:14 [WARNING] HTTP 500 -- Serverfehler. Warte 9 s (Versuch 2/4).
+21:57:24 [WARNING] HTTP 500 -- Serverfehler. Warte 17 s (Versuch 3/4).
+21:57:42 [WARNING] HTTP 500 -- Serverfehler. Warte 40 s (Versuch 4/4).
+21:58:22 [ERROR] [21/23] ★ StatTrak™ Ursus Knife | Crimson Web (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+21:58:32 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+21:58:38 [WARNING] HTTP 500 -- Serverfehler. Warte 9 s (Versuch 2/4).
+21:58:47 [WARNING] HTTP 500 -- Serverfehler. Warte 18 s (Versuch 3/4).
+21:59:05 [WARNING] HTTP 500 -- Serverfehler. Warte 46 s (Versuch 4/4).
+21:59:51 [ERROR] [22/23] ★ StatTrak™ Ursus Knife | Forest DDPAT (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+22:00:03 [WARNING] HTTP 500 -- Serverfehler. Warte 4 s (Versuch 1/4).
+22:00:07 [WARNING] HTTP 500 -- Serverfehler. Warte 9 s (Versuch 2/4).
+22:00:17 [WARNING] HTTP 500 -- Serverfehler. Warte 19 s (Versuch 3/4).
+22:00:36 [WARNING] HTTP 500 -- Serverfehler. Warte 40 s (Versuch 4/4).
+22:01:16 [ERROR] [23/23] Souvenir AWP | Dragon Lore (Well-Worn) -> SteamTransient: HTTP 500 -- Serverfehler.
+22:01:16 [INFO] [23/23] ok=4 empty=0 not_found=0 failed=19 | 27.9 min gelaufen
+22:01:16 [INFO] Fertig. ok=4 empty=0 not_found=0 failed=19
+22:02:55 [INFO] Panel: 7484549 Zeilen, 5204 Items, 2013-08-14 bis 2026-09-01
+22:04:54 [INFO] Itemliste: 5249 | bereits erledigt: 5240 | zu holen: 9
+22:04:54 [INFO] Geschaetzte Laufzeit (ohne Backoffs): ~2 Minuten.
+22:04:54 [INFO] Pruefe Cookie mit Probe-Item: AK-47 | Redline (Field-Tested)
+22:04:55 [INFO] Cookie OK. Waehrung laut Steam: prefix='' suffix='€'  (1=USD erwartet -> '$')
+22:05:37 [WARNING] HTTP 500 -- Serverfehler. Warte 5 s (Versuch 1/4).
+22:05:42 [WARNING] HTTP 500 -- Serverfehler. Warte 9 s (Versuch 2/4).
+22:05:51 [WARNING] HTTP 500 -- Serverfehler. Warte 19 s (Versuch 3/4).
+22:06:10 [WARNING] HTTP 500 -- Serverfehler. Warte 43 s (Versuch 4/4).
+22:06:53 [ERROR] [5/9] ★ StatTrak™ M9 Bayonet | Crimson Web (Factory New) -> SteamTransient: HTTP 500 -- Serverfehler.
+22:07:34 [INFO] [9/9] ok=8 empty=0 not_found=0 failed=1 | 2.7 min gelaufen
+22:07:34 [INFO] Fertig. ok=8 empty=0 not_found=0 failed=1
+22:09:23 [INFO] Panel: 7487784 Zeilen, 5212 Items, 2013-08-14 bis 2026-09-01
+11:19:19 [INFO] Itemliste: 63 | bereits erledigt: 5249 | zu holen: 63
+11:19:19 [INFO] Geschaetzte Laufzeit (ohne Backoffs): ~10 Minuten.
+11:19:19 [INFO] Pruefe Cookie mit Probe-Item: AK-47 | Redline (Field-Tested)
+11:19:19 [INFO] Cookie OK. Waehrung laut Steam: prefix='' suffix='€'  (1=USD erwartet -> '$')
+11:20:56 [INFO] [10/63] ok=10 empty=0 not_found=0 failed=0 | 1.6 min gelaufen
+11:22:42 [INFO] [20/63] ok=20 empty=0 not_found=0 failed=0 | 3.4 min gelaufen
+11:24:32 [INFO] [30/63] ok=30 empty=0 not_found=0 failed=0 | 5.2 min gelaufen
+11:26:13 [INFO] [40/63] ok=40 empty=0 not_found=0 failed=0 | 6.9 min gelaufen
+11:27:58 [INFO] [50/63] ok=50 empty=0 not_found=0 failed=0 | 8.6 min gelaufen
+11:29:42 [INFO] [60/63] ok=60 empty=0 not_found=0 failed=0 | 10.4 min gelaufen
+11:30:14 [INFO] [63/63] ok=63 empty=0 not_found=0 failed=0 | 10.9 min gelaufen
+11:30:14 [INFO] Fertig. ok=63 empty=0 not_found=0 failed=0
+11:35:04 [INFO] Panel: 7639369 Zeilen, 5275 Items, 2013-08-14 bis 2026-09-18

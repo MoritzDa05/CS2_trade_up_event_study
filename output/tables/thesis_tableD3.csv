@@ -1,0 +1,10 @@
+Subgroup,Routes,"Median R, before","Below 0.870, before (%)","Median R, after","Below 0.870, after (%)","Between 0.870 and 1.0, after (%)","Above 1.0, after (%)"
+"Panel A. All routes, by wear level of the input",,,,,,,
+Factory New,56,2.24,26.8,4.10,0.0,0.0,100.0
+Minimal Wear,92,0.61,65.2,1.74,0.0,0.0,100.0
+Field-Tested,107,0.40,68.2,1.43,0.0,0.0,100.0
+Well-Worn,88,0.29,76.1,1.38,0.0,4.5,95.5
+Battle-Scarred,80,0.33,76.2,1.38,0.0,1.2,98.8
+"Panel B. Binding routes, by output pool of the case",,,,,,,
+Knife cases,237,0.23,100.0,1.37,0.0,0.8,99.2
+Glove cases,39,0.18,100.0,1.21,0.0,7.7,92.3

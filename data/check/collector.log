@@ -1,0 +1,12 @@
+11:00:26 [INFO] Itemliste: 5 | bereits erledigt: 0 | zu holen: 5
+11:00:26 [INFO] Geschaetzte Laufzeit (ohne Backoffs): ~0 Minuten.
+11:00:26 [INFO] Pruefe Cookie mit Probe-Item: AK-47 | Redline (Field-Tested)
+11:00:27 [WARNING] HTTP 429 -- Rate Limit erreicht. Warte 60 s (Versuch 1/2).
+11:01:27 [WARNING] HTTP 429 -- Rate Limit erreicht. Warte 117 s (Versuch 2/2).
+11:13:29 [INFO] Itemliste: 5 | bereits erledigt: 0 | zu holen: 5
+11:13:29 [INFO] Geschaetzte Laufzeit (ohne Backoffs): ~1 Minuten.
+11:13:29 [INFO] Pruefe Cookie mit Probe-Item: AK-47 | Redline (Field-Tested)
+11:13:30 [INFO] Cookie OK. Waehrung laut Steam: prefix='' suffix='€'  (1=USD erwartet -> '$')
+11:14:11 [INFO] [5/5] ok=5 empty=0 not_found=0 failed=0 | 0.7 min gelaufen
+11:14:11 [INFO] Fertig. ok=5 empty=0 not_found=0 failed=0
+11:14:12 [INFO] Panel: 9495 Zeilen, 5 Items, 2021-01-28 bis 2026-09-18

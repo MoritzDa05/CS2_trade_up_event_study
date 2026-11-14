@@ -1,0 +1,99 @@
+market_hash_name,date,t,p_prev,price_raw,p_next,volume,flag_spike_removed
+★ Driver Gloves | Racing Green (Well-Worn),2025-10-22,-1,49.979,78.53,51.91,4,False
+Five-SeveN | Hyper Beast (Factory New),2025-10-23,0,229.792,373.08,251.732,7,False
+★ Flip Knife | Doppler (Minimal Wear),2025-10-23,0,689.526,407.453,730.331,5,False
+★ StatTrak™ Bowie Knife | Scorched (Field-Tested),2025-10-23,0,103.84,64.598,108.989,1,False
+★ StatTrak™ Falchion Knife | Ultraviolet (Battle-Scarred),2025-10-23,0,122.034,54.63,121.406,2,False
+★ StatTrak™ Huntsman Knife | Autotronic (Well-Worn),2025-10-23,0,193.092,109.625,188.806,2,False
+★ StatTrak™ Ursus Knife | Crimson Web (Well-Worn),2025-10-23,0,189.745,104.368,175.523,1,False
+AK-47 | B the Monster (Well-Worn),2025-10-24,1,160.611,103.802,159.563,3,False
+AK-47 | Leet Museo (Minimal Wear),2025-10-24,1,275.791,163.023,262.518,40,False
+AUG | Akihabara Accept (Battle-Scarred),2025-10-24,1,237.001,156.954,229.203,1,False
+DreamHack Cluj-Napoca 2015 Legends (Foil),2025-10-24,1,23.472,14.244,22.966,2,False
+Glock-18 | Bullet Queen (Factory New),2025-10-24,1,116.79,76.446,113.429,7,False
+Glock-18 | Gold Toof (Factory New),2025-10-24,1,167.122,110.43,164.75,24,False
+M4A1-S | Mecha Industries (Factory New),2025-10-24,1,200.473,132.807,183.837,10,False
+M4A4 | Desert-Strike (Factory New),2025-10-24,1,123.522,80.153,118.118,46,False
+M4A4 | Neo-Noir (Factory New),2025-10-24,1,167.647,110.819,170.478,31,False
+M4A4 | The Battlestar (Factory New),2025-10-24,1,164.77,97.51,152.77,48,False
+M4A4 | X-Ray (Factory New),2025-10-24,1,168.554,108.133,172.952,27,False
+StatTrak™ M4A4 | The Battlestar (Minimal Wear),2025-10-24,1,41.497,496.696,44.544,1,True
+★ Broken Fang Gloves | Yellow-banded (Factory New),2025-10-24,1,438.292,155.27,456.211,1,False
+★ Classic Knife | Fade (Minimal Wear),2025-10-24,1,382.218,210.715,400.755,2,False
+★ Driver Gloves | Crimson Weave (Field-Tested),2025-10-24,1,434.331,248.521,403.309,2,False
+★ M9 Bayonet | Doppler (Minimal Wear),2025-10-24,1,1118.059,680.292,1147.633,3,False
+★ M9 Bayonet | Freehand (Well-Worn),2025-10-24,1,336.184,220.246,320.609,2,False
+★ Nomad Knife | Blue Steel (Factory New),2025-10-24,1,221.714,145.053,242.103,2,False
+★ Nomad Knife | Marble Fade (Minimal Wear),2025-10-24,1,344.138,203.475,331.224,2,False
+★ StatTrak™ Butterfly Knife | Boreal Forest (Battle-Scarred),2025-10-24,1,299.862,63.307,278.092,1,True
+★ StatTrak™ Falchion Knife | Stained (Field-Tested),2025-10-24,1,131.139,78.255,130.012,2,False
+★ StatTrak™ Flip Knife | Blue Steel (Well-Worn),2025-10-24,1,157.587,91.813,146.704,1,False
+★ StatTrak™ Flip Knife | Lore (Minimal Wear),2025-10-24,1,237.255,111.236,230.854,1,False
+★ StatTrak™ Navaja Knife | Stained (Well-Worn),2025-10-24,1,80.594,49.592,88.04,1,False
+★ StatTrak™ Navaja Knife | Ultraviolet (Battle-Scarred),2025-10-24,1,87.119,50.904,84.628,1,False
+★ StatTrak™ Navaja Knife | Urban Masked (Field-Tested),2025-10-24,1,69.014,45.598,64.223,1,False
+★ StatTrak™ Stiletto Knife | Blue Steel (Battle-Scarred),2025-10-24,1,154.883,275.095,148.413,1,False
+★ StatTrak™ Stiletto Knife | Ultraviolet (Battle-Scarred),2025-10-24,1,198.37,130.045,184.525,1,False
+★ StatTrak™ Talon Knife | Slaughter (Factory New),2025-10-24,1,689.124,441.075,644.163,1,False
+★ StatTrak™ Talon Knife | Ultraviolet (Minimal Wear),2025-10-24,1,366.673,227.038,400.413,2,False
+★ StatTrak™ Ursus Knife | Safari Mesh (Battle-Scarred),2025-10-24,1,91.857,57.801,97.211,1,False
+★ Stiletto Knife | Crimson Web (Minimal Wear),2025-10-24,1,333.422,220.473,314.986,12,False
+★ Stiletto Knife | Marble Fade (Minimal Wear),2025-10-24,1,337.205,207.011,317.192,3,False
+★ Talon Knife | Fade (Minimal Wear),2025-10-24,1,850.281,551.46,795.774,1,False
+★ Ursus Knife | Damascus Steel (Battle-Scarred),2025-10-24,1,106.528,58.031,106.712,2,False
+AK-47 | Fuel Injector (Factory New),2025-10-25,2,1030.68,604.543,973.348,1,False
+StatTrak™ Glock-18 | Gold Toof (Factory New),2025-10-25,2,165.082,275.839,172.2,1,False
+★ Huntsman Knife | Night (Well-Worn),2025-10-25,2,68.826,105.438,69.563,1,False
+★ StatTrak™ Skeleton Knife | Doppler (Factory New),2025-10-25,2,657.498,1020.349,667.078,7,False
+StatTrak™ FAMAS | Commemoration (Minimal Wear),2025-10-26,3,49.753,32.207,48.089,1,False
+StatTrak™ Glock-18 | Gold Toof (Factory New),2025-10-26,3,275.839,172.2,253.01,2,False
+★ Butterfly Knife | Crimson Web (Well-Worn),2025-10-26,3,635.428,417.129,660.791,1,False
+★ Navaja Knife | Urban Masked (Well-Worn),2025-10-26,3,81.652,42.695,75.617,3,False
+★ Skeleton Knife | Stained (Factory New),2025-10-26,3,226.904,419.655,231.762,1,False
+★ StatTrak™ Nomad Knife | Night Stripe (Minimal Wear),2025-10-26,3,102.895,160.559,110.934,1,False
+★ StatTrak™ Paracord Knife | Damascus Steel (Well-Worn),2025-10-26,3,71.602,110.779,77.632,1,False
+★ Gut Knife | Crimson Web (Minimal Wear),2025-10-27,4,137.877,18.143,127.873,1,True
+★ StatTrak™ Falchion Knife | Lore (Factory New),2025-10-27,4,244.382,430.122,237.375,1,False
+★ StatTrak™ Falchion Knife | Safari Mesh (Field-Tested),2025-10-27,4,95.881,45.973,93.702,2,False
+★ StatTrak™ Paracord Knife | Crimson Web (Battle-Scarred),2025-10-27,4,103.157,165.895,111.507,1,False
+StatTrak™ AK-47 | Fuel Injector (Field-Tested),2025-10-28,5,343.272,35.066,345.72,1,True
+★ Gut Knife | Night (Well-Worn),2025-10-28,5,81.892,53.663,74.619,1,False
+★ Hand Wraps | Spruce DDPAT (Well-Worn),2025-10-28,5,115.855,0.11,121.233,1,True
+★ Moto Gloves | Boom! (Battle-Scarred),2025-10-28,5,114.062,75.374,118.768,1,False
+★ Navaja Knife | Case Hardened (Minimal Wear),2025-10-28,5,114.269,222.055,113.353,1,False
+★ StatTrak™ Falchion Knife | Autotronic (Well-Worn),2025-10-28,5,157.773,103.747,164.659,1,False
+★ StatTrak™ Falchion Knife | Scorched (Field-Tested),2025-10-28,5,92.821,60.951,94.406,1,False
+★ StatTrak™ Gut Knife | Blue Steel (Field-Tested),2025-10-28,5,80.335,175.928,77.246,1,False
+★ StatTrak™ Stiletto Knife | Damascus Steel (Field-Tested),2025-10-28,5,211.397,140.362,203.701,1,False
+Souvenir M4A4 | Eye of Horus (Field-Tested),2025-10-29,6,420.147,276.079,387.474,2,False
+StatTrak™ AK-47 | Vulcan (Field-Tested),2025-10-29,6,357.863,648.28,340.16,4,False
+★ Driver Gloves | Crimson Weave (Well-Worn),2025-10-29,6,248.72,163.067,227.766,1,False
+★ Huntsman Knife | Crimson Web (Battle-Scarred),2025-10-29,6,126.265,76.818,123.105,1,False
+★ StatTrak™ Bowie Knife | Forest DDPAT (Field-Tested),2025-10-29,6,99.854,59.035,95.829,1,False
+★ StatTrak™ Falchion Knife | Bright Water (Factory New),2025-10-29,6,129.337,85.509,128.945,2,False
+★ StatTrak™ Gut Knife | Black Laminate (Well-Worn),2025-10-29,6,105.522,64.481,104.321,1,False
+★ StatTrak™ Gut Knife | Stained (Battle-Scarred),2025-10-29,6,109.783,71.544,102.647,1,False
+★ StatTrak™ Huntsman Knife | Blue Steel (Battle-Scarred),2025-10-29,6,139.017,78.189,152.843,1,False
+★ StatTrak™ Huntsman Knife | Scorched (Battle-Scarred),2025-10-29,6,109.024,63.115,111.377,1,False
+★ StatTrak™ M9 Bayonet | Scorched (Field-Tested),2025-10-29,6,374.638,235.602,353.502,1,False
+★ StatTrak™ Nomad Knife | Boreal Forest (Minimal Wear),2025-10-29,6,146.934,91.845,147.894,1,False
+★ StatTrak™ Nomad Knife | Forest DDPAT (Well-Worn),2025-10-29,6,116.909,71.974,118.458,1,False
+★ StatTrak™ Nomad Knife | Ultraviolet (Minimal Wear),2025-10-29,6,200.496,130.346,200.961,1,False
+★ StatTrak™ Paracord Knife | Scorched (Battle-Scarred),2025-10-29,6,86.631,54.392,84.248,1,False
+★ StatTrak™ Shadow Daggers | Freehand (Factory New),2025-10-29,6,125.159,80.731,128.777,1,False
+★ StatTrak™ Skeleton Knife | Doppler (Factory New),2025-10-29,6,899.999,530.525,950.211,2,False
+Glock-18 | Gamma Doppler (Well-Worn),2025-10-31,8,79.632,149.01,80.981,3,False
+★ StatTrak™ M9 Bayonet | Boreal Forest (Field-Tested),2025-10-31,8,291.917,440.144,286.441,1,False
+★ StatTrak™ Stiletto Knife | Boreal Forest (Minimal Wear),2025-10-31,8,171.251,107.534,163.885,1,False
+★ Butterfly Knife | Slaughter (Factory New),2025-11-01,9,1544.735,888.187,1539.583,1,False
+★ Huntsman Knife | Crimson Web (Minimal Wear),2025-11-01,9,226.157,392.543,248.705,1,False
+★ Nomad Knife | Boreal Forest (Factory New),2025-11-01,9,139.033,233.487,150.182,1,False
+★ StatTrak™ Talon Knife | Case Hardened (Field-Tested),2025-11-01,9,445.038,684.37,433.481,1,False
+★ Talon Knife | Case Hardened (Well-Worn),2025-11-01,9,462.917,274.472,486.003,2,False
+AWP | Containment Breach (Minimal Wear),2025-11-02,10,283.403,183.089,285.79,2,False
+★ Falchion Knife | Urban Masked (Well-Worn),2025-11-02,10,115.019,73.245,123.83,2,False
+★ Nomad Knife | Damascus Steel (Well-Worn),2025-11-02,10,186.384,23.582,196.967,1,True
+★ StatTrak™ Bowie Knife | Case Hardened (Field-Tested),2025-11-02,10,210.204,317.537,212.482,1,False
+★ StatTrak™ Falchion Knife | Urban Masked (Battle-Scarred),2025-11-02,10,114.762,14.879,125.226,1,True
+★ StatTrak™ Paracord Knife | Doppler (Factory New),2025-11-02,10,429.383,800.471,391.62,4,False
+★ StatTrak™ Stiletto Knife | Damascus Steel (Factory New),2025-11-02,10,335.596,214.757,324.087,1,False

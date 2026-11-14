@@ -1,0 +1,11 @@
+wear,role,items,car_median_pct,car_mean_pct,price_pre
+Factory New,treated_input,94,-25.47,-12.21,93.36
+Minimal Wear,treated_input,121,-8.64,25.7,52.51
+Field-Tested,treated_input,132,23.42,66.96,33.68
+Well-Worn,treated_input,111,77.5,99.62,26.45
+Battle-Scarred,treated_input,111,61.19,98.07,27.95
+Factory New,treated_output,97,-41.56,-43.49,315.91
+Minimal Wear,treated_output,177,-45.61,-48.86,194.4
+Field-Tested,treated_output,310,-42.27,-45.87,173.19
+Well-Worn,treated_output,123,-40.72,-40.26,140.69
+Battle-Scarred,treated_output,160,-40.89,-42.85,147.06

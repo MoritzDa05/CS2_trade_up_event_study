@@ -1,0 +1,22 @@
+Panel A. Analysis groups						
+Step	Output	Input	Placebo ST	Placebo Map	Placebo Classified	
+In data window	3,592	662	70	107	63	
+Sale in estimation window	3,397	661	70	76	62	
+Listed before estimation window	3,344	661	70	56	62	
+Median price ≥ EUR 0.50	3,344	661	70	56	62	
+No censored prices	3,179	659	70	45	61	
+Trade share ≥ 30%	965	569	53	28	52	
+At least 30 returns	965	569	53	28	52	
+Standard finishes	890	569	53	28	52	
+Not sold in store	890	569	53	28	52	
+Panel B. Other groups						
+Step	Benchmark (sticker capsules)	Music kits and agents	Cases	Graffiti	Souvenir	All groups
+In data window	89	234	42	150	32	5,041
+Sale in estimation window	86	234	42	150	21	4,799
+Listed before estimation window	79	214	42	150	16	4,694
+Median price ≥ EUR 0.50	62	214	40	24	16	4,549
+No censored prices	61	214	40	24	9	4,362
+Trade share ≥ 30%	53	214	40	24	0	1,998
+At least 30 returns	53	214	40	24	0	1,998
+Standard finishes	53	214	40	24	0	1,923
+Not sold in store	30	214	40	24	0	1,900

@@ -1,0 +1,15 @@
+Panel A. Output float,,
+Statistic,Contract A,Contract B
+Output,M4A4 | Etch Lord,Desert Eagle | Trigger Discipline
+Range of the output,0.00 to 1.00,0.00 to 0.97
+Observed float,0.507800162,0.509881258
+Equation (1),0.507800141,0.509881232
+Difference,+0.000000021,+0.000000026
+Raw average,0.432282128,0.363832370
+Difference,+0.075518034,+0.146048888
+Panel B. Trade hold,,
+Statistic,Contract A,Contract B
+Contract executed,"Nov 12, 19:32","Nov 11, 22:06"
+Inputs tradable after,"Nov 18, 19:00 and 22:00","Nov 17, 17:00"
+Output tradable after,"Nov 18, 22:00","Nov 17, 17:00"
+Contract + 7 days,Nov 19,Nov 18

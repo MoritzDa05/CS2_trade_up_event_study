@@ -1,0 +1,676 @@
+10:27:40 [INFO] Check: 500 finishes in 42 pools: 428 knives (20 of them vanilla), 72 gloves; 84 knife finishes end at 0.08
+10:27:40 [INFO] Check: 480 finishes with a float; Doppler 18 x 7 kits, Gamma Doppler 10 x 5 kits; that makes 628 paint kits
+10:27:40 [INFO] Check: agrees with check_item_list.csv (628 paint kits)
+10:27:40 [INFO] 
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO] TABLE A1: FLOAT RANGES OF THE KNIFE AND GLOVE FINISHES
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO]    Float range Knives Gloves Wear levels                     Examples
+10:27:40 [INFO]   0.00 to 0.08     84      0      FN, MW                Fade, Doppler
+10:27:40 [INFO]   0.01 to 0.26     20      0    FN to FT                    Slaughter
+10:27:40 [INFO]   0.00 to 0.48     10      0    FN to BS                     Freehand
+10:27:40 [INFO]   0.00 to 0.50     28      0    FN to BS Damascus Steel, Bright Water
+10:27:40 [INFO]   0.00 to 0.65      7      0    FN to BS                         Lore
+10:27:40 [INFO]   0.06 to 0.80    158     72    FN to BS    Crimson Web, Forest DDPAT
+10:27:40 [INFO]   0.00 to 0.85     10      0    FN to BS                   Autotronic
+10:27:40 [INFO]   0.00 to 1.00     73      0    FN to BS    Blue Steel, Case Hardened
+10:27:40 [INFO]   0.40 to 1.00     18      0      WW, BS                    Rust Coat
+10:27:40 [INFO] Vanilla knives     20      0           –                            –
+10:27:40 [INFO]   All finishes    428     72                                         
+10:27:40 [INFO] -> output/tables/thesis_tableA1.csv and .tsv
+10:27:40 [INFO] Check: rows agree with 06_output_wear.csv
+10:27:40 [INFO] Check: row sums 100.00, 100.00, 100.00, 100.00, 100.00
+10:27:40 [INFO] Check: all routes -- FT, WW, and BS together 55.1 %, with vanilla 60.4 %; FN alone 23.0 %
+10:27:40 [INFO] Check: five Battle-Scarred inputs -> Factory New 14.58 %, of which 14.58 % from finishes ending at 0.08; these finishes carry 17.22 % of the probability of Battle-Scarred routes (Factory New 14.58 %, Minimal Wear 2.64 %)
+10:27:40 [INFO] Check: 569 routes (FN 94, MW 121, FT 132, WW 111, BS 111)
+10:27:40 [INFO] 
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO] TABLE A3: WEAR LEVEL OF THE OUTPUT BY WEAR LEVEL OF THE INPUT
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO] Input wear level Wear level of the output (%)                            
+10:27:40 [INFO]                                            FN   MW   FT   WW   BS Vanilla
+10:27:40 [INFO]      Factory New                         43.9 45.1  1.5  3.6  0.6     5.2
+10:27:40 [INFO]     Minimal Wear                         25.7 28.6 35.5  0.3  4.6     5.4
+10:27:40 [INFO]     Field-Tested                         17.8  7.4 48.1  6.8 14.4     5.4
+10:27:40 [INFO]        Well-Worn                         16.9  4.0 26.0 14.8 33.0     5.4
+10:27:40 [INFO]   Battle-Scarred                         14.6  2.7  7.8  4.2 65.3     5.4
+10:27:40 [INFO]       All routes                         23.0 16.6 25.6  5.9 23.6     5.4
+10:27:40 [INFO] -> output/tables/thesis_tableA3.csv and .tsv
+10:27:40 [INFO] 
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO] CHECKS FOR THE TEXT OF APPENDIX A
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO] Doppler and Gamma Doppler: 12 of 42 pools (share of the finishes, and the share if every paint kit were a finish):
+10:27:40 [INFO]                     case  finishes  Doppler  Gamma Doppler  share  share_if_each_kit
+10:27:40 [INFO]            Chroma 2 Case        30        5              0  0.167              0.583
+10:27:40 [INFO]            Chroma 3 Case        30        5              0  0.167              0.583
+10:27:40 [INFO]              Chroma Case        30        5              0  0.167              0.583
+10:27:40 [INFO] Dreams & Nightmares Case        30        0              5  0.167              0.500
+10:27:40 [INFO]               Fever Case        28        4              0  0.143              0.538
+10:27:40 [INFO]             Gamma 2 Case        30        0              5  0.167              0.500
+10:27:40 [INFO]               Gamma Case        30        0              5  0.167              0.500
+10:27:40 [INFO]   Operation Riptide Case        30        0              5  0.167              0.500
+10:27:40 [INFO]            Prisma 2 Case        28        4              0  0.143              0.538
+10:27:40 [INFO]              Prisma Case        28        4              0  0.143              0.538
+10:27:40 [INFO]          Spectrum 2 Case        30        5              0  0.167              0.583
+10:27:40 [INFO]            Spectrum Case        30        5              0  0.167              0.583
+10:27:40 [INFO] Share of the finishes from 0.143 to 0.167; if every paint kit were a finish, from 0.500 to 0.583
+10:27:40 [INFO] Check: 211 of 569 main-sample input routes can yield Doppler or Gamma Doppler; on these they carry 16.0 % of the probability on average (14.3 % to 16.7 %)
+10:27:40 [INFO] Check, example route AK-47 | Head Shot (Battle-Scarred): Revolution Case, input range 0.00 to 1.00, positions from 0.450 to 1.000; pool of 24 finishes (Gloves 24)
+10:27:40 [INFO]   24 finishes with range 0.06 to 0.80: output float from 0.393 to 0.800
+10:27:40 [INFO]   output wear level (%): Battle-Scarred 99.86, Well-Worn 0.14
+10:27:40 [INFO]   before: 5 x EUR 4.379 = EUR 21.89, E[V] EUR 200.06, R = 0.109; bound reached at a Covert price of EUR 34.79 (E[V] unchanged) or at E[V] = EUR 25.18 (price unchanged)
+10:27:40 [INFO]   after: Covert EUR 34.15, E[V] EUR 129.25, R = 1.321
+10:27:40 [INFO] Check: pseudo routes of Placebo ST -- 70 from 7 glove cases; 53 in the main sample (6 cases); 44 with R before the update (5 cases)
+10:27:40 [INFO] Check: 5312 items in the list, 5275 with a price history, 234 without a sale in the window, 5041 in the data window, 697 spikes removed
+10:27:40 [INFO] Check: collector status of the missing items -- {'failed': 20, 'empty': 17}
+10:27:40 [INFO] 
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO] TABLE B1: FROM THE ITEM LIST TO THE DATA WINDOW
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO]                                           Panel A. Items by group                                                                                       
+10:27:40 [INFO]                                                             Group   Item list Price history       Not traded In data window Spikes removed     Retrieved
+10:27:40 [INFO]                                                    Output, knives       3,428         3,393              139          3,254            424 Aug 28, Sep 1
+10:27:40 [INFO]                                                    Output, gloves         360           360               22            338             64        Aug 28
+10:27:40 [INFO]                                                             Input         668           668                6            662            145        Aug 28
+10:27:40 [INFO]                                                        Placebo ST          70            70                0             70             20         Sep 1
+10:27:40 [INFO]                                                       Placebo Map         154           154               47            107             13         Sep 1
+10:27:40 [INFO]                                                Placebo Classified          63            63                0             63              8        Sep 18
+10:27:40 [INFO]                                                  Souvenir Coverts          40            38                6             32              0         Sep 1
+10:27:40 [INFO]                                                  Sticker capsules          91            91                2             89              5        Aug 28
+10:27:40 [INFO]                                                        Music kits         183           183               12            171             13        Aug 28
+10:27:40 [INFO]                                                            Agents          63            63                0             63              0        Aug 28
+10:27:40 [INFO]                                                             Cases          42            42                0             42              0        Aug 28
+10:27:40 [INFO]                                                          Graffiti         150           150                0            150              5        Aug 28
+10:27:40 [INFO]                                                        All groups       5,312         5,275              234          5,041            697              
+10:27:40 [INFO] Panel B. Items not traded in the data window, by when they traded                                                                                       
+10:27:40 [INFO]                                                             Group Only before    Only after Before and after          Total                             
+10:27:40 [INFO]                                                    Output, knives         112             0               27            139                             
+10:27:40 [INFO]                                                    Output, gloves          17             0                5             22                             
+10:27:40 [INFO]                                                             Input           6             0                0              6                             
+10:27:40 [INFO]                                                       Placebo Map          21            20                6             47                             
+10:27:40 [INFO]                                                  Souvenir Coverts           6             0                0              6                             
+10:27:40 [INFO]                                                  Sticker capsules           1             1                0              2                             
+10:27:40 [INFO]                                                        Music kits           0            12                0             12                             
+10:27:40 [INFO]                                                        All groups         163            33               38            234                             
+10:27:40 [INFO] -> output/tables/thesis_tableB1.csv and .tsv
+10:27:40 [INFO] Check: main sample 1900 items (Output 890, Input 569, Placebo ST 53, Placebo Map 28, Placebo Classified 52)
+10:27:40 [INFO] 
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO] TABLE B2: SAMPLE SELECTION
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO]        Panel A. Analysis groups                                                                                                        
+10:27:40 [INFO]                            Step                       Output                 Input Placebo ST Placebo Map Placebo Classified           
+10:27:40 [INFO]                  In data window                        3,592                   662         70         107                 63           
+10:27:40 [INFO]       Sale in estimation window                        3,397                   661         70          76                 62           
+10:27:40 [INFO] Listed before estimation window                        3,344                   661         70          56                 62           
+10:27:40 [INFO]         Median price ≥ EUR 0.50                        3,344                   661         70          56                 62           
+10:27:40 [INFO]              No censored prices                        3,179                   659         70          45                 61           
+10:27:40 [INFO]               Trade share ≥ 30%                          965                   569         53          28                 52           
+10:27:40 [INFO]             At least 30 returns                          965                   569         53          28                 52           
+10:27:40 [INFO]               Standard finishes                          890                   569         53          28                 52           
+10:27:40 [INFO]               Not sold in store                          890                   569         53          28                 52           
+10:27:40 [INFO]           Panel B. Other groups                                                                                                        
+10:27:40 [INFO]                            Step Benchmark (sticker capsules) Music kits and agents      Cases    Graffiti           Souvenir All groups
+10:27:40 [INFO]                  In data window                           89                   234         42         150                 32      5,041
+10:27:40 [INFO]       Sale in estimation window                           86                   234         42         150                 21      4,799
+10:27:40 [INFO] Listed before estimation window                           79                   214         42         150                 16      4,694
+10:27:40 [INFO]         Median price ≥ EUR 0.50                           62                   214         40          24                 16      4,549
+10:27:40 [INFO]              No censored prices                           61                   214         40          24                  9      4,362
+10:27:40 [INFO]               Trade share ≥ 30%                           53                   214         40          24                  0      1,998
+10:27:40 [INFO]             At least 30 returns                           53                   214         40          24                  0      1,998
+10:27:40 [INFO]               Standard finishes                           53                   214         40          24                  0      1,923
+10:27:40 [INFO]               Not sold in store                           30                   214         40          24                  0      1,900
+10:27:40 [INFO] -> output/tables/thesis_tableB2.csv and .tsv
+10:27:40 [INFO] Check: main sample in Panel B 1900, illiquid variant 191
+10:27:40 [INFO] Check: illiquid variant in effect 22 % to 30 % trade share; burn-in variant drops 103 main-sample items
+10:27:40 [INFO] 
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO] TABLE B3: TRADE SHARE AND SAMPLE VARIANTS
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO] Panel A. Items in the data window by trade share in the estimation window                                                                                                                                            
+10:27:40 [INFO]                                                                     Group     No sale         Below 10%                     10% to 30%             30% to 50%                                       50% or more Total
+10:27:40 [INFO]                                                                    Output         195             1,541                            882                    387                                               587 3,592
+10:27:40 [INFO]                                                                     Input           1                27                             65                     59                                               510   662
+10:27:40 [INFO]                                                                Placebo ST           0                 9                              8                      4                                                49    70
+10:27:40 [INFO]                                                               Placebo Map          31                22                              8                      4                                                42   107
+10:27:40 [INFO]                                                        Placebo Classified           1                 5                              5                      6                                                46    63
+10:27:40 [INFO]                                              Benchmark (sticker capsules)           3                 3                              6                      5                                                72    89
+10:27:40 [INFO]                                                     Music kits and agents           0                 0                              0                      0                                               234   234
+10:27:40 [INFO]                                                                     Cases           0                 0                              0                      0                                                42    42
+10:27:40 [INFO]                                                                  Graffiti           0                 0                              0                      0                                               150   150
+10:27:40 [INFO]                                                          Souvenir Coverts          11                17                              1                      3                                                 0    32
+10:27:40 [INFO]                                                                All groups         242             1,624                            975                    468                                             1,732 5,041
+10:27:40 [INFO]                                          Panel B. Items by sample variant                                                                                                                                            
+10:27:40 [INFO]                                                                     Group Main sample Trade share ≥ 50% With Doppler and Case Hardened Trade share 10% to 30% First sale ≥ 30 days before the estimation window      
+10:27:40 [INFO]                                                                    Output         890               547                            965                    165                                               827      
+10:27:40 [INFO]                                                                     Input         569               510                            569                     16                                               549      
+10:27:40 [INFO]                                                                Placebo ST          53                49                             53                      4                                                53      
+10:27:40 [INFO]                                                               Placebo Map          28                24                             28                      1                                                24      
+10:27:40 [INFO]                                                        Placebo Classified          52                46                             52                      0                                                37      
+10:27:40 [INFO]                                              Benchmark (sticker capsules)          30                25                             30                      5                                                30      
+10:27:40 [INFO]                                                     Music kits and agents         214               214                            214                      0                                               214      
+10:27:40 [INFO]                                                                     Cases          40                40                             40                      0                                                39      
+10:27:40 [INFO]                                                                  Graffiti          24                24                             24                      0                                                24      
+10:27:40 [INFO]                                                          Souvenir Coverts           0                 0                              0                      0                                                 0      
+10:27:40 [INFO]                                                                All groups       1,900             1,479                          1,975                    191                                             1,797      
+10:27:40 [INFO] -> output/tables/thesis_tableB3.csv and .tsv
+10:27:40 [INFO] Check: largest day t = 0 (-30.0 %, 82.5 % falling); 14 of the top 15 days lie in t = 0 to +21; largest |median| in the estimation window 2.4 %
+10:27:40 [INFO] 
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO] TABLE B4: LARGEST MARKET-WIDE DAILY PRICE MOVES
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO]       Panel A. Data window                                                                         
+10:27:40 [INFO]                       Rank         Date     t Items Median return (%) Falling (%) Volume (multiple)
+10:27:40 [INFO]                          1 Oct 23, 2025     0 2,161             −30.0        82.5              4.34
+10:27:40 [INFO]                          2 Oct 25, 2025    +2 3,357             +17.3         7.1              2.10
+10:27:40 [INFO]                          3 Oct 31, 2025    +8 3,126             +12.4         9.0              1.62
+10:27:40 [INFO]                          4 Oct 30, 2025    +7 2,837              +9.3        15.6              1.64
+10:27:40 [INFO]                          5 Oct 26, 2025    +3 3,179              +5.9        17.9              1.62
+10:27:40 [INFO]                          6 Oct 29, 2025    +6 2,591              −5.2        79.0              1.29
+10:27:40 [INFO]                          7 Oct 24, 2025    +1 3,440              −5.0        69.4              3.14
+10:27:40 [INFO]                          8 Oct 28, 2025    +5 2,627              −4.7        75.9              1.10
+10:27:40 [INFO]                          9  Nov 1, 2025    +9 2,928              +3.9        25.4              1.59
+10:27:40 [INFO]                         10  Nov 2, 2025   +10 2,826              +3.2        24.3              1.48
+10:27:40 [INFO]                         11 Nov 13, 2025  +21ᵃ 2,211              −3.0        69.4              1.34
+10:27:40 [INFO]                         12 Oct 27, 2025    +4 2,811              −3.0        67.5              1.28
+10:27:40 [INFO]                         13  Nov 8, 2025   +16 2,354              −3.0        69.0              1.14
+10:27:40 [INFO]                         14  Nov 9, 2025   +17 2,318              −2.8        69.5              1.07
+10:27:40 [INFO]                         15 Jul 21, 2025   −94 1,321              −2.4        68.5              1.00
+10:27:40 [INFO] Panel B. Estimation window                                                                         
+10:27:40 [INFO]                       Rank         Date     t Items Median return (%) Falling (%) Volume (multiple)
+10:27:40 [INFO]                          1 Jul 21, 2025   −94 1,321              −2.4        68.5              1.00
+10:27:40 [INFO]                          2  Oct 2, 2025  −21ᵃ 1,450              +1.8        32.6              1.55
+10:27:40 [INFO]                          3 May 23, 2025 −153ᵃ 1,269              −1.7        66.2              1.28
+10:27:40 [INFO]                          4 Jul 31, 2025   −84 1,418              +1.5        33.6              1.12
+10:27:40 [INFO]                          5 Jul 17, 2025  −98ᵃ 1,322              −1.5        65.0              1.21
+10:27:40 [INFO]                          6 Jul 11, 2025  −104 1,228              +1.3        36.3              1.19
+10:27:40 [INFO]                          7  Oct 3, 2025  −20ᵃ 1,459              +1.2        36.5              1.31
+10:27:40 [INFO]                          8 Jul 25, 2025   −90 1,338              +1.2        38.3              1.11
+10:27:40 [INFO]                          9 Jul 26, 2025   −89 1,372              +1.1        39.0              1.11
+10:27:40 [INFO]                         10 Sep 17, 2025  −36ᵃ 1,410              −1.1        58.7              2.01
+10:27:40 [INFO] -> output/tables/thesis_tableB4.csv and .tsv
+10:27:40 [INFO] 
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO] TABLE C1: RETURN PROPERTIES, MARKET MODEL, CORRELATION
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO]         Panel A. Returns in the estimation window                                                                                               
+10:27:40 [INFO]                                             Group     Items       Returns         SD (%)         Skewness Excess kurtosis Zero returns (%) AR(1)
+10:27:40 [INFO]                                            Output       890           103           9.25            −0.11            1.03              0.0 −0.43
+10:27:40 [INFO]                                             Input       569           174           5.94            −0.10            2.20              0.0 −0.34
+10:27:40 [INFO]                                        Placebo ST        53           170           7.06            −0.11            1.60              0.0 −0.39
+10:27:40 [INFO]                                       Placebo Map        28           160           8.17            −0.05            4.23              0.0 −0.39
+10:27:40 [INFO]                                Placebo Classified        52           176           4.60            −0.14            3.50              0.0 −0.21
+10:27:40 [INFO]                      Benchmark (sticker capsules)        30           133           6.76            −0.25            4.05              0.0 −0.18
+10:27:40 [INFO]                             Music kits and agents       214           176           4.26            −0.10            1.33              0.0 −0.26
+10:27:40 [INFO]                                             Cases        40           176           2.64            −0.01            2.77              0.6  0.15
+10:27:40 [INFO]                                          Graffiti        24           175           9.08             0.01            3.76              0.6 −0.30
+10:27:40 [INFO]                   Panel B. Market model estimates                                                                                               
+10:27:40 [INFO]                                             Group β (α = 0) α (% per day)             R²            σ (%)              r̄                       
+10:27:40 [INFO]                                            Output     0.066        −0.062          0.003             7.91           0.006                       
+10:27:40 [INFO]                                             Input     0.118        −0.006          0.004             5.84           0.026                       
+10:27:40 [INFO]                                        Placebo ST     0.170        −0.055          0.005             6.38           0.014                       
+10:27:40 [INFO]                                       Placebo Map     0.096         0.402          0.002             7.85           0.028                       
+10:27:40 [INFO]                                Placebo Classified     0.055        −0.114          0.003             4.61           0.034                       
+10:27:40 [INFO]                      Benchmark (sticker capsules)     1.059         0.050          0.043             5.67          −0.044                       
+10:27:40 [INFO]                             Music kits and agents     0.157        −0.062          0.004             4.26           0.057                       
+10:27:40 [INFO]                                             Cases     0.173         0.033          0.015             2.63           0.216                       
+10:27:40 [INFO]                                          Graffiti    −0.171        −0.010          0.004             8.98           0.028                       
+10:27:40 [INFO] Panel C. Correlation of returns between two items                                                                                               
+10:27:40 [INFO]                                     Pair of items     Pairs   Mean, daily Mean, five-day Median, five-day                                       
+10:27:40 [INFO]                         Same skin, different wear     3,233         0.040          0.140            0.134                                       
+10:27:40 [INFO]                         Same case, different skin    39,226         0.012          0.053            0.055                                       
+10:27:40 [INFO]                        Same group, different case   434,645         0.017          0.063            0.064                                       
+10:27:40 [INFO]                                   Different group 1,146,207         0.012          0.055            0.056                                       
+10:27:40 [INFO] -> output/tables/thesis_tableC1.csv and .tsv
+10:27:40 [INFO] 
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO] TABLE C2: ABNORMAL RETURNS BEFORE THE ANNOUNCEMENT
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO]    Window                                 Group CAAR (%) Median (%) t_BMP  t_KP Rank z Sign z CAAR, α estimated (%) t_KP, α estimated
+10:27:40 [INFO] [−14, −2]                      Output (n = 890)    +4.5†       +2.7 +7.81 +3.15  +2.06  +6.87                  +4.5             +3.31
+10:27:40 [INFO]                                 Input (n = 569)     +4.6       +1.2 +6.65 +1.64  +0.76  +3.23                  +3.7             +1.59
+10:27:40 [INFO]                             Placebo ST (n = 53)     +8.3       +5.9 +3.61 +2.75  +1.46  +3.81                  +8.5             +2.90
+10:27:40 [INFO]                            Placebo Map (n = 28)     +5.2       −2.0 +1.39 +1.03  −0.10  −0.73                  +0.7             +0.52
+10:27:40 [INFO]                     Placebo Classified (n = 52)     −0.4       −2.6 −0.63 −0.37  −0.05  −1.28                  −0.1             +0.17
+10:27:40 [INFO]           Benchmark (sticker capsules) (n = 30)     −0.2       +1.9 −0.47     –  −0.36  +1.13                  −0.3                 –
+10:27:40 [INFO]                 Music kits and agents (n = 214)     −2.9       −0.8 −3.42 −0.92  −1.29  −2.02                  −3.8             −0.98
+10:27:40 [INFO]                                  Cases (n = 40)     +4.3       +5.5 +4.05 +1.17  +0.81  +4.17                  +3.8             +1.01
+10:27:40 [INFO]                               Graffiti (n = 24)     −1.5       −0.3 −0.29 −0.22  −0.21  −0.60                  −1.6             −0.23
+10:27:40 [INFO]  [−5, −2]                      Output (n = 890)     +0.8       +0.6 +1.74 +0.72  +0.76  +2.69                  +0.8             +0.80
+10:27:40 [INFO]                                 Input (n = 569)     −0.8       −0.3 −2.46 −0.61  −0.51  −1.85                  −1.1             −0.62
+10:27:40 [INFO]                             Placebo ST (n = 53)     +1.7       +0.4 +0.55 +0.42  +0.89  +1.25                  +1.8             +0.54
+10:27:40 [INFO]                            Placebo Map (n = 28)     −0.8       −3.2 +0.22 +0.17  −1.33  −1.91                  −2.0             −0.06
+10:27:40 [INFO]                     Placebo Classified (n = 52)     −0.6       −2.2 −1.10 −0.66  −1.07  −1.75                  −0.4             −0.35
+10:27:40 [INFO]           Benchmark (sticker capsules) (n = 30)     −0.3       −2.8 −0.76     –  −0.98  −1.06                  −0.3                 –
+10:27:40 [INFO]                 Music kits and agents (n = 214)     −1.9       −0.8 −3.54 −0.95  −1.25  −1.33                  −2.2             −0.99
+10:27:40 [INFO]                                  Cases (n = 40)     −0.8       −1.0 −1.51 −0.43  −0.59  −1.84                  −0.9             −0.54
+10:27:40 [INFO]                               Graffiti (n = 24)     −1.9       −1.4 −0.70 −0.54  −0.57  −0.19                  −1.9             −0.55
+10:27:40 [INFO] -> output/tables/thesis_tableC2.csv and .tsv
+10:27:40 [INFO] 
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO] TABLE C3: ALL EVENT WINDOWS AND TESTS
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO]    Window                                 Group CAAR (%) Median (%) Raw median (%)  t_BMP   t_KP Rank z Sign z t, portfolio
+10:27:40 [INFO]     t = 0                      Output (n = 890)   −41.6†      −40.5          −40.9 −52.43 −21.16 −18.00 −29.50       −95.91
+10:27:40 [INFO]                                 Input (n = 569)    +49.7      +12.9           +7.5 +11.94  +2.96  +1.68  +3.46       +50.69
+10:27:40 [INFO]                             Placebo ST (n = 53)    +22.5      +13.5           +8.9  +3.17  +2.41  +1.88  +1.34       +16.38
+10:27:40 [INFO]                            Placebo Map (n = 28)   −23.1†      −24.4          −23.4  −6.40  −4.85  −4.76  −4.66       −12.74
+10:27:40 [INFO]                     Placebo Classified (n = 52)    +21.7       −8.1           −8.8  +2.59  +1.54  −1.07  −1.43       +15.76
+10:27:40 [INFO]           Benchmark (sticker capsules) (n = 30)     +3.6       +2.5          −15.9  +0.39      –  +1.12  +0.96            –
+10:27:40 [INFO]                 Music kits and agents (n = 214)   −13.4†      −12.2          −13.3 −17.61  −4.76  −5.54 −12.15       −14.27
+10:27:40 [INFO]                                  Cases (n = 40)   −13.3†      −14.6          −17.2  −8.27  −2.39  −2.66  −5.00       −11.14
+10:27:40 [INFO]                               Graffiti (n = 24)   −10.3†       −9.2           −8.4  −3.72  −2.87  −3.05  −2.24        −4.79
+10:27:40 [INFO]  [−1, +1]                      Output (n = 890)   −45.1†      −42.5          −43.1 −47.86 −19.32 −14.02 −28.97       −53.85
+10:27:40 [INFO]                                 Input (n = 569)   +51.4†      +13.7           +4.6 +11.17  +2.76  +3.12  +2.39       +22.35
+10:27:40 [INFO]                             Placebo ST (n = 53)    +14.3       +5.2           −0.2  +2.48  +1.89  +0.00  +0.51        +6.53
+10:27:40 [INFO]                            Placebo Map (n = 28)   −38.4†      −42.0          −37.1  −8.81  −6.62  −5.76  −4.78       −13.73
+10:27:40 [INFO]                     Placebo Classified (n = 52)     +4.1      −13.6          −19.8  +1.40  +0.83  −2.54  −1.83        +1.75
+10:27:40 [INFO]           Benchmark (sticker capsules) (n = 30)     +6.4       −3.5          −25.6  +0.19      –  +1.02  −0.70            –
+10:27:40 [INFO]                 Music kits and agents (n = 214)   −15.3†      −13.8          −17.5 −17.32  −4.65  −3.76 −12.69        −8.86
+10:27:40 [INFO]                                  Cases (n = 40)   −24.4†      −25.8          −29.5 −12.41  −3.58  −4.17  −6.27       −10.01
+10:27:40 [INFO]                               Graffiti (n = 24)   −15.6†      −20.7          −12.8  −3.60  −2.78  −3.24  −2.24        −4.33
+10:27:40 [INFO]  [−1, +5]                      Output (n = 890)   −39.0†      −36.7          −37.0 −46.85 −18.91  −7.57 −29.17       −23.47
+10:27:40 [INFO]                                 Input (n = 569)   +79.2†      +26.1          +19.9 +13.50  +3.33  +4.92  +6.75       +17.72
+10:27:40 [INFO]                             Placebo ST (n = 53)   +28.5†      +20.7          +30.0  +3.72  +2.83  +2.27  +1.34        +8.07
+10:27:40 [INFO]                            Placebo Map (n = 28)    −22.1      −21.7          −20.8  −7.06  −5.26  −1.95  −5.28        −4.58
+10:27:40 [INFO]                     Placebo Classified (n = 52)    +17.3       −4.6           −7.0  +2.68  +1.59  −0.86  −0.72        +3.63
+10:27:40 [INFO]           Benchmark (sticker capsules) (n = 30)     +3.8       +2.3          −17.3  +0.63      –  +1.27  +1.13            –
+10:27:40 [INFO]                 Music kits and agents (n = 214)     −8.7       −7.3           −9.6 −10.55  −2.83  −1.57  −7.49        −3.20
+10:27:40 [INFO]                                  Cases (n = 40)   −17.2†      −18.5          −21.7 −10.96  −3.16  −2.38  −6.27        −4.40
+10:27:40 [INFO]                               Graffiti (n = 24)    −11.3      −10.8           −8.5  −3.76  −2.90  −1.33  −2.65        −2.07
+10:27:40 [INFO] [−1, +30]                      Output (n = 890)   −39.8†      −39.7          −39.8 −54.47 −21.98  −5.81 −29.50       −10.21
+10:27:40 [INFO]                                 Input (n = 569)  +134.5†      +68.0          +66.1 +16.26  +4.02  +4.64 +13.04       +12.68
+10:27:40 [INFO]                             Placebo ST (n = 53)    +27.4      +22.8          +23.2  +4.08  +3.10  +0.74  +2.16        +3.61
+10:27:40 [INFO]                            Placebo Map (n = 28)     −3.5      −12.8          −11.6  −0.39  −0.29  −0.47  −2.63        −0.33
+10:27:40 [INFO]                     Placebo Classified (n = 52)     +7.2       +3.0           +2.0  +2.28  +1.35  −1.57  +0.94        +0.68
+10:27:40 [INFO]           Benchmark (sticker capsules) (n = 30)     +0.5       +1.0           −4.1  +0.12      –  −0.26  +0.76            –
+10:27:40 [INFO]                 Music kits and agents (n = 214)     −6.1       −2.9           −3.1  −6.61  −1.77  −0.76  −3.79        −1.10
+10:27:40 [INFO]                                  Cases (n = 40)    −15.9      −15.5          −16.6  −9.48  −2.74  −1.52  −5.95        −2.04
+10:27:40 [INFO]                               Graffiti (n = 24)     +9.7       +2.4           +3.7  +1.47  +1.14  +0.37  −0.19        +0.79
+10:27:40 [INFO] [−1, +60]                      Output (n = 890)   −38.4†      −39.3          −39.2 −54.01 −21.80  −3.43 −29.17        −6.93
+10:27:40 [INFO]                                 Input (n = 569)  +152.0†      +80.4          +77.6 +17.05  +4.21  +3.63 +15.73        +9.99
+10:27:40 [INFO]                             Placebo ST (n = 53)    +38.9      +34.0          +32.8  +5.50  +4.18  +0.94  +4.91        +3.52
+10:27:40 [INFO]                            Placebo Map (n = 28)    +55.5      +30.3          +30.9  +4.26  +3.18  +0.91  +3.81        +3.05
+10:27:40 [INFO]                     Placebo Classified (n = 52)    +28.6      +25.0          +25.2  +5.05  +2.99  +0.06  +3.71        +1.74
+10:27:40 [INFO]           Benchmark (sticker capsules) (n = 30)     +1.0       +0.3           −3.2  +0.04      –  −0.34  +0.03            –
+10:27:40 [INFO]                 Music kits and agents (n = 214)     −7.4       −3.5           −4.0  −7.13  −1.91  −0.75  −4.48        −0.97
+10:27:40 [INFO]                                  Cases (n = 40)     −2.3       −4.7           −5.0  −1.11  −0.32  −0.85  −1.52        −0.20
+10:27:40 [INFO]                               Graffiti (n = 24)    +15.2      +12.6          +12.2  +2.46  +1.90  +0.26  +0.62        +0.87
+10:27:40 [INFO] -> output/tables/thesis_tableC3.csv and .tsv
+10:27:40 [INFO] 
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO] TABLE C4: RETURN MODELS
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO]                                                 Group          t = 0       [−1, +1]       [−1, +5]      [−1, +30]      [−1, +60]
+10:27:40 [INFO] Panel A. Market model with α = 0 (main specification)                                                                           
+10:27:40 [INFO]                                      Output (n = 890) −41.6 (−21.16) −45.1 (−19.32) −39.0 (−18.91) −39.8 (−21.98) −38.4 (−21.80)
+10:27:40 [INFO]                                       Input (n = 569)  +49.7 (+2.96)  +51.4 (+2.76)  +79.2 (+3.33) +134.5 (+4.02) +152.0 (+4.21)
+10:27:40 [INFO]                                   Placebo ST (n = 53)  +22.5 (+2.41)  +14.3 (+1.89)  +28.5 (+2.83)  +27.4 (+3.10)  +38.9 (+4.18)
+10:27:40 [INFO]                                  Placebo Map (n = 28)  −23.1 (−4.85)  −38.4 (−6.62)  −22.1 (−5.26)   −3.5 (−0.29)  +55.5 (+3.18)
+10:27:40 [INFO]                           Placebo Classified (n = 52)  +21.7 (+1.54)   +4.1 (+0.83)  +17.3 (+1.59)   +7.2 (+1.35)  +28.6 (+2.99)
+10:27:40 [INFO]                Panel B. Market model with estimated α                                                                           
+10:27:40 [INFO]                                      Output (n = 890) −41.6 (−20.95) −45.2 (−18.75) −39.0 (−18.26) −39.7 (−21.94) −38.0 (−20.57)
+10:27:40 [INFO]                                       Input (n = 569)  +49.2 (+2.94)  +50.3 (+2.73)  +77.8 (+3.30) +129.1 (+3.93) +141.0 (+4.04)
+10:27:40 [INFO]                                   Placebo ST (n = 53)  +22.5 (+2.40)  +14.2 (+1.88)  +28.5 (+2.81)  +27.6 (+3.04)  +39.6 (+3.94)
+10:27:40 [INFO]                                  Placebo Map (n = 28)  −24.4 (−4.90)  −40.1 (−6.59)  −25.3 (−5.74)  −14.3 (−1.35)  +24.6 (+1.70)
+10:27:40 [INFO]                           Placebo Classified (n = 52)  +21.4 (+1.56)   +3.4 (+0.85)  +16.7 (+1.60)   +7.3 (+1.56)  +29.1 (+3.05)
+10:27:40 [INFO]                      Panel C. Market-adjusted (β = 1)                                                                           
+10:27:40 [INFO]                                      Output (n = 890)  −29.7 (−8.54)  −25.9 (−6.12)  −27.0 (−6.58)  −37.3 (−9.67)  −36.4 (−9.61)
+10:27:40 [INFO]                                       Input (n = 569)  +75.6 (+2.12)  +96.5 (+2.15) +109.6 (+2.26) +142.5 (+2.41) +158.7 (+2.51)
+10:27:40 [INFO]                                   Placebo ST (n = 53)  +43.0 (+2.70)  +47.2 (+2.70)  +49.4 (+2.92)  +31.4 (+2.47)  +42.4 (+3.22)
+10:27:40 [INFO]                                  Placebo Map (n = 28)   −8.9 (−2.46)  −18.5 (−4.37)   −7.7 (−2.19)   −0.1 (+0.03)  +60.4 (+2.88)
+10:27:40 [INFO]                           Placebo Classified (n = 52)  +44.1 (+1.66)  +37.9 (+1.52)  +38.9 (+1.75)  +10.9 (+1.18)  +32.0 (+2.20)
+10:27:40 [INFO]   Panel D. Difference from the mean CAR of Placebo ST                                                                           
+10:27:40 [INFO]                                      Output (n = 890) −52.3 (−11.01) −52.0 (−10.12) −52.6 (−11.05) −52.8 (−11.93) −55.6 (−12.23)
+10:27:40 [INFO]                                       Input (n = 569)  +22.2 (+1.17)  +32.4 (+1.28)  +39.4 (+1.38)  +84.2 (+1.87)  +81.4 (+1.83)
+10:27:40 [INFO]                                  Placebo Map (n = 28)  −37.2 (−5.32)  −46.1 (−6.23)  −39.4 (−6.54)  −24.2 (−1.99)  +11.9 (+0.75)
+10:27:40 [INFO]                           Placebo Classified (n = 52)   −0.6 (+0.29)   −8.9 (+0.07)   −8.8 (−0.01)  −15.8 (−1.06)   −7.5 (−0.26)
+10:27:40 [INFO] -> output/tables/thesis_tableC4.csv and .tsv
+10:27:40 [INFO] 
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO] TABLE C5: INDICES, SAMPLES, ESTIMATION WINDOW
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO]                                                          Output                                 Input                              
+10:27:40 [INFO]                                                               n           t = 0       [−1, +60]     n          t = 0      [−1, +60]
+10:27:40 [INFO]                    Main specification (sticker capsules)    890  −41.6 (−21.16)  −38.4 (−21.80)   569  +49.7 (+2.96) +152.0 (+4.21)
+10:27:40 [INFO]                                          Benchmark index                                                                           
+10:27:40 [INFO]                                               Music kits    890  −40.1 (−22.26)  −38.5 (−23.10)   569  +51.5 (+3.23) +151.0 (+4.49)
+10:27:40 [INFO]                                                   Agents    890  −41.0 (−22.65)  −37.8 (−21.72)   569  +52.0 (+3.32) +160.4 (+4.68)
+10:27:40 [INFO]                 Sticker capsules, music kits, and agents    890  −39.5 (−22.40)  −37.4 (−23.21)   569  +57.9 (+3.78) +159.5 (+5.06)
+10:27:40 [INFO]                                                   Sample                                                                           
+10:27:40 [INFO]                              Trade share of at least 50%    547  −41.1 (−20.96)  −39.5 (−21.37)   510  +54.7 (+2.94) +166.2 (+4.20)
+10:27:40 [INFO]      Including Doppler, Gamma Doppler, and Case Hardened    965  −41.0 (−21.25)  −38.0 (−22.04)   569  +49.7 (+2.96) +152.0 (+4.21)
+10:27:40 [INFO]                  Illiquid items (trade share 10% to 30%)    165 −40.2 (−16.86)ᵃ −34.0 (−19.37)ᵃ    16 −11.7 (−2.13)ᵃ  −1.9 (−0.23)ᵃ
+10:27:40 [INFO] First sale at least 30 days before the estimation window    827  −42.0 (−22.04)  −38.5 (−22.37)   549  +48.7 (+2.95) +151.2 (+4.21)
+10:27:40 [INFO]                                        Estimation window                                                                           
+10:27:40 [INFO]                                           t = −85 to −15    699  −40.7 (−17.47)  −38.9 (−18.68)   529  +54.0 (+2.67) +162.6 (+3.86)
+10:27:40 [INFO] -> output/tables/thesis_tableC5.csv and .tsv
+10:27:40 [INFO] Check: pool value in (3) to (5) from 0.334 to 0.360
+10:27:40 [INFO] Check: base levels Battle-Scarred and Heavy (Sawed-Off; 6 items)
+10:27:40 [INFO] 
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO] TABLE D1: CROSS-SECTIONAL REGRESSIONS OF THE INPUT
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO]            Variable           (1)        (2)                    (3)                       (4)                    (5)         (6)
+10:27:40 [INFO]                     Controls only Pool value Category fixed effects Pool without capped items Pool of FT, WW, and BS Long window
+10:27:40 [INFO]    Pool value (log)                 0.378***               0.334***                  0.360***               0.349***    0.713***
+10:27:40 [INFO]                                      (0.090)                (0.074)                   (0.116)                (0.085)     (0.111)
+10:27:40 [INFO]     Own price (log)     −0.670***  −0.635***              −0.610***                 −0.642***              −0.638***   −0.619***
+10:27:40 [INFO]                           (0.044)    (0.046)                (0.048)                   (0.048)                (0.046)     (0.040)
+10:27:40 [INFO]         Trade share     −0.645***  −0.577***              −0.542***                 −0.591***              −0.547***   −0.549***
+10:27:40 [INFO]                           (0.104)    (0.117)                (0.109)                   (0.116)                (0.120)     (0.142)
+10:27:40 [INFO]            StatTrak       −0.083*     −0.071                −0.090*                    −0.083                 −0.068    −0.209**
+10:27:40 [INFO]                           (0.040)    (0.048)                (0.050)                   (0.048)                (0.047)     (0.085)
+10:27:40 [INFO] Coverts in the case       0.145**   0.230***               0.223***                  0.223***               0.268***    0.278***
+10:27:40 [INFO]                           (0.053)    (0.056)                (0.053)                   (0.056)                (0.067)     (0.085)
+10:27:40 [INFO]          Wear level                                                                                                             
+10:27:40 [INFO]         Factory New         0.028     −0.019                 −0.055                    −0.008                 −0.008      −0.041
+10:27:40 [INFO]                           (0.080)    (0.082)                (0.088)                   (0.085)                (0.081)     (0.081)
+10:27:40 [INFO]        Minimal Wear         0.010     −0.025                 −0.042                    −0.018                 −0.022       0.041
+10:27:40 [INFO]                           (0.059)    (0.054)                (0.058)                   (0.056)                (0.055)     (0.050)
+10:27:40 [INFO]        Field-Tested       0.058**      0.033                  0.025                     0.038                  0.031      0.069*
+10:27:40 [INFO]                           (0.025)    (0.027)                (0.029)                   (0.027)                (0.028)     (0.034)
+10:27:40 [INFO]           Well-Worn         0.010      0.000                 −0.004                     0.002                  0.004     −0.037*
+10:27:40 [INFO]                           (0.024)    (0.025)                (0.027)                   (0.025)                (0.025)     (0.021)
+10:27:40 [INFO]     Weapon category                                                                                                             
+10:27:40 [INFO]             Pistols                                           0.140                                                             
+10:27:40 [INFO]                                                             (0.099)                                                             
+10:27:40 [INFO]              Rifles                                           0.142                                                             
+10:27:40 [INFO]                                                             (0.089)                                                             
+10:27:40 [INFO]                SMGs                                        0.510***                                                             
+10:27:40 [INFO]                                                             (0.133)                                                             
+10:27:40 [INFO]            Constant      3.107***      0.511                  0.516                     0.714                  0.675      −1.116
+10:27:40 [INFO]                           (0.130)    (0.684)                (0.574)                   (0.841)                (0.643)     (0.759)
+10:27:40 [INFO]          CAR window      [−1, +1]   [−1, +1]               [−1, +1]                  [−1, +1]               [−1, +1]   [−1, +60]
+10:27:40 [INFO]               Items           569        569                    569                       569                    569         569
+10:27:40 [INFO]    Clusters (pools)            19         19                     19                        19                     19          19
+10:27:40 [INFO]                  R²         0.755      0.782                  0.794                     0.775                  0.782       0.792
+10:27:40 [INFO]    Wild bootstrap p                    0.002                ≤ 0.001                         –                      –     ≤ 0.001
+10:27:40 [INFO] -> output/tables/thesis_tableD1.csv and .tsv
+10:27:40 [INFO] 
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO] TABLE D2: EVENT-WINDOW CARs OF THE INPUT BY BINDING STATUS
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO]                                       Measure    t = 0 [−1, +1] [−1, +5] [−1, +30] [−1, +60]
+10:27:40 [INFO]                    Panel A. Binding (n = 280)                                               
+10:27:40 [INFO]                                      CAAR (%)   +114.3   +140.1   +174.8    +269.8    +295.1
+10:27:40 [INFO]                                    Median (%)    +84.6   +108.5   +143.1    +236.2    +244.8
+10:27:40 [INFO]                                  Positive (%)     82.9     82.5     90.4      97.9     100.0
+10:27:40 [INFO]                      Panel B. Slack (n = 159)                                               
+10:27:40 [INFO]                                      CAAR (%)    −19.9    −30.4    −16.1      −2.3      +4.3
+10:27:40 [INFO]                                    Median (%)    −20.2    −29.8    −15.3      −2.7      +1.1
+10:27:40 [INFO]                                  Positive (%)     10.1      8.2     17.6      41.5      53.5
+10:27:40 [INFO] Panel C. No ratio before the update (n = 130)                                               
+10:27:40 [INFO]                                      CAAR (%)    +48.4    +44.8    +80.6    +156.8    +181.6
+10:27:40 [INFO]                                    Median (%)    +25.1    +22.9    +45.9     +85.8     +95.1
+10:27:40 [INFO]                                  Positive (%)     63.1     58.5     70.0      82.3      87.7
+10:27:40 [INFO]                  Panel D. Binding minus slack                                               
+10:27:40 [INFO]                       Difference (log points) 0.971*** 1.232*** 1.179***  1.324***  1.323***
+10:27:40 [INFO]                                                (0.078)  (0.090)  (0.092)   (0.107)   (0.111)
+10:27:40 [INFO]                              Wild bootstrap p  ≤ 0.001  ≤ 0.001  ≤ 0.001   ≤ 0.001   ≤ 0.001
+10:27:40 [INFO]                              Items (clusters) 439 (18) 439 (18) 439 (18)  439 (18)  439 (18)
+10:27:40 [INFO] -> output/tables/thesis_tableD2.csv and .tsv
+10:27:40 [INFO] 
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO] TABLE D3: THE BOUND BY WEAR LEVEL AND OUTPUT POOL
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO]                                            Subgroup Routes Median R, before Below 0.870, before (%) Median R, after Below 0.870, after (%) Between 0.870 and 1.0, after (%) Above 1.0, after (%)
+10:27:40 [INFO]     Panel A. All routes, by wear level of the input                                                                                                                                             
+10:27:40 [INFO]                                         Factory New     56             2.24                    26.8            4.10                    0.0                              0.0                100.0
+10:27:40 [INFO]                                        Minimal Wear     92             0.61                    65.2            1.74                    0.0                              0.0                100.0
+10:27:40 [INFO]                                        Field-Tested    107             0.40                    68.2            1.43                    0.0                              0.0                100.0
+10:27:40 [INFO]                                           Well-Worn     88             0.29                    76.1            1.38                    0.0                              4.5                 95.5
+10:27:40 [INFO]                                      Battle-Scarred     80             0.33                    76.2            1.38                    0.0                              1.2                 98.8
+10:27:40 [INFO] Panel B. Binding routes, by output pool of the case                                                                                                                                             
+10:27:40 [INFO]                                         Knife cases    237             0.23                   100.0            1.37                    0.0                              0.8                 99.2
+10:27:40 [INFO]                                         Glove cases     39             0.18                   100.0            1.21                    0.0                              7.7                 92.3
+10:27:40 [INFO] -> output/tables/thesis_tableD3.csv and .tsv
+10:27:40 [INFO] 
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO] TABLE D4: DECOMPOSITION OF THE CHANGE IN LOG R, RATCHET
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO] Panel A. Change against the level before the update, by window                                                                                    
+10:27:40 [INFO]                                                         Window Routes Gap to 0.870, before Δ ln P Δ ln E[V] Δ ln R Gap closed (%) From Coverts (%)
+10:27:40 [INFO]                                                          t = 0    265                 1.44  +0.92     −0.59  +1.51          104.6             60.8
+10:27:40 [INFO]                                                     t = 1 to 7    279                 1.41  +1.00     −0.56  +1.56          110.8             64.2
+10:27:40 [INFO]                                                   t = 30 to 60    280                 1.41  +1.43     −0.43  +1.86          132.1             77.1
+10:27:40 [INFO]                                                 t = 150 to 200    280                 1.41  +1.50     −0.41  +1.91          135.9             78.5
+10:27:40 [INFO]  Panel B. Daily path during the interim recovery of the output                                                                                    
+10:27:40 [INFO]                                                            Day Routes                      Δ ln P Δ ln E[V] Δ ln R       Median R  Below 0.870 (%)
+10:27:40 [INFO]                                                          t = 7    279                       +1.05     −0.52  +1.57           0.99             26.5
+10:27:40 [INFO]                                                         t = 10    280                       +1.11     −0.42  +1.53           0.96             33.9
+10:27:40 [INFO]                                                         t = 16    280                       +1.41     −0.26  +1.67           1.12              3.9
+10:27:40 [INFO]                                                         t = 28    280                       +1.36     −0.44  +1.80           1.28              0.0
+10:27:40 [INFO]                                                     Change (%)                                                                                    
+10:27:40 [INFO]                                                    t = 7 to 16                              +42.9     +29.9  +10.0                                
+10:27:40 [INFO]                                                   t = 16 to 28                               −4.4     −16.7  +14.7                                
+10:27:40 [INFO] -> output/tables/thesis_tableD4.csv and .tsv
+10:27:40 [INFO] Check: binding median R after from 1.29 to 1.35, at most 1.5 % below the bound
+10:27:40 [INFO] 
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO] TABLE D5: OVERSHOOT, VARIANTS AND OUTCOME SHAPE
+10:27:40 [INFO] ----------------------------------------------------------------------
+10:27:40 [INFO]                              Panel A. Calculation variants                                                                                                                
+10:27:40 [INFO]                                                  Statistic                     Main Lowest float Raw average Output prices of t + 7 All input Coverts Without capped value
+10:27:40 [INFO]                                                     Routes                      479          426         469                    473               502                  324
+10:27:40 [INFO]                                             Binding routes                      276          265         274                    274               277                  179
+10:27:40 [INFO]                                              Median R, all                     1.48         1.40        1.41                   1.47              1.49                 1.55
+10:27:40 [INFO]                                          Median R, binding                     1.35         1.29        1.30                   1.33              1.35                 1.29
+10:27:40 [INFO]                                    Binding below 0.870 (%)                      0.0          1.5         1.1                    0.0               0.0                  0.0
+10:27:40 [INFO]                          Binding between 0.870 and 1.0 (%)                      1.8          4.2         5.5                    4.0               1.8                  2.8
+10:27:40 [INFO]                                    Gap closed at t = 0 (%)                    104.6         99.9       101.0                  100.3             104.6                111.6
+10:27:40 [INFO]                                        Bound cleared (day)                       13           19          18                     12                13                   17
+10:27:40 [INFO]                                           Half-life (days)                     11.5         11.3        11.1                    5.8              11.5                 15.1
+10:27:40 [INFO] Panel B. Shape of the outcome distribution, binding routes                                                                                                                
+10:27:40 [INFO]                                                  Statistic Coefficient of variation     Skewness                                                                          
+10:27:40 [INFO]                                                     Routes                      276          276                                                                          
+10:27:40 [INFO]                                           Clusters (pools)                       17           17                                                                          
+10:27:40 [INFO]                                      Median of the measure                     0.79         1.41                                                                          
+10:27:40 [INFO]                                    Spearman ρ with R after                    −0.06        −0.09                                                                          
+10:27:40 [INFO]                                    Coefficient on the rank                   −0.021       −0.065                                                                          
+10:27:40 [INFO]                                                                             (0.134)      (0.053)                                                                          
+10:27:40 [INFO]                                           Wild bootstrap p                    0.915        0.227                                                                          
+10:27:40 [INFO] -> output/tables/thesis_tableD5.csv and .tsv
+10:27:41 [INFO] Check: multiples at t = 0 -- Output 43.34, Input 14.94, Control group 5.81, Placebo ST 14.41, Benchmark (sticker capsules) 3.18, Music kits and agents 2.10, Cases 4.97
+10:27:41 [INFO] Check: items -- Output 890, Input 569, Control group 80, Placebo ST 53, Benchmark (sticker capsules) 30, Music kits and agents 214, Cases 40
+10:27:41 [INFO] 
+10:27:41 [INFO] ----------------------------------------------------------------------
+10:27:41 [INFO] TABLE E1: ABNORMAL VOLUME
+10:27:41 [INFO] ----------------------------------------------------------------------
+10:27:41 [INFO]                                             Group    t = 0 [−1, +1] [−1, +5] [−1, +60] [+7, +9] [+30, +190]
+10:27:41 [INFO] Panel A. Relative to the item's own normal volume                                                          
+10:27:41 [INFO]                                            Output   43.34†   25.85†   18.62†      6.64   17.64†        2.75
+10:27:41 [INFO]                                                   (+23.96) (+13.70)  (+8.33)   (+1.73) (+11.32)     (+1.57)
+10:27:41 [INFO]                                             Input   14.94†    9.50†    7.21†      2.53    6.04†        0.70
+10:27:41 [INFO]                                                    (+4.06)  (+3.36)  (+3.08)   (+1.78)  (+4.24)     (−1.11)
+10:27:41 [INFO]                                     Control group    5.81†    4.29†    3.59†      2.03    3.70†        1.13
+10:27:41 [INFO]                                                    (+3.51)  (+3.16)  (+3.12)   (+1.80)  (+3.83)     (+0.21)
+10:27:41 [INFO]                                        Placebo ST   14.41†    8.96†    6.72†      3.35    8.19†        1.27
+10:27:41 [INFO]                                                    (+6.23)  (+4.90)  (+4.01)   (+1.63)  (+4.92)     (+0.73)
+10:27:41 [INFO]                      Benchmark (sticker capsules)    3.18†    2.45†    2.06†      1.37    1.58†        0.77
+10:27:41 [INFO]                                                    (+5.27)  (+4.32)  (+3.34)   (+2.15)  (+3.91)     (−1.02)
+10:27:41 [INFO]                             Music kits and agents    2.10†    1.72†    1.68†      1.15    1.61†        0.98
+10:27:41 [INFO]                                                    (+3.20)  (+3.17)  (+3.67)   (+1.65)  (+3.15)     (−0.70)
+10:27:41 [INFO]                                             Cases    4.97†    3.37†    2.52†     1.38†    1.89†        1.05
+10:27:41 [INFO]                                                    (+5.48)  (+4.99)  (+3.93)   (+2.10)  (+3.86)     (−0.01)
+10:27:41 [INFO]            Panel B. Relative to the control group                                                          
+10:27:41 [INFO]                                            Output    7.47†    6.02†    5.18†      3.27    4.77†        2.43
+10:27:41 [INFO]                                                    (+9.16)  (+5.82)  (+4.71)   (+1.57)  (+5.29)     (+1.66)
+10:27:41 [INFO]                                             Input    2.57†    2.21†    2.01†      1.25    1.63†       0.62†
+10:27:41 [INFO]                                                    (+2.99)  (+2.88)  (+3.26)   (−0.14)  (+3.05)     (−2.40)
+10:27:41 [INFO]                                        Placebo ST    2.48†    2.09†    1.87†      1.65    2.22†        1.12
+10:27:41 [INFO]                                                    (+3.16)  (+2.59)  (+2.53)   (+1.47)  (+3.17)     (+0.85)
+10:27:41 [INFO]                      Benchmark (sticker capsules)    0.55†    0.57†    0.57†     0.68†    0.43†       0.68†
+10:27:41 [INFO]                                                    (−2.98)  (−3.09)  (−2.59)   (−6.02)  (−3.73)     (−3.06)
+10:27:41 [INFO]                             Music kits and agents    0.36†    0.40†    0.47†     0.57†    0.44†        0.86
+10:27:41 [INFO]                                                    (−2.77)  (−2.85)  (−2.30)   (−3.25)  (−3.06)     (−1.18)
+10:27:41 [INFO]                                             Cases     0.86     0.79     0.70      0.68     0.51        0.93
+10:27:41 [INFO]                                                    (−0.33)  (−1.04)  (−1.09)   (−1.87)  (−1.99)     (−0.46)
+10:27:41 [INFO]        Panel C. Relative to music kits and agents                                                          
+10:27:41 [INFO]                                            Output   20.59†   15.04†   11.08†     5.77†   10.95†        2.82
+10:27:41 [INFO]                                                   (+13.84)  (+8.84)  (+6.32)   (+2.41)  (+7.48)     (+1.73)
+10:27:41 [INFO]                                             Input    7.10†    5.53†    4.29†      2.20    3.75†        0.72
+10:27:41 [INFO]                                                    (+3.51)  (+3.08)  (+2.95)   (+1.96)  (+3.83)     (−1.10)
+10:27:41 [INFO]                                     Control group    2.76†    2.50†    2.14†     1.76†    2.30†        1.16
+10:27:41 [INFO]                                                    (+2.85)  (+2.65)  (+2.60)   (+2.34)  (+3.39)     (+0.90)
+10:27:41 [INFO]                                        Placebo ST    6.85†    5.21†    4.00†      2.91    5.08†        1.30
+10:27:41 [INFO]                                                    (+4.84)  (+4.03)  (+3.16)   (+1.69)  (+4.29)     (+1.12)
+10:27:41 [INFO]                      Benchmark (sticker capsules)     1.51     1.43     1.23      1.19     0.98        0.79
+10:27:41 [INFO]                                                    (+1.87)  (+1.22)  (+0.47)   (+1.82)  (+0.19)     (−0.46)
+10:27:41 [INFO]                                             Cases    2.36†    1.96†     1.50      1.20     1.17        1.07
+10:27:41 [INFO]                                                    (+3.78)  (+3.13)  (+1.54)   (+1.62)  (+1.08)     (+0.21)
+10:27:41 [INFO] -> output/tables/thesis_tableE1.csv and .tsv
+10:27:41 [INFO] 
+10:27:41 [INFO] ----------------------------------------------------------------------
+10:27:41 [INFO] TABLE E2: ECHO AND UNIT BALANCE
+10:27:41 [INFO] ----------------------------------------------------------------------
+10:27:41 [INFO] Panel A. Echo of the seven-day trade hold                                                                                                                
+10:27:41 [INFO]                                     Group Items First wave, [0, +2] Returned, [+7, +9]              Echo share (%) Relative to control group (pp) p-value
+10:27:41 [INFO]                             Control group   170              46,687             17,286                        37.0                                       
+10:27:41 [INFO]                                                                                                       [28.9; 41.9]                                       
+10:27:41 [INFO]                                Placebo ST    70              16,147             10,113                        62.6                          +25.6  < 0.01
+10:27:41 [INFO]                                                                                                       [56.7; 66.2]                 [+18.1; +34.9]        
+10:27:41 [INFO]                                     Input   662           1,166,220             76,300                         6.5                          −30.5  < 0.01
+10:27:41 [INFO]                                                                                                         [5.4; 7.6]                 [−35.5; −22.2]        
+10:27:41 [INFO]                                    Output 3,592             173,245             54,816                        31.6                           −5.4   0.256
+10:27:41 [INFO]                                                                                                       [30.3; 33.0]                  [−10.4; +3.1]        
+10:27:41 [INFO]                     Panel B. Unit balance                                                                                                                
+10:27:41 [INFO]                                 Statistic           Input, [0, +60]  Output, [+7, +67] Input units per output unit                                       
+10:27:41 [INFO]                              Excess units                 1,986,523            469,488                        4.23                                       
+10:27:41 [INFO]                                                                                                       [2.88; 5.86]                                       
+10:27:41 [INFO] -> output/tables/thesis_tableE2.csv and .tsv
+10:27:41 [INFO] Check: p >= 0.05 relative to the control group -- Main (output, p = 0.066); After: t = 30 to 104 (output, p = 0.118); After: t = 30 to 104 (input, p = 0.058); Before: t = −190 to −40 (output, p = 0.160); Weekly autocovariance (output, p = 0.178); Weekly autocovariance (input, p = 0.058); Daily trade-to-trade (output, p = 0.342); Daily trade-to-trade (input, p = 0.432); Trade share ≥ 50% (output, p = 0.076)
+10:27:41 [INFO] 
+10:27:41 [INFO] ----------------------------------------------------------------------
+10:27:41 [INFO] TABLE E3: ROBUSTNESS OF THE VOLATILITY CHANGE
+10:27:41 [INFO] ----------------------------------------------------------------------
+10:27:41 [INFO]                 Variant Items Efficient, change (%) Noise, change (%) Relative to control group (%) p-value
+10:27:41 [INFO]         Panel A. Output                                                                                    
+10:27:41 [INFO]                    Main   886                 −25.5             −36.6                         −37.6   0.066
+10:27:41 [INFO]              k = 1 to 6   886                 −38.7             −28.6                         −48.8   0.012
+10:27:41 [INFO]    After: t = 30 to 104   887                 −29.9             −42.0                         −62.1   0.118
+10:27:41 [INFO] Before: t = −190 to −40   886                 −15.7             −36.1                         −20.3   0.160
+10:27:41 [INFO]   Weekly autocovariance   886                 −23.7             −42.0                         −31.1   0.178
+10:27:41 [INFO]    Daily trade-to-trade   890                 −11.5             −25.3                         −18.2   0.342
+10:27:41 [INFO]       Trade share ≥ 50%   547                 −25.4             −34.0                         −34.1   0.076
+10:27:41 [INFO]            Not demeaned   886                 −28.0             −36.0                         −38.1  < 0.01
+10:27:41 [INFO]          Panel B. Input                                                                                    
+10:27:41 [INFO]                    Main   566                 −30.9             −13.5                         −42.1   0.032
+10:27:41 [INFO]              k = 1 to 6   566                 −36.0              −9.0                         −46.6   0.030
+10:27:41 [INFO]    After: t = 30 to 104   563                 −39.0             −23.8                         −67.0   0.058
+10:27:41 [INFO] Before: t = −190 to −40   566                 −28.4             −10.5                         −32.3   0.028
+10:27:41 [INFO]   Weekly autocovariance   566                 −38.0             +36.3                         −44.0   0.058
+10:27:41 [INFO]    Daily trade-to-trade   569                  −8.1             +39.5                         −15.0   0.432
+10:27:41 [INFO]       Trade share ≥ 50%   510                 −31.9             −14.2                         −39.8   0.038
+10:27:41 [INFO]            Not demeaned   566                 −32.4             −13.6                         −41.9  < 0.01
+10:27:41 [INFO]  Panel C. Control group                                                                                    
+10:27:41 [INFO]                    Main    79                 +19.4              −7.2                                      
+10:27:41 [INFO]              k = 1 to 6    79                 +19.7              −4.2                                      
+10:27:41 [INFO]    After: t = 30 to 104    78                 +85.0                 –                                      
+10:27:41 [INFO] Before: t = −190 to −40    79                  +5.8             +34.6                                      
+10:27:41 [INFO]   Weekly autocovariance    79                 +10.7             +44.0                                      
+10:27:41 [INFO]    Daily trade-to-trade    80                  +8.1              −2.9                                      
+10:27:41 [INFO]       Trade share ≥ 50%    70                 +13.2              +9.5                                      
+10:27:41 [INFO]            Not demeaned    79                 +16.4             −10.6                                      
+10:27:41 [INFO] -> output/tables/thesis_tableE3.csv and .tsv
+10:27:41 [INFO] Check: noise not defined after the update for Cases
+10:27:41 [INFO] 
+10:27:41 [INFO] ----------------------------------------------------------------------
+10:27:41 [INFO] TABLE E4: VOLATILITY OF ALL GROUPS AND SIGNATURE
+10:27:41 [INFO] ----------------------------------------------------------------------
+10:27:41 [INFO]                 Panel A. Weekly volatility before and after the update                                                                                                                       
+10:27:41 [INFO]                                                                  Group Items (skins) Efficient, before (%) Efficient, after (%)     Change (%) Noise share, before (%) Noise share, after (%)
+10:27:41 [INFO]                                                                 Output     886 (356)                  3.13                 2.33          −25.5                    80.5                   76.4
+10:27:41 [INFO]                                                                                                                                 [−31.6; −19.9]                                               
+10:27:41 [INFO]                                                                  Input      566 (79)                  4.58                 3.17         −30.9†                    59.1                   66.0
+10:27:41 [INFO]                                                                                                                                 [−39.7; −23.4]                                               
+10:27:41 [INFO]                                                          Control group       79 (20)                  5.57                 6.66          +19.4                    68.2                   49.8
+10:27:41 [INFO]                                                                                                                                 [−25.7; +68.7]                                               
+10:27:41 [INFO]                                                             Placebo ST       53 (12)                  4.28                 3.02          −29.5                    60.7                   56.6
+10:27:41 [INFO]                                                                                                                                  [−50.1; −5.1]                                               
+10:27:41 [INFO]                                           Benchmark (sticker capsules)       30 (30)                  6.19                 3.57          −42.3                    51.4                   54.5
+10:27:41 [INFO]                                                                                                                                 [−57.4; −23.3]                                               
+10:27:41 [INFO]                                                  Music kits and agents     214 (214)                  5.33                 4.81           −9.8                    34.4                   29.7
+10:27:41 [INFO]                                                                                                                                  [−19.1; +4.6]                                               
+10:27:41 [INFO]                                                                  Cases       40 (40)                  5.34                 4.72          −11.5                    33.3                      –
+10:27:41 [INFO]                                                                                                                                  [−32.2; +8.6]                                               
+10:27:41 [INFO] Panel B. Median variance of k-week changes, before the update (× 10⁻³)                                                                                                                       
+10:27:41 [INFO]                                                                  Group          V(1)                  V(2)                 V(3)           V(4)                                               
+10:27:41 [INFO]                                                                 Output          4.21                  5.50                 6.51           7.14                                               
+10:27:41 [INFO]                                                                  Input          4.12                  7.29                 8.63          10.66                                               
+10:27:41 [INFO]                                                          Control group          7.31                 12.06                14.93          16.71                                               
+10:27:41 [INFO]                                                             Placebo ST          3.78                  6.50                 7.72           9.46                                               
+10:27:41 [INFO]                                           Benchmark (sticker capsules)          6.91                 11.60                15.68          18.33                                               
+10:27:41 [INFO]                                                  Music kits and agents          3.74                  7.42                10.06          12.33                                               
+10:27:41 [INFO]                                                                  Cases          3.36                  7.94                 9.22          12.42                                               
+10:27:41 [INFO]  Panel C. Median variance of k-week changes, after the update (× 10⁻³)                                                                                                                       
+10:27:41 [INFO]                                                                  Group          V(1)                  V(2)                 V(3)           V(4)                                               
+10:27:41 [INFO]                                                                 Output          1.78                  2.55                 3.17           3.39                                               
+10:27:41 [INFO]                                                                  Input          2.76                  3.84                 4.99           5.72                                               
+10:27:41 [INFO]                                                          Control group          8.62                 13.18                17.84          21.83                                               
+10:27:41 [INFO]                                                             Placebo ST          2.09                  3.02                 3.87           4.84                                               
+10:27:41 [INFO]                                           Benchmark (sticker capsules)          2.39                  3.90                 5.59           6.08                                               
+10:27:41 [INFO]                                                  Music kits and agents          2.87                  5.79                 8.02           9.83                                               
+10:27:41 [INFO]                                                                  Cases          2.28                  4.39                 6.16           9.13                                               
+10:27:41 [INFO] -> output/tables/thesis_tableE4.csv and .tsv
+10:27:41 [INFO] 
+10:27:41 [INFO] ----------------------------------------------------------------------
+10:27:41 [INFO] TABLE E5: BINDING STATUS AND COUPLING
+10:27:41 [INFO] ----------------------------------------------------------------------
+10:27:41 [INFO] Panel A. Efficient volatility of the input by binding status                                                                           
+10:27:41 [INFO]                                                    Statistic        Binding          Slack  Without ratio                              
+10:27:41 [INFO]                                                Items (skins)       279 (61)       159 (46)       128 (46)                              
+10:27:41 [INFO]                             Efficient volatility, before (%)           4.42           4.20           4.64                              
+10:27:41 [INFO]                              Efficient volatility, after (%)           2.60           3.88           4.86                              
+10:27:41 [INFO]                                                   Change (%)          −41.2           −7.5           +4.7                              
+10:27:41 [INFO]                                                              [−53.3; −30.5] [−22.9; +10.6] [−17.2; +31.5]                              
+10:27:41 [INFO]                                Relative to control group (%)          −50.7          −22.6          −12.3                              
+10:27:41 [INFO]                                                              [−67.3; −18.1] [−47.4; +28.9] [−40.6; +50.2]                              
+10:27:41 [INFO]                                                      p-value         < 0.01          0.352          0.691                              
+10:27:41 [INFO]                            Panel B. Coupling to the own pool                                                                           
+10:27:41 [INFO]                                                    Statistic     Input, all        Binding          Slack     Placebo ST     Difference
+10:27:41 [INFO]                                            Routes (clusters)       337 (17)       212 (16)       125 (15)         44 (5)       337 (17)
+10:27:41 [INFO]                                                    β, before           0.30           0.24           0.42           0.72               
+10:27:41 [INFO]                                                                [0.15; 0.51]   [0.08; 0.49]   [0.17; 0.63]   [0.67; 0.75]               
+10:27:41 [INFO]                                                     β, after           0.38           0.51           0.14           0.44               
+10:27:41 [INFO]                                                                [0.14; 0.57]   [0.37; 0.69]  [−0.23; 0.49]   [0.17; 0.75]               
+10:27:41 [INFO]                                                  Change in β          +0.08          +0.27          −0.28          −0.28          +0.55
+10:27:41 [INFO]                                                              [−0.23; +0.30] [+0.09; +0.44] [−0.80; +0.19] [−0.58; +0.07] [+0.09; +1.05]
+10:27:41 [INFO]                                                      p-value          0.625         < 0.01          0.288          0.130          0.014
+10:27:41 [INFO]                                         p-value, β after = 1         < 0.01         < 0.01         < 0.01         < 0.01               
+10:27:41 [INFO]                                              Naive β, before           0.19           0.16           0.23           0.37               
+10:27:41 [INFO]                                               Naive β, after           0.34           0.30           0.38           0.31               
+10:27:41 [INFO] -> output/tables/thesis_tableE5.csv and .tsv
+10:27:41 [INFO] Check: price multiples -- Output 0.61, Input 2.90, Control group 1.51, Placebo ST 1.53, Benchmark (sticker capsules) 1.03, Music kits and agents 1.08, Cases 1.04
+10:27:41 [INFO] 
+10:27:41 [INFO] ----------------------------------------------------------------------
+10:27:41 [INFO] TABLE E6: UNITS, PRICE AND TURNOVER, DAYS 30 TO 190
+10:27:41 [INFO] ----------------------------------------------------------------------
+10:27:41 [INFO] Panel A. Days 30 to 190 against before the update (multiple)                                                                              
+10:27:41 [INFO]                                                        Group      Items   Units sold Average price Turnover in EUR                        
+10:27:41 [INFO]                                                       Output        890         2.72          0.61            1.65                        
+10:27:41 [INFO]                                                                         [2.61; 2.83]  [0.59; 0.62]    [1.60; 1.71]                        
+10:27:41 [INFO]                                                        Input        569         0.69          2.90            2.00                        
+10:27:41 [INFO]                                                                         [0.64; 0.74]  [2.37; 3.60]    [1.68; 2.38]                        
+10:27:41 [INFO]                                                Control group         80         1.14          1.51            1.72                        
+10:27:41 [INFO]                                                                         [0.89; 1.41]  [1.08; 2.13]    [1.45; 2.06]                        
+10:27:41 [INFO]                                                   Placebo ST         53         1.45          1.53            2.22                        
+10:27:41 [INFO]                                                                         [1.15; 1.93]  [1.26; 1.89]    [1.58; 3.48]                        
+10:27:41 [INFO]                                 Benchmark (sticker capsules)         30         0.75          1.03            0.77                        
+10:27:41 [INFO]                                                                         [0.64; 0.88]  [0.95; 1.09]    [0.62; 0.92]                        
+10:27:41 [INFO]                                        Music kits and agents        214         0.93          1.08            1.00                        
+10:27:41 [INFO]                                                                         [0.90; 0.95]  [1.05; 1.10]    [0.96; 1.03]                        
+10:27:41 [INFO]                                                        Cases         40         0.98          1.04            1.02                        
+10:27:41 [INFO]                                                                         [0.88; 1.08]  [0.98; 1.10]    [0.93; 1.12]                        
+10:27:41 [INFO]                       Panel B. Relative to the control group                                                                              
+10:27:41 [INFO]                                                        Group Units sold      p-value Average price         p-value Turnover in EUR p-value
+10:27:41 [INFO]                                                       Output       2.39       < 0.01          0.40          < 0.01            0.96   0.671
+10:27:41 [INFO]                                                        Input       0.60       < 0.01          1.92          < 0.01            1.16   0.204
+10:27:41 [INFO]                                                   Placebo ST       1.28        0.154          1.01           0.971            1.29   0.256
+10:27:41 [INFO]                                 Benchmark (sticker capsules)       0.66       < 0.01          0.68           0.028            0.45  < 0.01
+10:27:41 [INFO]                                        Music kits and agents       0.81        0.088          0.71           0.056            0.58  < 0.01
+10:27:41 [INFO]                                                        Cases       0.86        0.246          0.69           0.034            0.60  < 0.01
+10:27:41 [INFO] -> output/tables/thesis_tableE6.csv and .tsv
+10:27:41 [INFO] 
+10:27:41 [INFO] Done.

@@ -1,0 +1,164 @@
+﻿market_hash_name,group,treated,category,weapon,pattern,wear,stattrak,souvenir,is_vanilla,rarity,collection,case,case_rare_type,n_covert_in_case,ladder_steps,st_no_output,price_tier,blend_warning,min_float,max_float,first_sale_date,skin_id
+Ambush Sticker Capsule,capsule_sticker,False,Container,,,,False,False,False,Base Grade,,,,,,,,,,,,crate-4905
+Boston 2018 Attending Legends (Holo-Foil),capsule_sticker,False,Container,,,,False,False,False,Base Grade,,,,,,,,,,,,crate-4478
+Budapest 2025 Contenders Sticker Capsule,capsule_sticker,False,Container,,,,False,False,False,Base Grade,,,,,,,,,,,,crate-5218
+Chicken Capsule,capsule_sticker,False,Container,,,,False,False,False,Base Grade,,,,,,,,,,,,crate-4477
+ESL One Cologne 2014 Legends,capsule_sticker,False,Container,,,,False,False,False,Base Grade,,,,,,,,,,,,crate-4020
+ESL One Cologne 2015 Challengers (Foil),capsule_sticker,False,Container,,,,False,False,False,Base Grade,,,,,,,,,,,,crate-4110
+Katowice 2019 Legends (Holo-Foil),capsule_sticker,False,Container,,,,False,False,False,Base Grade,,,,,,,,,,,,crate-4584
+MLG Columbus 2016 Legends (Holo-Foil),capsule_sticker,False,Container,,,,False,False,False,Base Grade,,,,,,,,,,,,crate-4205
+Stockholm 2021 Legends Sticker Capsule,capsule_sticker,False,Container,,,,False,False,False,Base Grade,,,,,,,,,,,,crate-4803
+Dreams & Nightmares Case,case,True,Container,,,,False,False,False,Base Grade,The Dreams & Nightmares Collection,Dreams & Nightmares Case,Knives,2.0,,,,,,,2021-11-17,crate-4818
+Gallery Case,case,True,Container,,,,False,False,False,Base Grade,The Gallery Collection,Gallery Case,Knives,2.0,,,,,,,2024-07-01,crate-7003
+Gamma 2 Case,case,True,Container,,,,False,False,False,Base Grade,The Gamma 2 Collection,Gamma 2 Case,Knives,2.0,,,,,,,2016-08-08,crate-4281
+Glove Case,case,True,Container,,,,False,False,False,Base Grade,The Glove Collection,Glove Case,Gloves,2.0,,,,,,,2016-11-02,crate-4288
+Horizon Case,case,True,Container,,,,False,False,False,Base Grade,The Horizon Collection,Horizon Case,Knives,2.0,,,,,,,2018-06-07,crate-4482
+Kilowatt Case,case,True,Container,,,,False,False,False,Base Grade,The Kilowatt Collection,Kilowatt Case,Knives,2.0,,,,,,,2024-01-16,crate-4904
+Operation Phoenix Weapon Case,case,True,Container,,,,False,False,False,Base Grade,The Phoenix Collection,Operation Phoenix Weapon Case,Knives,2.0,,,,,,,2014/2/19,crate-4011
+Operation Riptide Case,case,True,Container,,,,False,False,False,Base Grade,The Operation Riptide Collection,Operation Riptide Case,Knives,2.0,,,,,,,2021-09-08,crate-4790
+Operation Wildfire Case,case,True,Container,,,,False,False,False,Base Grade,The Wildfire Collection,Operation Wildfire Case,Knives,2.0,,,,,,,2016-01-19,crate-4187
+Prisma 2 Case,case,True,Container,,,,False,False,False,Base Grade,The Prisma 2 Collection,Prisma 2 Case,Knives,2.0,,,,,,,2020-03-24,crate-4695
+Prisma Case,case,True,Container,,,,False,False,False,Base Grade,The Prisma Collection,Prisma Case,Knives,2.0,,,,,,,2019-03-05,crate-4598
+Snakebite Case,case,True,Container,,,,False,False,False,Base Grade,The Snakebite Collection,Snakebite Case,Gloves,2.0,,,,,,,2021-03-26,crate-4747
+Chef d'Escadron Rouchard | Gendarmerie Nationale,control_agent,False,Agent,,,,False,False,False,Master,Operation Riptide Agents,,,,,,,,,,,agent-4751
+Chem-Haz Capitaine | Gendarmerie Nationale,control_agent,False,Agent,,,,False,False,False,Superior,Operation Riptide Agents,,,,,,,,,,,agent-4750
+Lt. Commander Ricksaw | NSWC SEAL,control_agent,False,Agent,,,,False,False,False,Master,Shattered Web Agents,,,,,,,,,,,agent-5404
+Number K | The Professionals,control_agent,False,Agent,,,,False,False,False,Superior,Broken Fang Agents,,,,,,,,,,,agent-4732
+Osiris | Elite Crew,control_agent,False,Agent,,,,False,False,False,Exceptional,Shattered Web Agents,,,,,,,,,,,agent-5106
+Sir Bloody Loudmouth Darryl | The Professionals,control_agent,False,Agent,,,,False,False,False,Master,Broken Fang Agents,,,,,,,,,,,agent-4736
+Sealed Graffiti | Chess King (Tiger Orange),control_graffiti,False,Graffiti,,,,False,False,False,Base Grade,,,,,,,,,,,,graffiti-1699_3
+Sealed Graffiti | Death Sentence (Blood Red),control_graffiti,False,Graffiti,,,,False,False,False,Base Grade,,,,,,,,,,,,graffiti-1698_2
+Sealed Graffiti | Double (Cash Green),control_graffiti,False,Graffiti,,,,False,False,False,Base Grade,,,,,,,,,,,,graffiti-1702_10
+Sealed Graffiti | Double (Princess Pink),control_graffiti,False,Graffiti,,,,False,False,False,Base Grade,,,,,,,,,,,,graffiti-1702_17
+Sealed Graffiti | Keep the Change (Battle Green),control_graffiti,False,Graffiti,,,,False,False,False,Base Grade,,,,,,,,,,,,graffiti-1701_7
+Sealed Graffiti | R.I.P.I.P.,control_graffiti,False,Graffiti,,,,False,False,False,Remarkable,,,,,,,,,,,,graffiti-1685
+Sealed Graffiti | Rekt,control_graffiti,False,Graffiti,,,,False,False,False,Exotic,,,,,,,,,,,,graffiti-1664
+Sealed Graffiti | X-Axes (Brick Red),control_graffiti,False,Graffiti,,,,False,False,False,Base Grade,,,,,,,,,,,,graffiti-1697_1
+"Music Kit | The Verkkars, EZ4ENCE",control_musickit,False,MusicKit,,,,False,False,False,High Grade,,,,,,,,,,,,music_kit-39
+"StatTrak™ Music Kit | Blitz Kids, The Good Youth",control_musickit,False,MusicKit,,,,False,False,False,High Grade,,,,,,,,,,,,music_kit-33_st
+"StatTrak™ Music Kit | Damjan Mravunac, The Talos Principle",control_musickit,False,MusicKit,,,,False,False,False,High Grade,,,,,,,,,,,,music_kit-17_st
+"StatTrak™ Music Kit | Dren, Gunman Taco Truck",control_musickit,False,MusicKit,,,,False,False,False,High Grade,,,,,,,,,,,,music_kit-44_st
+"StatTrak™ Music Kit | Lennie Moore, Java Havana Funkaloo",control_musickit,False,MusicKit,,,,False,False,False,High Grade,,,,,,,,,,,,music_kit-30_st
+"StatTrak™ Music Kit | Mateo Messina, For No Mankind",control_musickit,False,MusicKit,,,,False,False,False,High Grade,,,,,,,,,,,,music_kit-14_st
+AK-47 | Head Shot (Well-Worn),input_covert,True,Rifles,AK-47,Head Shot,Well-Worn,False,False,False,Covert,The Revolution Collection,Revolution Case,Gloves,2.0,1.0,True,,,0.0,1.0,,skin-1f95db2031e4
+AK-47 | Legion of Anubis (Well-Worn),input_covert,True,Rifles,AK-47,Legion of Anubis,Well-Worn,False,False,False,Covert,The Fracture Collection,Fracture Case,Knives,2.0,1.0,False,,,0.0,0.7,,skin-dfd42a079f44
+AK-47 | Neon Revolution (Battle-Scarred),input_covert,True,Rifles,AK-47,Neon Revolution,Battle-Scarred,False,False,False,Covert,The Gamma 2 Collection,Gamma 2 Case,Knives,2.0,1.0,False,,,0.0,0.8,,skin-1a5e885d9d28
+AWP | Asiimov (Battle-Scarred),input_covert,True,Rifles,AWP,Asiimov,Battle-Scarred,False,False,False,Covert,The Phoenix Collection,Operation Phoenix Weapon Case,Knives,2.0,1.0,False,,,0.18,1.0,,skin-bb633c21fc25
+AWP | Wildfire (Minimal Wear),input_covert,True,Rifles,AWP,Wildfire,Minimal Wear,False,False,False,Covert,The CS20 Collection,CS20 Case,Knives,2.0,1.0,False,,,0.01,0.7,,skin-db4de1c248fa
+CZ75-Auto | Victoria (Factory New),input_covert,True,Pistols,CZ75-Auto,Victoria,Factory New,False,False,False,Covert,The Arms Deal 3 Collection,CS:GO Weapon Case 3,Knives,1.0,1.0,False,,,0.0,0.75,,skin-5ca4267d0063
+Galil AR | Chatterbox (Battle-Scarred),input_covert,True,Rifles,Galil AR,Chatterbox,Battle-Scarred,False,False,False,Covert,The Chroma Collection,Chroma Case,Knives,2.0,1.0,False,,,0.35,0.85,,skin-94878071c8d9
+M4A1-S | Player Two (Field-Tested),input_covert,True,Rifles,M4A1-S,Player Two,Field-Tested,False,False,False,Covert,The Prisma 2 Collection,Prisma 2 Case,Knives,2.0,1.0,False,,,0.0,0.84,,skin-4dd5dccd2fdd
+M4A4 | Desert-Strike (Factory New),input_covert,True,Rifles,M4A4,Desert-Strike,Factory New,False,False,False,Covert,The Huntsman Collection,Huntsman Weapon Case,Knives,2.0,1.0,False,,,0.0,0.7,,skin-e3516262b49a
+M4A4 | Neo-Noir (Minimal Wear),input_covert,True,Rifles,M4A4,Neo-Noir,Minimal Wear,False,False,False,Covert,The Clutch Collection,Clutch Case,Gloves,2.0,1.0,True,,,0.0,0.9,,skin-e8144faeae9f
+M4A4 | Royal Paladin (Field-Tested),input_covert,True,Rifles,M4A4,Royal Paladin,Field-Tested,False,False,False,Covert,The Revolver Case Collection,Revolver Case,Knives,2.0,1.0,False,,,0.0,0.8,,skin-4c83a4940ef3
+M4A4 | X-Ray (Factory New),input_covert,True,Rifles,M4A4,X-Ray,Factory New,False,False,False,Covert,The eSports 2013 Winter Collection,eSports 2013 Winter Case,Knives,1.0,1.0,False,,,0.0,0.3,,skin-ea15a4e5483d
+M4A4 | X-Ray (Minimal Wear),input_covert,True,Rifles,M4A4,X-Ray,Minimal Wear,False,False,False,Covert,The eSports 2013 Winter Collection,eSports 2013 Winter Case,Knives,1.0,1.0,False,,,0.0,0.3,,skin-ea15a4e5483d
+MP9 | Starlight Protector (Well-Worn),input_covert,True,SMGs,MP9,Starlight Protector,Well-Worn,False,False,False,Covert,The Dreams & Nightmares Collection,Dreams & Nightmares Case,Knives,2.0,1.0,False,,,0.0,0.8,,skin-feae180c4968
+Sawed-Off | The Kraken (Field-Tested),input_covert,True,Heavy,Sawed-Off,The Kraken,Field-Tested,False,False,False,Covert,The Winter Offensive Collection,Winter Offensive Weapon Case,Knives,2.0,1.0,False,,,0.0,0.4,,skin-eeeab72c939a
+StatTrak™ AK-47 | Jaguar (Well-Worn),input_covert,True,Rifles,AK-47,Jaguar,Well-Worn,True,False,False,Covert,The eSports 2014 Summer Collection,eSports 2014 Summer Case,Knives,2.0,1.0,False,,,0.0,1.0,,skin-0827f8a09022
+StatTrak™ AK-47 | Neon Rider (Battle-Scarred),input_covert,True,Rifles,AK-47,Neon Rider,Battle-Scarred,True,False,False,Covert,The Horizon Collection,Horizon Case,Knives,2.0,1.0,False,,,0.0,0.8,,skin-74e670c4b279
+StatTrak™ AUG | Chameleon (Battle-Scarred),input_covert,True,Rifles,AUG,Chameleon,Battle-Scarred,True,False,False,Covert,The Phoenix Collection,Operation Phoenix Weapon Case,Knives,2.0,1.0,False,,,0.0,0.5,,skin-370dfd3911e0
+StatTrak™ AUG | Chameleon (Factory New),input_covert,True,Rifles,AUG,Chameleon,Factory New,True,False,False,Covert,The Phoenix Collection,Operation Phoenix Weapon Case,Knives,2.0,1.0,False,,,0.0,0.5,,skin-370dfd3911e0
+StatTrak™ AUG | Chameleon (Field-Tested),input_covert,True,Rifles,AUG,Chameleon,Field-Tested,True,False,False,Covert,The Phoenix Collection,Operation Phoenix Weapon Case,Knives,2.0,1.0,False,,,0.0,0.5,,skin-370dfd3911e0
+StatTrak™ AUG | Chameleon (Minimal Wear),input_covert,True,Rifles,AUG,Chameleon,Minimal Wear,True,False,False,Covert,The Phoenix Collection,Operation Phoenix Weapon Case,Knives,2.0,1.0,False,,,0.0,0.5,,skin-370dfd3911e0
+StatTrak™ Galil AR | Chatterbox (Well-Worn),input_covert,True,Rifles,Galil AR,Chatterbox,Well-Worn,True,False,False,Covert,The Chroma Collection,Chroma Case,Knives,2.0,1.0,False,,,0.35,0.85,,skin-94878071c8d9
+StatTrak™ M4A1-S | Golden Coil (Battle-Scarred),input_covert,True,Rifles,M4A1-S,Golden Coil,Battle-Scarred,True,False,False,Covert,The Shadow Collection,Shadow Case,Knives,2.0,1.0,False,,,0.0,1.0,,skin-02db706d8db0
+StatTrak™ M4A1-S | Golden Coil (Field-Tested),input_covert,True,Rifles,M4A1-S,Golden Coil,Field-Tested,True,False,False,Covert,The Shadow Collection,Shadow Case,Knives,2.0,1.0,False,,,0.0,1.0,,skin-02db706d8db0
+StatTrak™ M4A1-S | Golden Coil (Minimal Wear),input_covert,True,Rifles,M4A1-S,Golden Coil,Minimal Wear,True,False,False,Covert,The Shadow Collection,Shadow Case,Knives,2.0,1.0,False,,,0.0,1.0,,skin-02db706d8db0
+StatTrak™ M4A1-S | Hyper Beast (Factory New),input_covert,True,Rifles,M4A1-S,Hyper Beast,Factory New,True,False,False,Covert,The Chroma 2 Collection,Chroma 2 Case,Knives,2.0,1.0,False,,,0.0,1.0,,skin-7b1351c2adba
+StatTrak™ M4A4 | Desert-Strike (Well-Worn),input_covert,True,Rifles,M4A4,Desert-Strike,Well-Worn,True,False,False,Covert,The Huntsman Collection,Huntsman Weapon Case,Knives,2.0,1.0,False,,,0.0,0.7,,skin-e3516262b49a
+StatTrak™ MAC-10 | Neon Rider (Field-Tested),input_covert,True,SMGs,MAC-10,Neon Rider,Field-Tested,True,False,False,Covert,The Chroma 2 Collection,Chroma 2 Case,Knives,2.0,1.0,False,,,0.0,0.45,,skin-bb6ba9602776
+StatTrak™ MAC-10 | Stalker (Minimal Wear),input_covert,True,SMGs,MAC-10,Stalker,Minimal Wear,True,False,False,Covert,The Shattered Web Collection,Shattered Web Case,Knives,2.0,1.0,False,,,0.0,1.0,,skin-46bae9d6c6b0
+StatTrak™ P250 | See Ya Later (Factory New),input_covert,True,Pistols,P250,See Ya Later,Factory New,True,False,False,Covert,The Spectrum 2 Collection,Spectrum 2 Case,Knives,2.0,1.0,False,,,0.0,0.7,,skin-491a70af3255
+★ Bloodhound Gloves | Charred (Minimal Wear),output_gloves,True,Gloves,Bloodhound Gloves,Charred,Minimal Wear,False,False,False,Extraordinary,The Glove Collection,Glove Case,Gloves,2.0,,,mid,,0.06,0.8,,skin-c9241d03e33b
+★ Driver Gloves | Convoy (Battle-Scarred),output_gloves,True,Gloves,Driver Gloves,Convoy,Battle-Scarred,False,False,False,Extraordinary,The Glove Collection,Glove Case,Gloves,2.0,,,mid,,0.06,0.8,,skin-6875abfca574
+★ Driver Gloves | Convoy (Factory New),output_gloves,True,Gloves,Driver Gloves,Convoy,Factory New,False,False,False,Extraordinary,The Glove Collection,Glove Case,Gloves,2.0,,,mid,,0.06,0.8,,skin-6875abfca574
+★ Driver Gloves | Convoy (Field-Tested),output_gloves,True,Gloves,Driver Gloves,Convoy,Field-Tested,False,False,False,Extraordinary,The Glove Collection,Glove Case,Gloves,2.0,,,mid,,0.06,0.8,,skin-6875abfca574
+★ Driver Gloves | Convoy (Minimal Wear),output_gloves,True,Gloves,Driver Gloves,Convoy,Minimal Wear,False,False,False,Extraordinary,The Glove Collection,Glove Case,Gloves,2.0,,,mid,,0.06,0.8,,skin-6875abfca574
+★ Driver Gloves | Convoy (Well-Worn),output_gloves,True,Gloves,Driver Gloves,Convoy,Well-Worn,False,False,False,Extraordinary,The Glove Collection,Glove Case,Gloves,2.0,,,mid,,0.06,0.8,,skin-6875abfca574
+★ Hand Wraps | CAUTION! (Battle-Scarred),output_gloves,True,Gloves,Hand Wraps,CAUTION!,Battle-Scarred,False,False,False,Extraordinary,The Operation Broken Fang Collection,Operation Broken Fang Case,Gloves,2.0,,,mid,,0.06,0.8,,skin-e728cedb22fe
+★ Hand Wraps | CAUTION! (Factory New),output_gloves,True,Gloves,Hand Wraps,CAUTION!,Factory New,False,False,False,Extraordinary,The Operation Broken Fang Collection,Operation Broken Fang Case,Gloves,2.0,,,mid,,0.06,0.8,,skin-e728cedb22fe
+★ Hand Wraps | CAUTION! (Field-Tested),output_gloves,True,Gloves,Hand Wraps,CAUTION!,Field-Tested,False,False,False,Extraordinary,The Operation Broken Fang Collection,Operation Broken Fang Case,Gloves,2.0,,,mid,,0.06,0.8,,skin-e728cedb22fe
+★ Hand Wraps | CAUTION! (Minimal Wear),output_gloves,True,Gloves,Hand Wraps,CAUTION!,Minimal Wear,False,False,False,Extraordinary,The Operation Broken Fang Collection,Operation Broken Fang Case,Gloves,2.0,,,mid,,0.06,0.8,,skin-e728cedb22fe
+★ Hand Wraps | CAUTION! (Well-Worn),output_gloves,True,Gloves,Hand Wraps,CAUTION!,Well-Worn,False,False,False,Extraordinary,The Operation Broken Fang Collection,Operation Broken Fang Case,Gloves,2.0,,,mid,,0.06,0.8,,skin-e728cedb22fe
+★ Hydra Gloves | Mangrove (Battle-Scarred),output_gloves,True,Gloves,Hydra Gloves,Mangrove,Battle-Scarred,False,False,False,Extraordinary,The Clutch Collection,Clutch Case,Gloves,2.0,,,mid,,0.06,0.8,,skin-530add68f13a
+★ Hydra Gloves | Rattler (Field-Tested),output_gloves,True,Gloves,Hydra Gloves,Rattler,Field-Tested,False,False,False,Extraordinary,The Clutch Collection,Clutch Case,Gloves,2.0,,,mid,,0.06,0.8,,skin-fb73d424e4dd
+★ Moto Gloves | 3rd Commando Company (Factory New),output_gloves,True,Gloves,Moto Gloves,3rd Commando Company,Factory New,False,False,False,Extraordinary,The Operation Broken Fang Collection,Operation Broken Fang Case,Gloves,2.0,,,mid,,0.06,0.8,,skin-5cbc5bc584a3
+★ Moto Gloves | Cool Mint (Minimal Wear),output_gloves,True,Gloves,Moto Gloves,Cool Mint,Minimal Wear,False,False,False,Extraordinary,The Glove Collection,Glove Case,Gloves,2.0,,,mid,,0.06,0.8,,skin-510d868c343b
+★ Specialist Gloves | Crimson Kimono (Factory New),output_gloves,True,Gloves,Specialist Gloves,Crimson Kimono,Factory New,False,False,False,Extraordinary,The Glove Collection,Glove Case,Gloves,2.0,,,mid,,0.06,0.8,,skin-5766610447f3
+★ Sport Gloves | Arid (Factory New),output_gloves,True,Gloves,Sport Gloves,Arid,Factory New,False,False,False,Extraordinary,The Glove Collection,Glove Case,Gloves,2.0,,,mid,,0.06,0.8,,skin-96fe89fd41f9
+★ Bayonet | Doppler (Factory New),output_knife,True,Knives,Bayonet,Doppler,Factory New,False,False,False,Covert,The Chroma Collection,Chroma Case,Knives,2.0,,,mid,phase,0.0,0.08,,skin-6f5d1311fcae
+★ Gut Knife,output_knife,True,Knives,Gut Knife,,,False,False,True,Covert,The Arms Deal Collection,CS:GO Weapon Case,Knives,1.0,,,cheap,,,,,skin-vanilla-weapon_knife_gut
+★ Gut Knife | Gamma Doppler (Factory New),output_knife,True,Knives,Gut Knife,Gamma Doppler,Factory New,False,False,False,Covert,The Gamma Collection,Gamma Case,Knives,2.0,,,cheap,phase,0.0,0.08,,skin-09f3db24ac92
+★ Gut Knife | Gamma Doppler (Minimal Wear),output_knife,True,Knives,Gut Knife,Gamma Doppler,Minimal Wear,False,False,False,Covert,The Gamma Collection,Gamma Case,Knives,2.0,,,cheap,phase,0.0,0.08,,skin-09f3db24ac92
+★ Karambit | Bright Water (Factory New),output_knife,True,Knives,Karambit,Bright Water,Factory New,False,False,False,Covert,The Gamma Collection,Gamma Case,Knives,2.0,,,expensive,,0.0,0.5,,skin-8e57ec28871d
+★ Karambit | Bright Water (Minimal Wear),output_knife,True,Knives,Karambit,Bright Water,Minimal Wear,False,False,False,Covert,The Gamma Collection,Gamma Case,Knives,2.0,,,expensive,,0.0,0.5,,skin-8e57ec28871d
+★ Kukri Knife | Scorched (Field-Tested),output_knife,True,Knives,Kukri Knife,Scorched,Field-Tested,False,False,False,Covert,The Kilowatt Collection,Kilowatt Case,Knives,2.0,,,expensive,,0.06,0.8,,skin-238298a88e4a
+★ Kukri Knife | Stained (Battle-Scarred),output_knife,True,Knives,Kukri Knife,Stained,Battle-Scarred,False,False,False,Covert,The Kilowatt Collection,Kilowatt Case,Knives,2.0,,,expensive,,0.0,1.0,,skin-d1ab66316ff3
+★ Kukri Knife | Stained (Well-Worn),output_knife,True,Knives,Kukri Knife,Stained,Well-Worn,False,False,False,Covert,The Kilowatt Collection,Kilowatt Case,Knives,2.0,,,expensive,,0.0,1.0,,skin-d1ab66316ff3
+★ Nomad Knife,output_knife,True,Knives,Nomad Knife,,,False,False,True,Covert,The Shattered Web Collection,Shattered Web Case,Knives,2.0,,,cheap,,,,,skin-vanilla-weapon_knife_outdoor
+★ Paracord Knife | Doppler (Minimal Wear),output_knife,True,Knives,Paracord Knife,Doppler,Minimal Wear,False,False,False,Covert,The Fever Collection,Fever Case,Knives,2.0,,,cheap,phase,0.0,0.08,,skin-19875cb0c4d2
+★ Paracord Knife | Safari Mesh (Factory New),output_knife,True,Knives,Paracord Knife,Safari Mesh,Factory New,False,False,False,Covert,The Shattered Web Collection,Shattered Web Case,Knives,2.0,,,cheap,,0.06,0.8,,skin-50d62bccb9a1
+★ Paracord Knife | Safari Mesh (Minimal Wear),output_knife,True,Knives,Paracord Knife,Safari Mesh,Minimal Wear,False,False,False,Covert,The Shattered Web Collection,Shattered Web Case,Knives,2.0,,,cheap,,0.06,0.8,,skin-50d62bccb9a1
+★ Shadow Daggers | Case Hardened (Field-Tested),output_knife,True,Knives,Shadow Daggers,Case Hardened,Field-Tested,False,False,False,Covert,The Shadow Collection,Shadow Case,Knives,2.0,,,cheap,pattern,0.0,1.0,,skin-fa4c00780e2c
+★ Shadow Daggers | Damascus Steel (Battle-Scarred),output_knife,True,Knives,Shadow Daggers,Damascus Steel,Battle-Scarred,False,False,False,Covert,The Spectrum Collection,Spectrum Case,Knives,2.0,,,cheap,,0.0,0.5,,skin-7672f2725a54
+★ Shadow Daggers | Damascus Steel (Well-Worn),output_knife,True,Knives,Shadow Daggers,Damascus Steel,Well-Worn,False,False,False,Covert,The Spectrum Collection,Spectrum Case,Knives,2.0,,,cheap,,0.0,0.5,,skin-7672f2725a54
+★ Skeleton Knife | Doppler (Factory New),output_knife,True,Knives,Skeleton Knife,Doppler,Factory New,False,False,False,Covert,The Fever Collection,Fever Case,Knives,2.0,,,expensive,phase,0.0,0.08,,skin-0d626aa19c6e
+★ StatTrak™ Falchion Knife | Ultraviolet (Battle-Scarred),output_knife,True,Knives,Falchion Knife,Ultraviolet,Battle-Scarred,True,False,False,Covert,The Spectrum Collection,Spectrum Case,Knives,2.0,,,cheap,,0.06,0.8,,skin-2efdd1c3c3ba
+★ StatTrak™ Gut Knife,output_knife,True,Knives,Gut Knife,,,True,False,True,Covert,The Arms Deal Collection,CS:GO Weapon Case,Knives,1.0,,,cheap,,,,,skin-vanilla-weapon_knife_gut
+★ StatTrak™ Gut Knife | Gamma Doppler (Factory New),output_knife,True,Knives,Gut Knife,Gamma Doppler,Factory New,True,False,False,Covert,The Gamma Collection,Gamma Case,Knives,2.0,,,cheap,phase,0.0,0.08,,skin-09f3db24ac92
+★ StatTrak™ Gut Knife | Gamma Doppler (Minimal Wear),output_knife,True,Knives,Gut Knife,Gamma Doppler,Minimal Wear,True,False,False,Covert,The Gamma Collection,Gamma Case,Knives,2.0,,,cheap,phase,0.0,0.08,,skin-09f3db24ac92
+★ StatTrak™ Huntsman Knife | Black Laminate (Battle-Scarred),output_knife,True,Knives,Huntsman Knife,Black Laminate,Battle-Scarred,True,False,False,Covert,The Operation Riptide Collection,Operation Riptide Case,Knives,2.0,,,cheap,,0.0,1.0,,skin-6846773dc467
+★ StatTrak™ Huntsman Knife | Freehand (Factory New),output_knife,True,Knives,Huntsman Knife,Freehand,Factory New,True,False,False,Covert,The Operation Riptide Collection,Operation Riptide Case,Knives,2.0,,,cheap,,0.0,0.48,,skin-37f576426c37
+★ StatTrak™ Karambit | Bright Water (Factory New),output_knife,True,Knives,Karambit,Bright Water,Factory New,True,False,False,Covert,The Gamma Collection,Gamma Case,Knives,2.0,,,expensive,,0.0,0.5,,skin-8e57ec28871d
+★ StatTrak™ Karambit | Bright Water (Minimal Wear),output_knife,True,Knives,Karambit,Bright Water,Minimal Wear,True,False,False,Covert,The Gamma Collection,Gamma Case,Knives,2.0,,,expensive,,0.0,0.5,,skin-8e57ec28871d
+★ StatTrak™ Kukri Knife | Scorched (Field-Tested),output_knife,True,Knives,Kukri Knife,Scorched,Field-Tested,True,False,False,Covert,The Kilowatt Collection,Kilowatt Case,Knives,2.0,,,expensive,,0.06,0.8,,skin-238298a88e4a
+★ StatTrak™ Kukri Knife | Stained (Battle-Scarred),output_knife,True,Knives,Kukri Knife,Stained,Battle-Scarred,True,False,False,Covert,The Kilowatt Collection,Kilowatt Case,Knives,2.0,,,expensive,,0.0,1.0,,skin-d1ab66316ff3
+★ StatTrak™ Kukri Knife | Stained (Well-Worn),output_knife,True,Knives,Kukri Knife,Stained,Well-Worn,True,False,False,Covert,The Kilowatt Collection,Kilowatt Case,Knives,2.0,,,expensive,,0.0,1.0,,skin-d1ab66316ff3
+★ StatTrak™ Nomad Knife,output_knife,True,Knives,Nomad Knife,,,True,False,True,Covert,The Shattered Web Collection,Shattered Web Case,Knives,2.0,,,cheap,,,,,skin-vanilla-weapon_knife_outdoor
+★ StatTrak™ Paracord Knife | Safari Mesh (Factory New),output_knife,True,Knives,Paracord Knife,Safari Mesh,Factory New,True,False,False,Covert,The Shattered Web Collection,Shattered Web Case,Knives,2.0,,,cheap,,0.06,0.8,,skin-50d62bccb9a1
+★ StatTrak™ Paracord Knife | Safari Mesh (Minimal Wear),output_knife,True,Knives,Paracord Knife,Safari Mesh,Minimal Wear,True,False,False,Covert,The Shattered Web Collection,Shattered Web Case,Knives,2.0,,,cheap,,0.06,0.8,,skin-50d62bccb9a1
+★ StatTrak™ Shadow Daggers | Case Hardened (Field-Tested),output_knife,True,Knives,Shadow Daggers,Case Hardened,Field-Tested,True,False,False,Covert,The Shadow Collection,Shadow Case,Knives,2.0,,,cheap,pattern,0.0,1.0,,skin-fa4c00780e2c
+★ StatTrak™ Shadow Daggers | Damascus Steel (Battle-Scarred),output_knife,True,Knives,Shadow Daggers,Damascus Steel,Battle-Scarred,True,False,False,Covert,The Spectrum Collection,Spectrum Case,Knives,2.0,,,cheap,,0.0,0.5,,skin-7672f2725a54
+★ StatTrak™ Shadow Daggers | Damascus Steel (Well-Worn),output_knife,True,Knives,Shadow Daggers,Damascus Steel,Well-Worn,True,False,False,Covert,The Spectrum Collection,Spectrum Case,Knives,2.0,,,cheap,,0.0,0.5,,skin-7672f2725a54
+★ StatTrak™ Talon Knife,output_knife,True,Knives,Talon Knife,,,True,False,True,Covert,The Horizon Collection,Horizon Case,Knives,2.0,,,expensive,,,,,skin-vanilla-weapon_knife_widowmaker
+★ StatTrak™ Ursus Knife | Damascus Steel (Battle-Scarred),output_knife,True,Knives,Ursus Knife,Damascus Steel,Battle-Scarred,True,False,False,Covert,The Prisma Collection,Prisma Case,Knives,2.0,,,cheap,,0.0,0.5,,skin-3bf8105f2ed6
+★ StatTrak™ Ursus Knife | Damascus Steel (Field-Tested),output_knife,True,Knives,Ursus Knife,Damascus Steel,Field-Tested,True,False,False,Covert,The Prisma Collection,Prisma Case,Knives,2.0,,,cheap,,0.0,0.5,,skin-3bf8105f2ed6
+★ StatTrak™ Ursus Knife | Damascus Steel (Well-Worn),output_knife,True,Knives,Ursus Knife,Damascus Steel,Well-Worn,True,False,False,Covert,The Prisma Collection,Prisma Case,Knives,2.0,,,cheap,,0.0,0.5,,skin-3bf8105f2ed6
+★ Talon Knife,output_knife,True,Knives,Talon Knife,,,False,False,True,Covert,The Horizon Collection,Horizon Case,Knives,2.0,,,expensive,,,,,skin-vanilla-weapon_knife_widowmaker
+★ Ursus Knife | Damascus Steel (Battle-Scarred),output_knife,True,Knives,Ursus Knife,Damascus Steel,Battle-Scarred,False,False,False,Covert,The Prisma Collection,Prisma Case,Knives,2.0,,,cheap,,0.0,0.5,,skin-3bf8105f2ed6
+★ Ursus Knife | Damascus Steel (Field-Tested),output_knife,True,Knives,Ursus Knife,Damascus Steel,Field-Tested,False,False,False,Covert,The Prisma Collection,Prisma Case,Knives,2.0,,,cheap,,0.0,0.5,,skin-3bf8105f2ed6
+★ Ursus Knife | Damascus Steel (Well-Worn),output_knife,True,Knives,Ursus Knife,Damascus Steel,Well-Worn,False,False,False,Covert,The Prisma Collection,Prisma Case,Knives,2.0,,,cheap,,0.0,0.5,,skin-3bf8105f2ed6
+AK-47 | Aphrodite (Field-Tested),placebo_covert,False,Rifles,AK-47,Aphrodite,Field-Tested,False,False,False,Covert,Limited Edition Item,,,,,,,,0.0,1.0,,skin-9197715f9f3f
+AK-47 | Consequence of the Jinn (Well-Worn),placebo_covert,False,Rifles,AK-47,Consequence of the Jinn,Well-Worn,False,False,False,Covert,The Arabesque Collection,,,,,,,,0.0,1.0,,skin-651edfe9a99a
+AK-47 | The Oligarch (Factory New),placebo_covert,False,Rifles,AK-47,The Oligarch,Factory New,False,False,False,Covert,The Genesis Collection,,,,,,,,0.0,1.0,,skin-4608abab8351
+AK-47 | The Oligarch (Minimal Wear),placebo_covert,False,Rifles,AK-47,The Oligarch,Minimal Wear,False,False,False,Covert,The Genesis Collection,,,,,,,,0.0,1.0,,skin-4608abab8351
+AWP | Queen's Gambit (Battle-Scarred),placebo_covert,False,Rifles,AWP,Queen's Gambit,Battle-Scarred,False,False,False,Covert,The Dead Hand Collection,,,,,,,,0.0,1.0,,skin-66197377b028
+AWP | Queen's Gambit (Field-Tested),placebo_covert,False,Rifles,AWP,Queen's Gambit,Field-Tested,False,False,False,Covert,The Dead Hand Collection,,,,,,,,0.0,1.0,,skin-66197377b028
+AWP | Queen's Gambit (Well-Worn),placebo_covert,False,Rifles,AWP,Queen's Gambit,Well-Worn,False,False,False,Covert,The Dead Hand Collection,,,,,,,,0.0,1.0,,skin-66197377b028
+Glock-18 | Fully Tuned (Field-Tested),placebo_covert,False,Pistols,Glock-18,Fully Tuned,Field-Tested,False,False,False,Covert,The Dead Hand Collection,,,,,,,,0.0,1.0,,skin-ec359b168d17
+M4A4 | Eye of Horus (Battle-Scarred),placebo_covert,False,Rifles,M4A4,Eye of Horus,Battle-Scarred,False,False,False,Covert,The Anubis Collection,,,,,,,,0.0,0.7,,skin-bc3cce11bb11
+StatTrak™ M4A4 | Full Throttle (Battle-Scarred),placebo_covert,False,Rifles,M4A4,Full Throttle,Battle-Scarred,True,False,False,Covert,The Genesis Collection,,,,,,,,0.0,1.0,,skin-e7c2a01982dd
+StatTrak™ M4A4 | Full Throttle (Factory New),placebo_covert,False,Rifles,M4A4,Full Throttle,Factory New,True,False,False,Covert,The Genesis Collection,,,,,,,,0.0,1.0,,skin-e7c2a01982dd
+StatTrak™ M4A4 | Full Throttle (Field-Tested),placebo_covert,False,Rifles,M4A4,Full Throttle,Field-Tested,True,False,False,Covert,The Genesis Collection,,,,,,,,0.0,1.0,,skin-e7c2a01982dd
+StatTrak™ M4A4 | Full Throttle (Minimal Wear),placebo_covert,False,Rifles,M4A4,Full Throttle,Minimal Wear,True,False,False,Covert,The Genesis Collection,,,,,,,,0.0,1.0,,skin-e7c2a01982dd
+StatTrak™ M4A4 | Full Throttle (Well-Worn),placebo_covert,False,Rifles,M4A4,Full Throttle,Well-Worn,True,False,False,Covert,The Genesis Collection,,,,,,,,0.0,1.0,,skin-e7c2a01982dd
+StatTrak™ Five-SeveN | Hyper Beast (Battle-Scarred),placebo_covert_st,False,Pistols,Five-SeveN,Hyper Beast,Battle-Scarred,True,False,False,Covert,The Operation Hydra Collection,Operation Hydra Case,Gloves,2.0,1.0,True,,,0.0,1.0,,skin-06e2ad662c73
+StatTrak™ M4A4 | Buzz Kill (Well-Worn),placebo_covert_st,False,Rifles,M4A4,Buzz Kill,Well-Worn,True,False,False,Covert,The Glove Collection,Glove Case,Gloves,2.0,1.0,True,,,0.0,0.7,,skin-01d7c60eddbb
+StatTrak™ M4A4 | In Living Color (Minimal Wear),placebo_covert_st,False,Rifles,M4A4,In Living Color,Minimal Wear,True,False,False,Covert,The Snakebite Collection,Snakebite Case,Gloves,2.0,1.0,True,,,0.0,0.79,,skin-c62d08aa8da1
+StatTrak™ MP7 | Bloodsport (Field-Tested),placebo_covert_st,False,SMGs,MP7,Bloodsport,Field-Tested,True,False,False,Covert,The Clutch Collection,Clutch Case,Gloves,2.0,1.0,True,,,0.0,0.65,,skin-d11a70424dd7
+StatTrak™ SSG 08 | Dragonfire (Battle-Scarred),placebo_covert_st,False,Rifles,SSG 08,Dragonfire,Battle-Scarred,True,False,False,Covert,The Glove Collection,Glove Case,Gloves,2.0,1.0,True,,,0.0,0.5,,skin-318f343e125d
+StatTrak™ SSG 08 | Dragonfire (Factory New),placebo_covert_st,False,Rifles,SSG 08,Dragonfire,Factory New,True,False,False,Covert,The Glove Collection,Glove Case,Gloves,2.0,1.0,True,,,0.0,0.5,,skin-318f343e125d
+StatTrak™ SSG 08 | Dragonfire (Field-Tested),placebo_covert_st,False,Rifles,SSG 08,Dragonfire,Field-Tested,True,False,False,Covert,The Glove Collection,Glove Case,Gloves,2.0,1.0,True,,,0.0,0.5,,skin-318f343e125d
+StatTrak™ SSG 08 | Dragonfire (Minimal Wear),placebo_covert_st,False,Rifles,SSG 08,Dragonfire,Minimal Wear,True,False,False,Covert,The Glove Collection,Glove Case,Gloves,2.0,1.0,True,,,0.0,0.5,,skin-318f343e125d
+StatTrak™ SSG 08 | Dragonfire (Well-Worn),placebo_covert_st,False,Rifles,SSG 08,Dragonfire,Well-Worn,True,False,False,Covert,The Glove Collection,Glove Case,Gloves,2.0,1.0,True,,,0.0,0.5,,skin-318f343e125d
+Souvenir AK-47 | B the Monster (Battle-Scarred),placebo_souvenir,False,Rifles,AK-47,B the Monster,Battle-Scarred,False,True,False,Covert,The Overpass 2024 Collection,,,,,,,,0.0,0.8,,skin-16430ed7568b
+Souvenir AK-47 | B the Monster (Factory New),placebo_souvenir,False,Rifles,AK-47,B the Monster,Factory New,False,True,False,Covert,The Overpass 2024 Collection,,,,,,,,0.0,0.8,,skin-16430ed7568b
+Souvenir AK-47 | B the Monster (Field-Tested),placebo_souvenir,False,Rifles,AK-47,B the Monster,Field-Tested,False,True,False,Covert,The Overpass 2024 Collection,,,,,,,,0.0,0.8,,skin-16430ed7568b
+Souvenir AK-47 | B the Monster (Minimal Wear),placebo_souvenir,False,Rifles,AK-47,B the Monster,Minimal Wear,False,True,False,Covert,The Overpass 2024 Collection,,,,,,,,0.0,0.8,,skin-16430ed7568b
+Souvenir AK-47 | B the Monster (Well-Worn),placebo_souvenir,False,Rifles,AK-47,B the Monster,Well-Worn,False,True,False,Covert,The Overpass 2024 Collection,,,,,,,,0.0,0.8,,skin-16430ed7568b
+Souvenir AK-47 | Gold Arabesque (Well-Worn),placebo_souvenir,False,Rifles,AK-47,Gold Arabesque,Well-Worn,False,True,False,Covert,The 2021 Dust 2 Collection,,,,,,,,0.0,0.7,,skin-58267df1cb9f
+Souvenir AWP | Dragon Lore (Factory New),placebo_souvenir,False,Rifles,AWP,Dragon Lore,Factory New,False,True,False,Covert,The Cobblestone Collection,,,,,,,,0.0,0.7,,skin-4f8d99d09ded
+Souvenir M4A1-S | Imminent Danger (Battle-Scarred),placebo_souvenir,False,Rifles,M4A1-S,Imminent Danger,Battle-Scarred,False,True,False,Covert,The 2021 Vertigo Collection,,,,,,,,0.0,0.8,,skin-5b5a4da33e83
+Souvenir M4A1-S | Imminent Danger (Field-Tested),placebo_souvenir,False,Rifles,M4A1-S,Imminent Danger,Field-Tested,False,True,False,Covert,The 2021 Vertigo Collection,,,,,,,,0.0,0.8,,skin-5b5a4da33e83
+Souvenir M4A1-S | Welcome to the Jungle (Factory New),placebo_souvenir,False,Rifles,M4A1-S,Welcome to the Jungle,Factory New,False,True,False,Covert,The Ancient Collection,,,,,,,,0.0,1.0,,skin-f448735cd1c2

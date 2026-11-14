@@ -1,0 +1,5 @@
+Pair type,Pairs,Mean corr (daily),Mean corr (5-day),Median corr (5-day)
+"Same skin, different wear",3233,0.04,0.14,0.134
+"Same case, different skin",39226,0.012,0.053,0.055
+"Same role, different case",434645,0.017,0.063,0.064
+Different role,1146207,0.012,0.055,0.056

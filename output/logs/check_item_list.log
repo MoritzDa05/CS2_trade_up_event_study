@@ -1,0 +1,126 @@
+19:58:45 [INFO] Item list: 5312 items, 42 cases (ByMykel files of 2026-09-19 16:47 UTC)
+19:58:45 [INFO] Game files: SteamDatabase/GameTracking-CS2, commit 39df8b2a5bdd43f358c0a63a92adee2e220db505 (given on the command line or in config)
+19:58:45 [INFO]   last commit before 2026-09-19T16:47:00Z
+19:58:47 [INFO] Downloaded pak01_dir.txt (12.4 MB)
+19:58:48 [INFO] Parsed: 2054 items, 2503 loot lists, 97 item sets, 1481 paint kits, 44465 localization tokens, 135679 files in the file list
+19:58:48 [INFO] 
+19:58:48 [INFO] ----------------------------------------------------------------------
+19:58:48 [INFO] 1. Containers with a knife or glove pool
+19:58:48 [INFO] ----------------------------------------------------------------------
+19:58:48 [INFO] Cases with a pool: 42 in the game file, 42 in the list
+19:58:48 [INFO] Other containers with a pool: 1
+19:58:48 [INFO]   differs: Sealed Dead Hand Terminal (5181, volatile_pricing_gloves weapon_case_selfopening_collection, pool: ★ Gloves ★)
+19:58:48 [INFO] 
+19:58:48 [INFO] ----------------------------------------------------------------------
+19:58:48 [INFO] 2. Knives or gloves, knife type
+19:58:48 [INFO] ----------------------------------------------------------------------
+19:58:48 [INFO] Cases with a single knife type: 8
+19:58:48 [INFO] 
+19:58:48 [INFO] ----------------------------------------------------------------------
+19:58:48 [INFO] 3. Covert weapon skins per case
+19:58:48 [INFO] ----------------------------------------------------------------------
+19:58:48 [INFO] Covert skins in cases: 79 in the game file, 79 in the list
+19:58:48 [INFO] 
+19:58:48 [INFO] ----------------------------------------------------------------------
+19:58:48 [INFO] 4. Rarity of the weapon skins
+19:58:48 [INFO] ----------------------------------------------------------------------
+19:58:48 [INFO] Weapon skins: 121, rarity agrees for 121, 0 in no loot list
+19:58:48 [INFO] 
+19:58:48 [INFO] ----------------------------------------------------------------------
+19:58:48 [INFO] 5. Placebo Map and Placebo Classified
+19:58:48 [INFO] ----------------------------------------------------------------------
+19:58:48 [INFO]   differs: AWP | Queen's Gambit is in Sealed Dead Hand Terminal
+19:58:48 [INFO]   differs: Glock-18 | Fully Tuned is in Sealed Dead Hand Terminal
+19:58:48 [INFO] 
+19:58:48 [INFO] ----------------------------------------------------------------------
+19:58:48 [INFO] 6. Float ranges
+19:58:48 [INFO] ----------------------------------------------------------------------
+19:58:48 [INFO] Float range of the weapon skins: 121 compared, 121 agree
+19:58:48 [INFO] Float range of the knife and glove finishes: 628 compared, 628 agree
+19:58:48 [INFO] Knife and glove finishes: 480 market names, 628 paint kits
+19:58:48 [INFO] 
+19:58:48 [INFO] ----------------------------------------------------------------------
+19:58:48 [INFO] 7. Cases that share a pool
+19:58:48 [INFO] ----------------------------------------------------------------------
+19:58:48 [INFO]   community_case_11_unusual     1 cases, 13 finishes
+19:58:48 [INFO]   community_case_13_unusual     2 cases, 30 finishes
+19:58:48 [INFO]   community_case_15_unusual     2 cases, 24 finishes
+19:58:48 [INFO]   community_case_3_unusual      1 cases, 13 finishes
+19:58:48 [INFO]   community_case_4_unusual      1 cases, 13 finishes
+19:58:48 [INFO]   community_case_6_unusual      3 cases, 30 finishes
+19:58:48 [INFO]   community_case_8_unusual      1 cases, 13 finishes
+19:58:48 [INFO]   community_case_9_unusual      1 cases, 13 finishes
+19:58:48 [INFO]   gamma2_knives2_unusual        2 cases, 30 finishes
+19:58:48 [INFO]   set_community_19_unusual      2 cases, 24 finishes
+19:58:48 [INFO]   set_community_20_unusual      2 cases, 52 finishes
+19:58:48 [INFO]   set_community_22_unusual      2 cases, 28 finishes
+19:58:48 [INFO]   set_community_23_unusual      2 cases, 52 finishes
+19:58:48 [INFO]   set_community_24_unusual      1 cases, 13 finishes
+19:58:48 [INFO]   set_community_33_unusual      2 cases, 13 finishes
+19:58:48 [INFO]   set_community_35_unusual      1 cases, 28 finishes
+19:58:48 [INFO]   set_glove_3_unusual           3 cases, 24 finishes
+19:58:48 [INFO]   spectrum_unusual              2 cases, 30 finishes
+19:58:48 [INFO]   unusual_revolving_list       11 cases, 65 finishes
+19:58:48 [INFO] Pool names in the game file: 19; distinct pools in the list: 19
+19:58:48 [INFO] 
+19:58:48 [INFO] ----------------------------------------------------------------------
+19:58:48 [INFO] 8. Names of the weapon skins
+19:58:48 [INFO] ----------------------------------------------------------------------
+19:58:48 [INFO] Weapon skins: 121, name agrees for 121
+19:58:48 [INFO] 
+19:58:48 [INFO] ----------------------------------------------------------------------
+19:58:48 [INFO] 9. Knife and glove finishes of the pools in the game
+19:58:48 [INFO] ----------------------------------------------------------------------
+19:58:48 [INFO] Game files: 6510 generated icons; 502 knife and glove finishes with 650 paint kits; 20 knife types
+19:58:48 [INFO] Finishes and vanilla knives: 522 in the game, 500 in the pools, 500 of these in the game
+19:58:48 [INFO] Paint kits of the pool finishes: 628 in the game, 628 in the list
+19:58:48 [INFO] 
+19:58:48 [INFO] ----------------------------------------------------------------------
+19:58:48 [INFO] 10. Knife and glove finishes of the game in the pools
+19:58:48 [INFO] ----------------------------------------------------------------------
+19:58:48 [INFO] Finishes and vanilla knives in the game: 522, in no pool: 22
+19:58:48 [INFO]   differs: ★ Driver Gloves | Brocade Crane in no pool
+19:58:48 [INFO]   differs: ★ Driver Gloves | Brocade Flowers in no pool
+19:58:48 [INFO]   differs: ★ Driver Gloves | Dragon Fists in no pool
+19:58:48 [INFO]   differs: ★ Driver Gloves | Garden in no pool
+19:58:48 [INFO]   differs: ★ Driver Gloves | Hand Sweaters in no pool
+19:58:48 [INFO]   differs: ★ Driver Gloves | Plum Quill in no pool
+19:58:48 [INFO]   differs: ★ Driver Gloves | Seigaiha in no pool
+19:58:48 [INFO]   differs: ★ Driver Gloves | Wave Chaser in no pool
+19:58:48 [INFO]   differs: ★ Specialist Gloves | Big Swell in no pool
+19:58:48 [INFO]   differs: ★ Specialist Gloves | Blackbook in no pool
+19:58:48 [INFO]   differs: ★ Specialist Gloves | Chocolate Chesterfield in no pool
+19:58:48 [INFO]   differs: ★ Specialist Gloves | Cloud Chaser in no pool
+19:58:48 [INFO]   differs: ★ Specialist Gloves | Lime Polycam in no pool
+19:58:48 [INFO]   differs: ★ Specialist Gloves | Pillow Punchers in no pool
+19:58:48 [INFO]   differs: ★ Specialist Gloves | Sunburst in no pool
+19:58:48 [INFO]   differs: ★ Sport Gloves | Blaze in no pool
+19:58:48 [INFO]   differs: ★ Sport Gloves | Creme Pinstripe in no pool
+19:58:48 [INFO]   differs: ★ Sport Gloves | Frosty in no pool
+19:58:48 [INFO]   differs: ★ Sport Gloves | Occult in no pool
+19:58:48 [INFO]   differs: ★ Sport Gloves | Red Racer in no pool
+19:58:48 [INFO]   differs: ★ Sport Gloves | Ultra Violent in no pool
+19:58:48 [INFO]   differs: ★ Sport Gloves | Violet Beadwork in no pool
+19:58:48 [INFO] 
+19:58:48 [INFO] ----------------------------------------------------------------------
+19:58:48 [INFO] SUMMARY
+19:58:48 [INFO] ----------------------------------------------------------------------
+19:58:48 [INFO]                                              check  game_file  item_list  agree  differ
+19:58:48 [INFO]                   Cases with a knife or glove pool         42         42     42       0
+19:58:48 [INFO]        Other containers with a knife or glove pool          1          0      0       1
+19:58:48 [INFO]                        Pool holds knives or gloves         42         42     42       0
+19:58:48 [INFO]       Knife type of cases with a single knife type          8          8      8       0
+19:58:48 [INFO]                   Covert weapon skins in the cases         79         79     79       0
+19:58:48 [INFO]                         Rarity of the weapon skins        121        121    121       0
+19:58:48 [INFO]         Map Coverts outside containers with a pool         28         28     26       2
+19:58:48 [INFO] Collections of Placebo Classified without a Covert         11         11     11       0
+19:58:48 [INFO]                    Float range of the weapon skins        121        121    121       0
+19:58:48 [INFO]        Float range of the knife and glove finishes        628        628    628       0
+19:58:48 [INFO]                               Cases sharing a pool         19         19     19       0
+19:58:48 [INFO]                          Names of the weapon skins        121        121    121       0
+19:58:48 [INFO]               Pool finishes that exist in the game        522        500    500       0
+19:58:48 [INFO]                    Paint kits of the pool finishes        628        628    628       0
+19:58:48 [INFO]     Knife and glove finishes of the game in a pool        522        500    500      22
+19:58:48 [INFO] -> output/tables/check_item_list.csv
+19:58:48 [INFO] 
+19:58:48 [INFO] Done.

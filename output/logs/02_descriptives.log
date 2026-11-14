@@ -1,0 +1,66 @@
+13:22:44 [INFO] Main sample: 1900 items | estimation window t = (-190, -15)
+13:22:44 [INFO] Estimation window: 334400 item-days, 251699 usable returns
+13:22:44 [INFO] 
+13:22:44 [INFO] ----------------------------------------------------------------------
+13:22:44 [INFO] SAMPLE CHARACTERISTICS (estimation window; basis of thesis Table 2)
+13:22:44 [INFO] ----------------------------------------------------------------------
+13:22:44 [INFO]                 Items  Collections  Price median  Price Q1  Price Q3  Trade share  Volume per day  Est. returns  StatTrak share
+13:22:44 [INFO] role                                                                                                                           
+13:22:44 [INFO] treated_output    890           18        179.48    132.85    268.15         0.59             0.9         103.0            0.09
+13:22:44 [INFO] treated_input     569           42         42.36     15.01     88.04         0.99             5.5         174.0            0.37
+13:22:44 [INFO] placebo            28            7        166.14    100.99    354.50         0.91             2.8         160.0            0.00
+13:22:44 [INFO] placebo_low        52           10          9.71      2.59     74.55         1.00            22.8         176.0            0.00
+13:22:44 [INFO] placebo_st         53            6         43.64     23.26     78.35         0.97             3.5         170.0            1.00
+13:22:44 [INFO] index_main         30            0         19.99      2.81     42.35         0.76             2.9         133.0            0.00
+13:22:44 [INFO] index_alt         214            3          5.09      2.71     12.00         1.00            23.4         176.0            0.00
+13:22:44 [INFO] case               40           40          4.59      1.84     10.94         1.00          2248.8         176.0            0.00
+13:22:44 [INFO] excluded           24            0          1.20      0.78      2.09         0.99             6.8         175.0            0.00
+13:22:44 [INFO] 
+13:22:44 [INFO] ----------------------------------------------------------------------
+13:22:44 [INFO] RETURN PROPERTIES (daily log returns, trade to trade; thesis Table C1)
+13:22:44 [INFO] ----------------------------------------------------------------------
+13:22:47 [INFO]                 Items  Returns (median)  Mean % (median)  SD % (median)  Skewness (median)  Excess kurtosis (median)  Zero returns (share)  AR(1) (median)
+13:22:47 [INFO] role                                                                                                                                                      
+13:22:47 [INFO] treated_output    890             103.0           -0.076          9.247             -0.108                     1.027                 0.000          -0.431
+13:22:47 [INFO] treated_input     569             174.0            0.026          5.943             -0.103                     2.198                 0.000          -0.338
+13:22:47 [INFO] placebo            28             160.0            0.319          8.166             -0.047                     4.231                 0.000          -0.388
+13:22:47 [INFO] placebo_low        52             176.0           -0.089          4.597             -0.138                     3.505                 0.000          -0.209
+13:22:47 [INFO] placebo_st         53             170.0            0.028          7.062             -0.114                     1.600                 0.000          -0.387
+13:22:47 [INFO] index_main         30             133.0            0.319          6.760             -0.252                     4.047                 0.000          -0.176
+13:22:47 [INFO] index_alt         214             176.0           -0.037          4.263             -0.105                     1.334                 0.000          -0.263
+13:22:47 [INFO] case               40             176.0            0.061          2.639             -0.014                     2.765                 0.006           0.155
+13:22:47 [INFO] excluded           24             175.0           -0.040          9.078              0.015                     3.760                 0.006          -0.302
+13:22:47 [INFO] 
+13:22:47 [INFO] ----------------------------------------------------------------------
+13:22:47 [INFO] CROSS-SECTIONAL CORRELATION OF RETURNS
+13:22:47 [INFO] ----------------------------------------------------------------------
+13:22:51 [INFO]                    Pair type    Pairs  Mean corr (daily)  Mean corr (5-day)  Median corr (5-day)
+13:22:51 [INFO] 0  Same skin, different wear     3233              0.040              0.140                0.134
+13:22:51 [INFO] 1  Same case, different skin    39226              0.012              0.053                0.055
+13:22:51 [INFO] 2  Same role, different case   434645              0.017              0.063                0.064
+13:22:51 [INFO] 3             Different role  1146207              0.012              0.055                0.056
+13:22:51 [INFO] 
+13:22:51 [INFO] ----------------------------------------------------------------------
+13:22:51 [INFO] DATA QUALITY (appendix)
+13:22:51 [INFO] ----------------------------------------------------------------------
+13:22:51 [INFO]                                                                      Metric       Value
+13:22:51 [INFO] 0                                                  Items in the main sample    1900.000
+13:22:51 [INFO] 1                      Items with estimation-window data (before screening)    4799.000
+13:22:51 [INFO] 2                                        Item-days in the estimation window  334400.000
+13:22:51 [INFO] 3                                                    Item-days with a trade  255031.000
+13:22:51 [INFO] 4                                             Share of days without a trade       0.237
+13:22:51 [INFO] 5   90th percentile of the gap between trades in days (median across items)       2.000
+13:22:51 [INFO] 6                                          Spike days flagged (data window)     650.000
+13:22:51 [INFO] 7                             Spike days removed (volume <= 1, data window)     328.000
+13:22:51 [INFO] 8                  Item-days at the 1544.73 EUR price cluster (data window)      15.000
+13:22:51 [INFO] 9              Items flagged as high-price (all items with estimation data)     192.000
+13:22:51 [INFO] 10             Items below the price floor (all items with estimation data)     146.000
+13:22:51 [INFO] 
+13:22:51 [INFO] ----------------------------------------------------------------------
+13:22:51 [INFO] FIGURES
+13:22:51 [INFO] ----------------------------------------------------------------------
+13:22:52 [INFO] 02_fig1_price_distribution
+13:22:53 [INFO] 02_fig2_liquidity_distribution
+13:22:56 [INFO] 02_fig3_example_series: ★ Huntsman Knife | Lore (Battle-Scarred) | SSG 08 | Dragonfire (Factory New) | Tec-9 | Remote Control (Factory New) | Sticker Capsule 2
+13:22:56 [INFO] 
+13:22:56 [INFO] Done. Tables in output\tables, figures in output\figures

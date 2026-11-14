@@ -1,0 +1,185 @@
+13:25:38 [INFO] 
+13:25:38 [INFO] ----------------------------------------------------------------------
+13:25:38 [INFO] 1. DATA
+13:25:38 [INFO] ----------------------------------------------------------------------
+13:25:41 [INFO] Weekly price series: 58 weeks x 4859 items | windows (-190, -15) and (30, 190) (25 and 22 full weeks)
+13:25:41 [INFO] Items without a signature in the pre window (N <= K = 4 one-week changes): 0
+13:25:41 [INFO] Items without a signature in the post window (N <= K = 4 one-week changes): 4
+13:25:41 [INFO] Items with >= 10 weekly returns in both windows:
+13:25:41 [INFO]                 main sample  eligible
+13:25:41 [INFO] group                                
+13:25:41 [INFO] treated_output          890       886
+13:25:41 [INFO] treated_input           569       566
+13:25:41 [INFO] control                  80        79
+13:25:41 [INFO] placebo_st               53        53
+13:25:41 [INFO] index_main               30        30
+13:25:41 [INFO] index_alt               214       214
+13:25:41 [INFO] case                     40        40
+13:25:41 [INFO] 
+13:25:41 [INFO] ----------------------------------------------------------------------
+13:25:41 [INFO] 2. SIGNATURE: MEDIAN VARIANCE OF k-WEEK CHANGES
+13:25:41 [INFO] ----------------------------------------------------------------------
+13:25:41 [INFO]                           V1      V2      V3      V4
+13:25:41 [INFO] group          window                               
+13:25:41 [INFO] treated_output pre     4.209   5.496   6.508   7.139
+13:25:41 [INFO]                post    1.783   2.552   3.165   3.394
+13:25:41 [INFO] treated_input  pre     4.121   7.290   8.634  10.664
+13:25:41 [INFO]                post    2.759   3.844   4.988   5.719
+13:25:41 [INFO] control        pre     7.307  12.061  14.935  16.705
+13:25:41 [INFO]                post    8.617  13.185  17.843  21.828
+13:25:41 [INFO] placebo_st     pre     3.775   6.496   7.721   9.461
+13:25:41 [INFO]                post    2.094   3.025   3.871   4.843
+13:25:41 [INFO] index_main     pre     6.910  11.604  15.684  18.325
+13:25:41 [INFO]                post    2.393   3.904   5.593   6.080
+13:25:41 [INFO] index_alt      pre     3.737   7.424  10.057  12.325
+13:25:41 [INFO]                post    2.875   5.790   8.020   9.830
+13:25:41 [INFO] case           pre     3.359   7.944   9.216  12.424
+13:25:41 [INFO]                post    2.283   4.390   6.162   9.128
+13:25:41 [INFO] (x 1e-3; a straight line in k means the model fits)
+13:25:41 [INFO] 
+13:25:41 [INFO] ----------------------------------------------------------------------
+13:25:41 [INFO] 3. VOLATILITY BEFORE AND AFTER (weekly sd in %)
+13:25:41 [INFO] ----------------------------------------------------------------------
+13:25:49 [INFO]                 items  trades_week_pre  trades_week_post  raw_pre  raw_post  raw_chg_pct
+13:25:49 [INFO] group                                                                                   
+13:25:49 [INFO] treated_output    886              6.0             17.00     6.49      4.22       -34.92
+13:25:49 [INFO] treated_input     566             37.0             21.50     6.42      5.25       -18.19
+13:25:49 [INFO] control            79             51.0             53.00     8.55      9.28         8.59
+13:25:49 [INFO] placebo_st         53             24.0             31.00     6.14      4.58       -25.53
+13:25:49 [INFO] index_main         30             18.0             15.00     8.31      4.89       -41.15
+13:25:49 [INFO] index_alt         214            157.0            128.25     6.11      5.36       -12.30
+13:25:49 [INFO] case               40          14728.5          15084.00     5.80      4.78       -17.56
+13:25:49 [INFO] 
+13:25:49 [INFO]                 efficient_pre  efficient_post  efficient_chg_pct  efficient_chg_lo  efficient_chg_hi
+13:25:49 [INFO] group                                                                                               
+13:25:49 [INFO] treated_output           3.13            2.33             -25.45            -31.56            -19.88
+13:25:49 [INFO] treated_input            4.58            3.17             -30.86            -39.72            -23.38
+13:25:49 [INFO] control                  5.57            6.66              19.40            -25.72             68.71
+13:25:49 [INFO] placebo_st               4.28            3.02             -29.48            -50.06             -5.05
+13:25:49 [INFO] index_main               6.19            3.57             -42.32            -57.38            -23.31
+13:25:49 [INFO] index_alt                5.33            4.81              -9.81            -19.11              4.55
+13:25:49 [INFO] case                     5.34            4.72             -11.48            -32.18              8.57
+13:25:49 [INFO] 
+13:25:49 [INFO]                 noise_pre  noise_post  noise_chg_pct  noise_chg_lo  noise_chg_hi  noise_share_pre  noise_share_post
+13:25:49 [INFO] group                                                                                                              
+13:25:49 [INFO] treated_output       4.12        2.61         -36.60        -40.38        -32.33            80.47             76.36
+13:25:49 [INFO] treated_input        3.49        3.02         -13.51        -23.58          2.97            59.06             66.00
+13:25:49 [INFO] control              4.99        4.63          -7.17        -48.45         77.37            68.22             49.85
+13:25:49 [INFO] placebo_st           3.39        2.43         -28.11        -56.63         -6.09            60.73             56.59
+13:25:49 [INFO] index_main           4.21        2.55         -39.37        -61.67         78.45            51.36             54.52
+13:25:49 [INFO] index_alt            2.54        2.07         -18.50        -51.39         30.37            34.42             29.73
+13:25:49 [INFO] case                 2.36         NaN            NaN        -90.75         73.21            33.31             -3.79
+13:25:49 [INFO] 
+13:25:49 [INFO] ----------------------------------------------------------------------
+13:25:49 [INFO] 4. RELATIVE TO THE CONTROL GROUP
+13:25:49 [INFO] ----------------------------------------------------------------------
+13:25:49 [INFO]              group  reference    measure  did_pct   ci_lo   ci_hi  p_boot  draws_finite
+13:25:49 [INFO] 0   treated_output    control        raw  -40.071 -57.722 -13.466   0.010           999
+13:25:49 [INFO] 1   treated_output    control  efficient  -37.563 -56.918   2.979   0.066           999
+13:25:49 [INFO] 2   treated_output    control      noise  -31.706 -64.132  23.348   0.134           998
+13:25:49 [INFO] 3    treated_input    control        raw  -24.661 -48.754  11.177   0.152           999
+13:25:49 [INFO] 4    treated_input    control  efficient  -42.089 -60.234  -5.016   0.032           999
+13:25:49 [INFO] 5    treated_input    control      noise   -6.830 -51.702  76.388   0.756           998
+13:25:49 [INFO] 6       placebo_st    control        raw  -31.422 -55.458  -1.498   0.042           999
+13:25:49 [INFO] 7       placebo_st    control  efficient  -40.933 -63.202   7.248   0.110           999
+13:25:49 [INFO] 8       placebo_st    control      noise  -22.556 -67.647  45.508   0.272           991
+13:25:49 [INFO] 9   treated_output  index_alt        raw  -25.796 -32.884 -18.554   0.000           999
+13:25:49 [INFO] 10  treated_output  index_alt  efficient  -17.340 -29.945  -6.134   0.004           999
+13:25:49 [INFO] 11  treated_output  index_alt      noise  -22.217 -53.266  32.973   0.297           996
+13:25:49 [INFO] 12   treated_input  index_alt        raw   -6.715 -16.798   6.560   0.338           999
+13:25:49 [INFO] 13   treated_input  index_alt  efficient  -23.332 -37.505 -11.749   0.000           999
+13:25:49 [INFO] 14   treated_input  index_alt      noise    6.116 -33.390  85.580   0.695           996
+13:25:49 [INFO] 15      placebo_st  index_alt        raw  -15.087 -29.691  -1.148   0.038           999
+13:25:49 [INFO] 16      placebo_st  index_alt  efficient  -21.802 -47.319   9.347   0.142           999
+13:25:49 [INFO] 17      placebo_st  index_alt      noise  -11.796 -56.751  57.798   0.574           989
+13:25:49 [INFO] (reference index_alt = music kits and agents, a second check because the control group has only 20 skins; draws_finite: bootstrap draws with a positive variance in both groups, out of 999)
+13:25:49 [INFO] 
+13:25:49 [INFO] ----------------------------------------------------------------------
+13:25:49 [INFO] 5. COVERTS AT THE BOUND VERSUS THE OTHERS
+13:25:49 [INFO] ----------------------------------------------------------------------
+13:25:50 [INFO] Input Coverts by binding status (R before the update < 0.870 binding, >= 0.870 slack; without a pre-event ratio neither):
+13:25:50 [INFO]                     main sample  eligible
+13:25:50 [INFO] binding                     280       279
+13:25:50 [INFO] slack                       159       159
+13:25:50 [INFO] no pre-event ratio          130       128
+13:25:50 [INFO] 
+13:25:54 [INFO]                            items  efficient_pre  efficient_post  efficient_chg_pct  noise_chg_pct
+13:25:54 [INFO] group                                                                                            
+13:25:54 [INFO] input, binding               279           4.42            2.60             -41.18         -24.90
+13:25:54 [INFO] input, slack                 159           4.20            3.88              -7.55         -20.82
+13:25:54 [INFO] control                       79           5.57            6.66              19.40          -7.17
+13:25:54 [INFO] input, no pre-event ratio    128           4.64            4.86               4.74          -3.34
+13:25:54 [INFO]                        group reference    measure  did_pct   ci_lo   ci_hi  p_boot  draws_finite
+13:25:54 [INFO] 0             input, binding   control        raw  -36.243 -55.362  -8.172   0.024           999
+13:25:54 [INFO] 1             input, binding   control  efficient  -50.735 -67.271 -18.082   0.008           999
+13:25:54 [INFO] 2             input, binding   control      noise  -19.103 -57.114  43.040   0.442           995
+13:25:54 [INFO] 3               input, slack   control        raw  -23.639 -45.843  12.813   0.198           999
+13:25:54 [INFO] 4               input, slack   control  efficient  -22.565 -47.359  28.851   0.352           999
+13:25:54 [INFO] 5               input, slack   control      noise  -14.699 -57.028  51.131   0.498           995
+13:25:54 [INFO] 6  input, no pre-event ratio   control        raw   -4.187 -34.441  31.775   0.883           999
+13:25:54 [INFO] 7  input, no pre-event ratio   control  efficient  -12.274 -40.586  50.155   0.691           999
+13:25:54 [INFO] 8  input, no pre-event ratio   control      noise    4.130 -48.178  83.476   0.965           995
+13:25:57 [INFO] 
+13:25:57 [INFO] Binding minus slack, same skins resampled together:
+13:25:57 [INFO]      measure  diff_pct   ci_lo   ci_hi  p_boot
+13:25:57 [INFO] 0        raw   -16.505 -28.817  -7.400   0.002
+13:25:57 [INFO] 1  efficient   -36.378 -52.603 -18.261   0.000
+13:25:57 [INFO] 2      noise    -5.163 -26.796  40.817   0.879
+13:25:57 [INFO] 
+13:25:57 [INFO] ----------------------------------------------------------------------
+13:25:57 [INFO] 6. COUPLING OF COVERTS TO THEIR OWN POOL
+13:25:57 [INFO] ----------------------------------------------------------------------
+13:25:57 [INFO] Clusters input, all: 38 cases -> 17 pools
+13:26:01 [INFO] Clusters input, binding: 36 cases -> 16 pools
+13:26:04 [INFO] Clusters input, slack: 25 cases -> 15 pools
+13:26:07 [INFO] Clusters placebo_st: 5 cases -> 2 pools; fewer than 4 pools, case clusters kept
+13:26:10 [INFO] Clusters binding - slack: 38 cases -> 17 pools
+13:26:16 [INFO]                 routes  clusters  beta_pre  beta_pre_lo  beta_pre_hi  beta_post  beta_post_lo  beta_post_hi
+13:26:16 [INFO] group                                                                                                      
+13:26:16 [INFO] input, all         337        17     0.300        0.146        0.506      0.377         0.141         0.574
+13:26:16 [INFO] input, binding     212        16     0.241        0.076        0.495      0.512         0.372         0.694
+13:26:16 [INFO] input, slack       125        15     0.419        0.175        0.627      0.140        -0.231         0.490
+13:26:16 [INFO] placebo_st          44         5     0.717        0.667        0.752      0.438         0.170         0.748
+13:26:16 [INFO] 
+13:26:16 [INFO]                               naive_pre  naive_post  change  change_lo  change_hi  p_change  p_post_eq_1
+13:26:16 [INFO] group                                                                                                   
+13:26:16 [INFO] input, all                        0.187       0.337   0.078     -0.228      0.303     0.625          0.0
+13:26:16 [INFO] input, binding                    0.163       0.305   0.272      0.095      0.439     0.004          0.0
+13:26:16 [INFO] input, slack                      0.231       0.378  -0.279     -0.797      0.192     0.288          0.0
+13:26:16 [INFO] placebo_st                        0.369       0.314  -0.278     -0.575      0.068     0.130          0.0
+13:26:16 [INFO] binding - slack (same pools)        NaN         NaN   0.550      0.090      1.053     0.014          NaN
+13:26:16 [INFO] (beta: one lead and one lag, noise-corrected pool variance; naive: contemporaneous OLS. The placebo has only 5 cases, so its interval is not reliable.)
+13:26:16 [INFO] 
+13:26:16 [INFO] ----------------------------------------------------------------------
+13:26:16 [INFO] 7. ROBUSTNESS
+13:26:16 [INFO] ----------------------------------------------------------------------
+13:26:45 [INFO] variant            main: signature 1-4 weeks  signature 1-6 weeks  post window (30, 104)  pre window (-190, -40)  per item, weekly autocovariance  per item, daily trade-to-trade  liquidity >= 50 %  not demeaned
+13:26:45 [INFO] output_n                              886.00               886.00                 887.00                  886.00                           886.00                          890.00             547.00        886.00
+13:26:45 [INFO] output_eff_chg                        -25.45               -38.73                 -29.86                  -15.69                           -23.68                          -11.54             -25.41        -28.00
+13:26:45 [INFO] output_noise_chg                      -36.60               -28.55                 -42.02                  -36.11                           -42.01                          -25.31             -34.00        -35.98
+13:26:45 [INFO] input_n                               566.00               566.00                 563.00                  566.00                           566.00                          569.00             510.00        566.00
+13:26:45 [INFO] input_eff_chg                         -30.86               -36.04                 -39.03                  -28.40                           -38.02                           -8.13             -31.87        -32.36
+13:26:45 [INFO] input_noise_chg                       -13.51                -9.03                 -23.78                  -10.54                            36.28                           39.54             -14.24        -13.61
+13:26:45 [INFO] control_n                              79.00                79.00                  78.00                   79.00                            79.00                           80.00              70.00         79.00
+13:26:45 [INFO] control_eff_chg                        19.40                19.73                  85.00                    5.79                            10.68                            8.10              13.19         16.36
+13:26:45 [INFO] control_noise_chg                      -7.17                -4.22                    NaN                   34.57                            44.02                           -2.90               9.46        -10.60
+13:26:45 [INFO] output_did_eff                        -37.56               -48.83                 -62.09                  -20.30                           -31.05                          -18.17             -34.10        -38.12
+13:26:45 [INFO] output_did_eff_p                        0.07                 0.01                   0.12                    0.16                             0.18                            0.34               0.08          0.01
+13:26:45 [INFO] input_did_eff                         -42.09               -46.58                 -67.04                  -32.32                           -44.00                          -15.02             -39.81        -41.87
+13:26:45 [INFO] input_did_eff_p                         0.03                 0.03                   0.06                    0.03                             0.06                            0.43               0.04          0.00
+13:26:45 [INFO] 
+13:26:45 [INFO] ----------------------------------------------------------------------
+13:26:45 [INFO] 8. FIGURES
+13:26:45 [INFO] ----------------------------------------------------------------------
+13:26:47 [INFO] Rolling windows with a negative slope / intercept (share per group and regime):
+13:26:47 [INFO]                        neg_slope  neg_intercept
+13:26:47 [INFO] group          regime                          
+13:26:47 [INFO] control        post          0.0          0.429
+13:26:47 [INFO]                pre           0.0          0.095
+13:26:47 [INFO] treated_input  post          0.0          0.048
+13:26:47 [INFO]                pre           0.0          0.000
+13:26:47 [INFO] treated_output post          0.0          0.143
+13:26:47 [INFO]                pre           0.0          0.000
+13:26:50 [INFO] 07_fig1_signature, 07_fig2_event_time, 07_fig3_coupling
+13:26:50 [INFO] 
+13:26:50 [INFO] Done.

@@ -1,0 +1,290 @@
+13:23:08 [INFO] Main sample: 1900 items | model: mm_alpha0 | index: capsules
+13:23:08 [INFO] 
+13:23:08 [INFO] ----------------------------------------------------------------------
+13:23:08 [INFO] 1. BENCHMARK AND ESTIMATION
+13:23:08 [INFO] ----------------------------------------------------------------------
+13:23:08 [INFO] Index level at t=0: 27.7 %, at t=+60: 50.7 % (relative to t=-200)
+13:23:10 [INFO] Estimated: 1900 of 1900 items (minimum 30 returns)
+13:23:10 [INFO]                 items  alpha_pct   beta  beta_alpha0     r2  sigma_pct
+13:23:10 [INFO] role                                                                  
+13:23:10 [INFO] treated_output    890     -0.062  0.068        0.066  0.003      7.907
+13:23:10 [INFO] treated_input     569     -0.006  0.122        0.118  0.004      5.836
+13:23:10 [INFO] placebo            28      0.402  0.009        0.096  0.002      7.854
+13:23:10 [INFO] placebo_low        52     -0.114  0.066        0.055  0.003      4.607
+13:23:10 [INFO] placebo_st         53     -0.055  0.167        0.170  0.005      6.380
+13:23:10 [INFO] index_main         30      0.050  1.048        1.059  0.043      5.675
+13:23:10 [INFO] index_alt         214     -0.062  0.146        0.157  0.004      4.263
+13:23:10 [INFO] case               40      0.033  0.177        0.173  0.015      2.627
+13:23:10 [INFO] excluded           24     -0.010 -0.167       -0.171  0.004      8.981
+13:23:16 [INFO] 
+13:23:16 [INFO] ----------------------------------------------------------------------
+13:23:16 [INFO] 2. MAIN SPECIFICATION
+13:23:16 [INFO] ----------------------------------------------------------------------
+13:23:18 [INFO] 
+13:23:18 [INFO] Window 0
+13:23:18 [INFO]                   n  n_sar  caar_pct  median_pct   rbar   t_bmp    t_kp   p_kp  z_rank  z_sign sig(KP)
+13:23:18 [INFO] role                                                                                                  
+13:23:18 [INFO] treated_output  890    890   -41.565     -40.470  0.006 -52.434 -21.163  0.000 -17.996 -29.504     ***
+13:23:18 [INFO] treated_input   569    564    49.701      12.903  0.026  11.936   2.961  0.003   1.679   3.459     ***
+13:23:18 [INFO] placebo          28     26   -23.116     -24.368  0.028  -6.399  -4.846  0.000  -4.764  -4.664     ***
+13:23:18 [INFO] placebo_low      52     51    21.722      -8.074  0.034   2.590   1.543  0.129  -1.072  -1.434        
+13:23:18 [INFO] placebo_st       53     53    22.491      13.518  0.014   3.174   2.412  0.019   1.876   1.337      **
+13:23:18 [INFO] index_main       30     29     3.557       2.543 -0.044   0.386     NaN    NaN   1.121   0.961        
+13:23:18 [INFO] index_alt       214    211   -13.411     -12.186  0.057 -17.611  -4.756  0.000  -5.538 -12.149     ***
+13:23:18 [INFO] case             40     40   -13.276     -14.648  0.216  -8.266  -2.386  0.022  -2.660  -5.004      **
+13:23:18 [INFO] excluded         24     24   -10.329      -9.166  0.028  -3.723  -2.872  0.009  -3.050  -2.237     ***
+13:23:18 [INFO] 
+13:23:18 [INFO] Window -1_+1
+13:23:18 [INFO]                   n  n_sar  caar_pct  median_pct   rbar   t_bmp    t_kp   p_kp  z_rank  z_sign sig(KP)
+13:23:18 [INFO] role                                                                                                  
+13:23:18 [INFO] treated_output  890    890   -45.104     -42.471  0.006 -47.862 -19.317  0.000 -14.019 -28.968     ***
+13:23:18 [INFO] treated_input   569    569    51.357      13.666  0.026  11.166   2.758  0.006   3.120   2.390     ***
+13:23:18 [INFO] placebo          28     27   -38.359     -41.994  0.028  -8.806  -6.615  0.000  -5.765  -4.783     ***
+13:23:18 [INFO] placebo_low      52     52     4.135     -13.599  0.034   1.401   0.830  0.411  -2.539  -1.834        
+13:23:18 [INFO] placebo_st       53     53    14.300       5.199  0.014   2.482   1.886  0.065   0.000   0.513       *
+13:23:18 [INFO] index_main       30     30     6.400      -3.501 -0.044   0.194     NaN    NaN   1.025  -0.698        
+13:23:18 [INFO] index_alt       214    214   -15.302     -13.798  0.057 -17.321  -4.647  0.000  -3.763 -12.687     ***
+13:23:18 [INFO] case             40     40   -24.398     -25.795  0.216 -12.409  -3.582  0.001  -4.166  -6.270     ***
+13:23:18 [INFO] excluded         24     24   -15.610     -20.750  0.028  -3.597  -2.775  0.011  -3.244  -2.237      **
+13:23:18 [INFO] 
+13:23:18 [INFO] Window -1_+5
+13:23:18 [INFO]                   n  n_sar  caar_pct  median_pct   rbar   t_bmp    t_kp   p_kp  z_rank  z_sign sig(KP)
+13:23:18 [INFO] role                                                                                                  
+13:23:18 [INFO] treated_output  890    890   -39.023     -36.734  0.006 -46.850 -18.909  0.000  -7.572 -29.169     ***
+13:23:18 [INFO] treated_input   569    569    79.205      26.053  0.026  13.495   3.334  0.001   4.923   6.752     ***
+13:23:18 [INFO] placebo          28     28   -22.104     -21.672  0.028  -7.065  -5.265  0.000  -1.949  -5.278     ***
+13:23:18 [INFO] placebo_low      52     52    17.257      -4.616  0.034   2.679   1.587  0.119  -0.858  -0.725        
+13:23:18 [INFO] placebo_st       53     53    28.520      20.731  0.014   3.719   2.827  0.007   2.266   1.337     ***
+13:23:18 [INFO] index_main       30     30     3.817       2.272 -0.044   0.631     NaN    NaN   1.275   1.128        
+13:23:18 [INFO] index_alt       214    214    -8.700      -7.322  0.057 -10.547  -2.830  0.005  -1.569  -7.488     ***
+13:23:18 [INFO] case             40     40   -17.197     -18.534  0.216 -10.961  -3.164  0.003  -2.379  -6.270     ***
+13:23:18 [INFO] excluded         24     24   -11.320     -10.775  0.028  -3.764  -2.904  0.008  -1.334  -2.646     ***
+13:23:18 [INFO] 
+13:23:18 [INFO] Window -1_+30
+13:23:18 [INFO]                   n  n_sar  caar_pct  median_pct   rbar   t_bmp    t_kp   p_kp  z_rank  z_sign sig(KP)
+13:23:18 [INFO] role                                                                                                  
+13:23:18 [INFO] treated_output  890    890   -39.830     -39.692  0.006 -54.470 -21.985  0.000  -5.805 -29.504     ***
+13:23:18 [INFO] treated_input   569    569   134.540      68.044  0.026  16.257   4.016  0.000   4.639  13.042     ***
+13:23:18 [INFO] placebo          28     28    -3.512     -12.781  0.028  -0.386  -0.287  0.776  -0.472  -2.626        
+13:23:18 [INFO] placebo_low      52     52     7.205       2.964  0.034   2.281   1.351  0.183  -1.569   0.940        
+13:23:18 [INFO] placebo_st       53     53    27.354      22.779  0.014   4.082   3.102  0.003   0.738   2.162     ***
+13:23:18 [INFO] index_main       30     30     0.482       1.035 -0.044   0.119     NaN    NaN  -0.256   0.763        
+13:23:18 [INFO] index_alt       214    214    -6.118      -2.922  0.057  -6.611  -1.774  0.078  -0.756  -3.795       *
+13:23:18 [INFO] case             40     40   -15.903     -15.549  0.216  -9.479  -2.736  0.009  -1.519  -5.953     ***
+13:23:18 [INFO] excluded         24     24     9.730       2.369  0.028   1.473   1.137  0.267   0.366  -0.195        
+13:23:18 [INFO] 
+13:23:18 [INFO] Window -1_+60
+13:23:18 [INFO]                   n  n_sar  caar_pct  median_pct   rbar   t_bmp    t_kp   p_kp  z_rank  z_sign sig(KP)
+13:23:18 [INFO] role                                                                                                  
+13:23:18 [INFO] treated_output  890    890   -38.372     -39.325  0.006 -54.012 -21.800  0.000  -3.432 -29.169     ***
+13:23:18 [INFO] treated_input   569    569   152.035      80.428  0.026  17.051   4.212  0.000   3.634  15.726     ***
+13:23:18 [INFO] placebo          28     28    55.501      30.338  0.028   4.265   3.178  0.004   0.910   3.814     ***
+13:23:18 [INFO] placebo_low      52     52    28.554      24.963  0.034   5.047   2.988  0.004   0.059   3.713     ***
+13:23:18 [INFO] placebo_st       53     53    38.935      34.016  0.014   5.500   4.180  0.000   0.941   4.910     ***
+13:23:18 [INFO] index_main       30     30     0.993       0.343 -0.044   0.037     NaN    NaN  -0.343   0.033        
+13:23:18 [INFO] index_alt       214    214    -7.414      -3.479  0.057  -7.133  -1.914  0.057  -0.753  -4.479       *
+13:23:18 [INFO] case             40     40    -2.322      -4.698  0.216  -1.110  -0.320  0.750  -0.851  -1.522        
+13:23:18 [INFO] excluded         24     24    15.155      12.582  0.028   2.459   1.897  0.070   0.263   0.623       *
+13:23:18 [INFO] 
+13:23:18 [INFO] ----------------------------------------------------------------------
+13:23:18 [INFO] 2b. PRE-TREND TEST
+13:23:18 [INFO] ----------------------------------------------------------------------
+13:23:21 [INFO] 
+13:23:21 [INFO] Rank test, Corrado-Zivney variance (sensitivity, 04_rank_sensitivity.csv):
+13:23:21 [INFO]                        z_rank  z_rank_cz  p_rank_cz
+13:23:21 [INFO] window role                                        
+13:23:21 [INFO] 0      treated_output -17.996    -11.474      0.000
+13:23:21 [INFO]        treated_input    1.679      1.794      0.073
+13:23:21 [INFO]        placebo         -4.764     -4.815      0.000
+13:23:21 [INFO]        placebo_low     -1.072     -1.093      0.274
+13:23:21 [INFO]        placebo_st       1.876      2.008      0.045
+13:23:21 [INFO]        index_main       1.121      1.287      0.198
+13:23:21 [INFO]        index_alt       -5.538     -5.142      0.000
+13:23:21 [INFO]        case            -2.660     -2.623      0.009
+13:23:21 [INFO]        excluded        -3.050     -3.013      0.003
+13:23:21 [INFO] -1_+1  treated_output -14.019     -8.697      0.000
+13:23:21 [INFO]        treated_input    3.120      3.092      0.002
+13:23:21 [INFO]        placebo         -5.765     -5.505      0.000
+13:23:21 [INFO]        placebo_low     -2.539     -2.525      0.012
+13:23:21 [INFO]        placebo_st       0.000     -0.043      0.966
+13:23:21 [INFO]        index_main       1.025      1.187      0.235
+13:23:21 [INFO]        index_alt       -3.763     -3.482      0.000
+13:23:21 [INFO]        case            -4.166     -3.993      0.000
+13:23:21 [INFO]        excluded        -3.244     -3.189      0.001
+13:23:21 [INFO] -1_+5  treated_output  -7.572     -3.139      0.002
+13:23:21 [INFO]        treated_input    4.923      4.066      0.000
+13:23:21 [INFO]        placebo         -1.949     -1.658      0.097
+13:23:21 [INFO]        placebo_low     -0.858     -0.740      0.459
+13:23:21 [INFO]        placebo_st       2.266      2.039      0.041
+13:23:21 [INFO]        index_main       1.275      1.448      0.148
+13:23:21 [INFO]        index_alt       -1.569     -1.414      0.157
+13:23:21 [INFO]        case            -2.379     -2.147      0.032
+13:23:21 [INFO]        excluded        -1.334     -1.312      0.190
+13:23:21 [INFO] -1_+30 treated_output  -5.805     -1.833      0.067
+13:23:21 [INFO]        treated_input    4.639      3.036      0.002
+13:23:21 [INFO]        placebo         -0.472     -0.296      0.767
+13:23:21 [INFO]        placebo_low     -1.569     -1.181      0.238
+13:23:21 [INFO]        placebo_st       0.738      0.556      0.578
+13:23:21 [INFO]        index_main      -0.256     -0.264      0.792
+13:23:21 [INFO]        index_alt       -0.756     -0.626      0.531
+13:23:21 [INFO]        case            -1.519     -1.291      0.197
+13:23:21 [INFO]        excluded         0.366      0.360      0.718
+13:23:21 [INFO] -1_+60 treated_output  -3.432     -1.151      0.250
+13:23:21 [INFO]        treated_input    3.634      2.494      0.013
+13:23:21 [INFO]        placebo          0.910      0.764      0.445
+13:23:21 [INFO]        placebo_low      0.059      0.076      0.939
+13:23:21 [INFO]        placebo_st       0.941      0.710      0.478
+13:23:21 [INFO]        index_main      -0.343     -0.344      0.731
+13:23:21 [INFO]        index_alt       -0.753     -0.639      0.523
+13:23:21 [INFO]        case            -0.851     -0.721      0.471
+13:23:21 [INFO]        excluded         0.263      0.261      0.794
+13:23:21 [INFO] -14_-2 treated_output   2.056      2.172      0.030
+13:23:21 [INFO]        treated_input    0.764      0.787      0.432
+13:23:21 [INFO]        placebo         -0.099     -0.183      0.855
+13:23:21 [INFO]        placebo_low     -0.051     -0.044      0.965
+13:23:21 [INFO]        placebo_st       1.460      1.466      0.143
+13:23:21 [INFO]        index_main      -0.361     -0.334      0.739
+13:23:21 [INFO]        index_alt       -1.289     -1.307      0.191
+13:23:21 [INFO]        case             0.811      0.831      0.406
+13:23:21 [INFO]        excluded        -0.214     -0.209      0.835
+13:23:21 [INFO] -5_-2  treated_output   0.761      0.814      0.415
+13:23:21 [INFO]        treated_input   -0.513     -0.517      0.605
+13:23:21 [INFO]        placebo         -1.331     -1.333      0.183
+13:23:21 [INFO]        placebo_low     -1.066     -1.070      0.285
+13:23:21 [INFO]        placebo_st       0.894      0.879      0.379
+13:23:21 [INFO]        index_main      -0.980     -1.047      0.295
+13:23:21 [INFO]        index_alt       -1.252     -1.249      0.212
+13:23:21 [INFO]        case            -0.589     -0.597      0.551
+13:23:21 [INFO]        excluded        -0.566     -0.577      0.564
+13:23:21 [INFO] 
+13:23:21 [INFO] Model mm_alpha0, window -14_-2
+13:23:21 [INFO]                 n_sar  caar_pct  median_pct  t_bmp   t_kp   p_kp  z_rank  p_rank sig(KP)
+13:23:21 [INFO] role                                                                                    
+13:23:21 [INFO] treated_output    889     4.454       2.722  7.811  3.154  0.002   2.056   0.040     ***
+13:23:21 [INFO] treated_input     569     4.621       1.197  6.647  1.642  0.101   0.764   0.445        
+13:23:21 [INFO] placebo            28     5.159      -2.038  1.387  1.034  0.311  -0.099   0.921        
+13:23:21 [INFO] placebo_low        52    -0.444      -2.585 -0.631 -0.374  0.710  -0.051   0.959        
+13:23:21 [INFO] placebo_st         53     8.260       5.876  3.614  2.747  0.008   1.460   0.144     ***
+13:23:21 [INFO] index_main         30    -0.176       1.932 -0.470    NaN    NaN  -0.361   0.718        
+13:23:21 [INFO] index_alt         214    -2.879      -0.789 -3.417 -0.917  0.360  -1.289   0.197        
+13:23:21 [INFO] case               40     4.252       5.479  4.047  1.168  0.250   0.811   0.417        
+13:23:21 [INFO] excluded           24    -1.521      -0.332 -0.288 -0.222  0.826  -0.214   0.831        
+13:23:21 [INFO] 
+13:23:21 [INFO] Model mm_alpha0, window -5_-2
+13:23:21 [INFO]                 n_sar  caar_pct  median_pct  t_bmp   t_kp   p_kp  z_rank  p_rank sig(KP)
+13:23:21 [INFO] role                                                                                    
+13:23:21 [INFO] treated_output    850     0.812       0.639  1.743  0.717  0.474   0.761   0.447        
+13:23:21 [INFO] treated_input     560    -0.795      -0.328 -2.455 -0.611  0.541  -0.513   0.608        
+13:23:21 [INFO] placebo            26    -0.776      -3.224  0.219  0.166  0.869  -1.331   0.183        
+13:23:21 [INFO] placebo_low        49    -0.618      -2.179 -1.100 -0.664  0.510  -1.066   0.287        
+13:23:21 [INFO] placebo_st         50     1.657       0.436  0.552  0.425  0.673   0.894   0.372        
+13:23:21 [INFO] index_main         30    -0.318      -2.777 -0.755    NaN    NaN  -0.980   0.327        
+13:23:21 [INFO] index_alt         214    -1.946      -0.847 -3.536 -0.949  0.344  -1.252   0.211        
+13:23:21 [INFO] case               40    -0.779      -0.988 -1.506 -0.435  0.666  -0.589   0.556        
+13:23:21 [INFO] excluded           24    -1.876      -1.352 -0.703 -0.542  0.593  -0.566   0.572        
+13:23:21 [INFO] 
+13:23:21 [INFO] Model mm, window -14_-2
+13:23:21 [INFO]                 n_sar  caar_pct  median_pct  t_bmp   t_kp   p_kp  z_rank  p_rank sig(KP)
+13:23:21 [INFO] role                                                                                    
+13:23:21 [INFO] treated_output    889     4.510       3.800  8.214  3.311  0.001   2.062   0.039     ***
+13:23:21 [INFO] treated_input     569     3.669       1.680  6.422  1.586  0.113   0.764   0.445        
+13:23:21 [INFO] placebo            28     0.736      -2.496  0.701  0.523  0.605  -0.148   0.882        
+13:23:21 [INFO] placebo_low        52    -0.080       0.203  0.281  0.166  0.869  -0.015   0.988        
+13:23:21 [INFO] placebo_st         53     8.469       4.881  3.817  2.899  0.005   1.461   0.144     ***
+13:23:21 [INFO] index_main         30    -0.286       0.771 -0.566    NaN    NaN  -0.341   0.733        
+13:23:21 [INFO] index_alt         214    -3.821       0.244 -3.663 -0.983  0.327  -1.296   0.195        
+13:23:21 [INFO] case               40     3.792       4.888  3.498  1.010  0.319   0.811   0.418        
+13:23:21 [INFO] excluded           24    -1.608      -1.724 -0.298 -0.230  0.820  -0.211   0.833        
+13:23:21 [INFO] 
+13:23:21 [INFO] Model mm, window -5_-2
+13:23:21 [INFO]                 n_sar  caar_pct  median_pct  t_bmp   t_kp   p_kp  z_rank  p_rank sig(KP)
+13:23:21 [INFO] role                                                                                    
+13:23:21 [INFO] treated_output    850     0.783       0.860  1.949  0.801  0.424   0.762   0.446        
+13:23:21 [INFO] treated_input     560    -1.087      -0.363 -2.477 -0.616  0.538  -0.508   0.611        
+13:23:21 [INFO] placebo            26    -2.005      -4.691 -0.075 -0.057  0.955  -1.341   0.180        
+13:23:21 [INFO] placebo_low        49    -0.371      -2.080 -0.576 -0.347  0.730  -1.063   0.288        
+13:23:21 [INFO] placebo_st         50     1.801       0.827  0.697  0.536  0.595   0.899   0.369        
+13:23:21 [INFO] index_main         30    -0.325      -2.367 -0.800    NaN    NaN  -1.004   0.316        
+13:23:21 [INFO] index_alt         214    -2.230      -0.793 -3.698 -0.992  0.322  -1.255   0.209        
+13:23:21 [INFO] case               40    -0.909      -1.190 -1.881 -0.543  0.590  -0.596   0.551        
+13:23:21 [INFO] excluded           24    -1.900      -0.872 -0.717 -0.553  0.585  -0.561   0.574        
+13:23:21 [INFO] 
+13:23:21 [INFO] ----------------------------------------------------------------------
+13:23:21 [INFO] 3. ROBUSTNESS: RETURN MODELS
+13:23:21 [INFO] ----------------------------------------------------------------------
+13:23:33 [INFO] r-bar of the residuals per return model:
+13:23:33 [INFO]                 mm_alpha0      mm  market_adj  placebo_st_adj
+13:23:33 [INFO] treated_output     0.0057  0.0058      0.0304          0.0289
+13:23:33 [INFO] treated_input      0.0263  0.0263      0.0757          0.0794
+13:23:33 [INFO] placebo            0.0278  0.0277      0.0503          0.0545
+13:23:33 [INFO] placebo_low        0.0344  0.0347      0.0897          0.0884
+13:23:33 [INFO] placebo_st         0.0136  0.0137      0.0412         -0.0164
+13:23:33 [INFO] index_main        -0.0438 -0.0437     -0.0445          0.0151
+13:23:33 [INFO] index_alt          0.0568  0.0568      0.1155          0.1380
+13:23:33 [INFO] case               0.2157  0.2157      0.3277          0.3916
+13:23:33 [INFO] excluded           0.0276  0.0275      0.0533          0.0540
+13:23:33 [INFO] model           market_adj     mm  mm_alpha0  placebo_st_adj
+13:23:33 [INFO] role                                                        
+13:23:33 [INFO] treated_output       -36.4  -38.0      -38.4           -55.6
+13:23:33 [INFO] treated_input        158.7  141.0      152.0            81.4
+13:23:33 [INFO] placebo               60.4   24.6       55.5            11.9
+13:23:33 [INFO] placebo_low           32.0   29.1       28.6            -7.5
+13:23:33 [INFO] placebo_st            42.4   39.6       38.9             0.0
+13:23:33 [INFO] index_main             0.4    0.4        1.0           -27.3
+13:23:33 [INFO] index_alt             -5.2  -11.6       -7.4           -33.4
+13:23:33 [INFO] case                  -0.1   -4.4       -2.3           -29.7
+13:23:33 [INFO] excluded              18.5   14.7       15.2           -17.1
+13:23:33 [INFO] 
+13:23:33 [INFO] ----------------------------------------------------------------------
+13:23:33 [INFO] 4. ROBUSTNESS: INDICES AND SAMPLE VARIANTS
+13:23:33 [INFO] ----------------------------------------------------------------------
+13:23:34 [INFO] Estimated: 1900 of 1900 items (minimum 30 returns)
+13:23:37 [INFO] Estimated: 1900 of 1900 items (minimum 30 returns)
+13:23:40 [INFO] Estimated: 1900 of 1900 items (minimum 30 returns)
+13:23:43 [INFO] Estimated: 1900 of 1900 items (minimum 30 returns)
+13:23:46 [INFO] Estimated: 1479 of 1479 items (minimum 30 returns)
+13:23:48 [INFO] Estimated: 1975 of 1975 items (minimum 30 returns)
+13:23:51 [INFO] Estimated: 191 of 191 items (minimum 30 returns)
+13:23:52 [INFO] Estimated: 33 of 51 items (minimum 30 returns)
+13:23:53 [INFO] Estimated: 1797 of 1797 items (minimum 30 returns)
+13:23:55 [INFO] 
+13:23:55 [INFO] Robustness: estimation window (-85, -15) instead of (-190, -15)
+13:23:56 [INFO] Estimated: 1659 of 1900 items (minimum 30 returns)
+13:23:57 [INFO]   1659 of 1900 main-sample items keep at least 30 returns in t = -85..-15
+13:23:57 [INFO]   per role: {'case': 40, 'excluded': 24, 'index_alt': 214, 'index_main': 27, 'placebo': 26, 'placebo_low': 48, 'placebo_st': 52, 'treated_input': 529, 'treated_output': 699}
+13:23:57 [INFO] role                         treated_input  treated_output
+13:23:57 [INFO] variant           index                                   
+13:23:57 [INFO] burn_in30         capsules           151.2           -38.5
+13:23:57 [INFO] est_window_robust capsules           162.6           -38.9
+13:23:57 [INFO] illiquid          capsules            -1.9           -34.0
+13:23:57 [INFO] launch            capsules             NaN           -36.7
+13:23:57 [INFO] liq50             capsules           166.2           -39.5
+13:23:57 [INFO] main              agents             160.4           -37.8
+13:23:57 [INFO]                   capsules           152.0           -38.4
+13:23:57 [INFO]                   combined           159.5           -37.4
+13:23:57 [INFO]                   musickits          151.0           -38.5
+13:23:57 [INFO] subclass_all      capsules           152.0           -38.0
+13:23:57 [INFO] 
+13:23:57 [INFO] ----------------------------------------------------------------------
+13:23:57 [INFO] 5. PORTFOLIO APPROACH
+13:23:57 [INFO] ----------------------------------------------------------------------
+13:23:58 [INFO]                caar_pct             t       
+13:23:58 [INFO] window           -1_+60      0 -1_+60      0
+13:23:58 [INFO] role                                        
+13:23:58 [INFO] case              -2.32 -13.28  -0.20 -11.14
+13:23:58 [INFO] excluded          15.15 -10.34   0.87  -4.79
+13:23:58 [INFO] index_alt         -7.42 -13.38  -0.97 -14.27
+13:23:58 [INFO] index_main         0.00   0.00  -0.00   0.00
+13:23:58 [INFO] placebo           55.20 -23.32   3.05 -12.74
+13:23:58 [INFO] placebo_low       28.58  21.73   1.74  15.76
+13:23:58 [INFO] placebo_st        38.69  22.07   3.52  16.38
+13:23:58 [INFO] treated_input    151.71  48.97   9.99  50.69
+13:23:58 [INFO] treated_output   -38.41 -41.67  -6.93 -95.91
+13:23:58 [INFO] 
+13:23:58 [INFO] ----------------------------------------------------------------------
+13:23:58 [INFO] 6. SAVE AND FIGURES
+13:23:58 [INFO] ----------------------------------------------------------------------
+13:23:58 [INFO] -> data/clean/car_items.parquet (9500 rows, input for 05)
+13:24:11 [INFO] 04_fig1_caar_path, 04_fig2_models
+13:24:11 [INFO] 
+13:24:11 [INFO] Done.

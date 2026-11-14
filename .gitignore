@@ -1,0 +1,29 @@
+# Secrets
+.env
+
+# Environment and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Large or duplicate raw data (the parquet files stay)
+data/full/panel_long.csv
+data/full/items/
+data/check/panel_long.csv
+data/check/items/
+data/new/
+data/pilot/
+data/smoke/
+
+# Intermediate data (rebuilt by 00 to 06)
+data/clean/
+
+# Valve files (check_item_list.py downloads them again)
+meta_cache/valve/
+
+# Backups, old reviews, thesis drafts
+_archive/
+review/
+REVIEW.md
+*.docx
+~$*

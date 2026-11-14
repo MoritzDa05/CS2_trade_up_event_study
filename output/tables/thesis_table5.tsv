@@ -1,0 +1,23 @@
+Panel A. Routes relative to the bound				
+	All routes	Binding	Slack	
+Routes	423	276	147	
+Median R, before	0.53	0.22	2.24	
+Median R, after	1.48	1.35	3.89	
+Below 0.870, before (%)	65.2	100.0	0.0	
+Below 0.870, after (%)	0.0	0.0	0.0	
+Between 0.870 and 1.0, after (%)	1.2	1.8	0.0	
+Above 1.0, after (%)	98.8	98.2	100.0	
+Panel B. Kink and placebo tests				
+	Input	Input, StatTrak	Placebo ST	Difference
+Slope below the bound, b⁻	−0.902***	−0.914***	−0.637**	−0.276***
+	(0.016)	(0.039)	(0.071)	(0.067)
+Slope above the bound, b⁺	−0.095***	−0.081**	−0.030	
+	(0.028)	(0.031)	(0.037)	
+p-value, b⁻ = −1	< 0.001	0.047	0.007	
+Wild bootstrap p, b⁻	≤ 0.001	0.002	0.035	0.064
+R², Equation (9)	0.944	0.955	0.835	0.942
+Expected output value (log)	0.577***	0.389**	−0.191	0.580***
+	(0.113)	(0.148)	(0.135)	(0.154)
+Wild bootstrap p, expected output value	0.002	0.134	0.257	0.297
+Routes	439	124	44	168
+Clusters	18	13	5	15

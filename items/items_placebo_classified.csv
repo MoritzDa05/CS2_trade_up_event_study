@@ -1,0 +1,64 @@
+﻿market_hash_name,group,treated,category,weapon,pattern,wear,stattrak,souvenir,is_vanilla,rarity,collection,case,case_rare_type,n_covert_in_case,ladder_steps,st_no_output,price_tier,blend_warning,min_float,max_float,first_sale_date,skin_id
+AK-47 | Jet Set (Battle-Scarred),placebo_classified,False,Rifles,AK-47,Jet Set,Battle-Scarred,False,False,False,Classified,The Baggage Collection,,,,,,,,0.0,1.0,,skin-2e785b354884
+AK-47 | Jet Set (Factory New),placebo_classified,False,Rifles,AK-47,Jet Set,Factory New,False,False,False,Classified,The Baggage Collection,,,,,,,,0.0,1.0,,skin-2e785b354884
+AK-47 | Jet Set (Field-Tested),placebo_classified,False,Rifles,AK-47,Jet Set,Field-Tested,False,False,False,Classified,The Baggage Collection,,,,,,,,0.0,1.0,,skin-2e785b354884
+AK-47 | Jet Set (Minimal Wear),placebo_classified,False,Rifles,AK-47,Jet Set,Minimal Wear,False,False,False,Classified,The Baggage Collection,,,,,,,,0.0,1.0,,skin-2e785b354884
+AK-47 | Jet Set (Well-Worn),placebo_classified,False,Rifles,AK-47,Jet Set,Well-Worn,False,False,False,Classified,The Baggage Collection,,,,,,,,0.0,1.0,,skin-2e785b354884
+AK-47 | Nouveau Rouge (Battle-Scarred),placebo_classified,False,Rifles,AK-47,Nouveau Rouge,Battle-Scarred,False,False,False,Classified,The Radiant Collection,,,,,,,,0.0,1.0,,skin-181c7ea71c0b
+AK-47 | Nouveau Rouge (Factory New),placebo_classified,False,Rifles,AK-47,Nouveau Rouge,Factory New,False,False,False,Classified,The Radiant Collection,,,,,,,,0.0,1.0,,skin-181c7ea71c0b
+AK-47 | Nouveau Rouge (Field-Tested),placebo_classified,False,Rifles,AK-47,Nouveau Rouge,Field-Tested,False,False,False,Classified,The Radiant Collection,,,,,,,,0.0,1.0,,skin-181c7ea71c0b
+AK-47 | Nouveau Rouge (Minimal Wear),placebo_classified,False,Rifles,AK-47,Nouveau Rouge,Minimal Wear,False,False,False,Classified,The Radiant Collection,,,,,,,,0.0,1.0,,skin-181c7ea71c0b
+AK-47 | Nouveau Rouge (Well-Worn),placebo_classified,False,Rifles,AK-47,Nouveau Rouge,Well-Worn,False,False,False,Classified,The Radiant Collection,,,,,,,,0.0,1.0,,skin-181c7ea71c0b
+AWP | Green Energy (Battle-Scarred),placebo_classified,False,Rifles,AWP,Green Energy,Battle-Scarred,False,False,False,Classified,The Boreal Collection,,,,,,,,0.0,0.75,,skin-b889cea4b0a8
+AWP | Green Energy (Factory New),placebo_classified,False,Rifles,AWP,Green Energy,Factory New,False,False,False,Classified,The Boreal Collection,,,,,,,,0.0,0.75,,skin-b889cea4b0a8
+AWP | Green Energy (Field-Tested),placebo_classified,False,Rifles,AWP,Green Energy,Field-Tested,False,False,False,Classified,The Boreal Collection,,,,,,,,0.0,0.75,,skin-b889cea4b0a8
+AWP | Green Energy (Minimal Wear),placebo_classified,False,Rifles,AWP,Green Energy,Minimal Wear,False,False,False,Classified,The Boreal Collection,,,,,,,,0.0,0.75,,skin-b889cea4b0a8
+AWP | Green Energy (Well-Worn),placebo_classified,False,Rifles,AWP,Green Energy,Well-Worn,False,False,False,Classified,The Boreal Collection,,,,,,,,0.0,0.75,,skin-b889cea4b0a8
+Dual Berettas | Twin Turbo (Battle-Scarred),placebo_classified,False,Pistols,Dual Berettas,Twin Turbo,Battle-Scarred,False,False,False,Classified,The 2018 Inferno Collection,,,,,,,,0.0,1.0,,skin-248559e8b343
+Dual Berettas | Twin Turbo (Factory New),placebo_classified,False,Pistols,Dual Berettas,Twin Turbo,Factory New,False,False,False,Classified,The 2018 Inferno Collection,,,,,,,,0.0,1.0,,skin-248559e8b343
+Dual Berettas | Twin Turbo (Field-Tested),placebo_classified,False,Pistols,Dual Berettas,Twin Turbo,Field-Tested,False,False,False,Classified,The 2018 Inferno Collection,,,,,,,,0.0,1.0,,skin-248559e8b343
+Dual Berettas | Twin Turbo (Minimal Wear),placebo_classified,False,Pistols,Dual Berettas,Twin Turbo,Minimal Wear,False,False,False,Classified,The 2018 Inferno Collection,,,,,,,,0.0,1.0,,skin-248559e8b343
+Dual Berettas | Twin Turbo (Well-Worn),placebo_classified,False,Pistols,Dual Berettas,Twin Turbo,Well-Worn,False,False,False,Classified,The 2018 Inferno Collection,,,,,,,,0.0,1.0,,skin-248559e8b343
+Glock-18 | Twilight Galaxy (Factory New),placebo_classified,False,Pistols,Glock-18,Twilight Galaxy,Factory New,False,False,False,Classified,The Chop Shop Collection,,,,,,,,0.0,0.2,,skin-0926fb5dddc9
+Glock-18 | Twilight Galaxy (Field-Tested),placebo_classified,False,Pistols,Glock-18,Twilight Galaxy,Field-Tested,False,False,False,Classified,The Chop Shop Collection,,,,,,,,0.0,0.2,,skin-0926fb5dddc9
+Glock-18 | Twilight Galaxy (Minimal Wear),placebo_classified,False,Pistols,Glock-18,Twilight Galaxy,Minimal Wear,False,False,False,Classified,The Chop Shop Collection,,,,,,,,0.0,0.2,,skin-0926fb5dddc9
+M4A1-S | Control Panel (Battle-Scarred),placebo_classified,False,Rifles,M4A1-S,Control Panel,Battle-Scarred,False,False,False,Classified,The 2018 Nuke Collection,,,,,,,,0.0,1.0,,skin-88c0ba610062
+M4A1-S | Control Panel (Factory New),placebo_classified,False,Rifles,M4A1-S,Control Panel,Factory New,False,False,False,Classified,The 2018 Nuke Collection,,,,,,,,0.0,1.0,,skin-88c0ba610062
+M4A1-S | Control Panel (Field-Tested),placebo_classified,False,Rifles,M4A1-S,Control Panel,Field-Tested,False,False,False,Classified,The 2018 Nuke Collection,,,,,,,,0.0,1.0,,skin-88c0ba610062
+M4A1-S | Control Panel (Minimal Wear),placebo_classified,False,Rifles,M4A1-S,Control Panel,Minimal Wear,False,False,False,Classified,The 2018 Nuke Collection,,,,,,,,0.0,1.0,,skin-88c0ba610062
+M4A1-S | Control Panel (Well-Worn),placebo_classified,False,Rifles,M4A1-S,Control Panel,Well-Worn,False,False,False,Classified,The 2018 Nuke Collection,,,,,,,,0.0,1.0,,skin-88c0ba610062
+M4A1-S | Hot Rod (Factory New),placebo_classified,False,Rifles,M4A1-S,Hot Rod,Factory New,False,False,False,Classified,The Chop Shop Collection,,,,,,,,0.0,0.08,,skin-7562e4bd91c7
+M4A1-S | Hot Rod (Minimal Wear),placebo_classified,False,Rifles,M4A1-S,Hot Rod,Minimal Wear,False,False,False,Classified,The Chop Shop Collection,,,,,,,,0.0,0.08,,skin-7562e4bd91c7
+M4A1-S | Master Piece (Battle-Scarred),placebo_classified,False,Rifles,M4A1-S,Master Piece,Battle-Scarred,False,False,False,Classified,The Overpass Collection,,,,,,,,0.0,1.0,,skin-5e983b2fc436
+M4A1-S | Master Piece (Factory New),placebo_classified,False,Rifles,M4A1-S,Master Piece,Factory New,False,False,False,Classified,The Overpass Collection,,,,,,,,0.0,1.0,,skin-5e983b2fc436
+M4A1-S | Master Piece (Field-Tested),placebo_classified,False,Rifles,M4A1-S,Master Piece,Field-Tested,False,False,False,Classified,The Overpass Collection,,,,,,,,0.0,1.0,,skin-5e983b2fc436
+M4A1-S | Master Piece (Minimal Wear),placebo_classified,False,Rifles,M4A1-S,Master Piece,Minimal Wear,False,False,False,Classified,The Overpass Collection,,,,,,,,0.0,1.0,,skin-5e983b2fc436
+M4A1-S | Master Piece (Well-Worn),placebo_classified,False,Rifles,M4A1-S,Master Piece,Well-Worn,False,False,False,Classified,The Overpass Collection,,,,,,,,0.0,1.0,,skin-5e983b2fc436
+M4A1-S | Stratosphere (Battle-Scarred),placebo_classified,False,Rifles,M4A1-S,Stratosphere,Battle-Scarred,False,False,False,Classified,The Ascent Collection,,,,,,,,0.0,0.8,,skin-d5c4cc36d66a
+M4A1-S | Stratosphere (Factory New),placebo_classified,False,Rifles,M4A1-S,Stratosphere,Factory New,False,False,False,Classified,The Ascent Collection,,,,,,,,0.0,0.8,,skin-d5c4cc36d66a
+M4A1-S | Stratosphere (Field-Tested),placebo_classified,False,Rifles,M4A1-S,Stratosphere,Field-Tested,False,False,False,Classified,The Ascent Collection,,,,,,,,0.0,0.8,,skin-d5c4cc36d66a
+M4A1-S | Stratosphere (Minimal Wear),placebo_classified,False,Rifles,M4A1-S,Stratosphere,Minimal Wear,False,False,False,Classified,The Ascent Collection,,,,,,,,0.0,0.8,,skin-d5c4cc36d66a
+M4A1-S | Stratosphere (Well-Worn),placebo_classified,False,Rifles,M4A1-S,Stratosphere,Well-Worn,False,False,False,Classified,The Ascent Collection,,,,,,,,0.0,0.8,,skin-d5c4cc36d66a
+P250 | Franklin (Factory New),placebo_classified,False,Pistols,P250,Franklin,Factory New,False,False,False,Classified,The Bank Collection,,,,,,,,0.0,0.4,,skin-eb2bf672505f
+P250 | Franklin (Field-Tested),placebo_classified,False,Pistols,P250,Franklin,Field-Tested,False,False,False,Classified,The Bank Collection,,,,,,,,0.0,0.4,,skin-eb2bf672505f
+P250 | Franklin (Minimal Wear),placebo_classified,False,Pistols,P250,Franklin,Minimal Wear,False,False,False,Classified,The Bank Collection,,,,,,,,0.0,0.4,,skin-eb2bf672505f
+P250 | Franklin (Well-Worn),placebo_classified,False,Pistols,P250,Franklin,Well-Worn,False,False,False,Classified,The Bank Collection,,,,,,,,0.0,0.4,,skin-eb2bf672505f
+R8 Revolver | Amber Fade (Factory New),placebo_classified,False,Pistols,R8 Revolver,Amber Fade,Factory New,False,False,False,Classified,The Dust 2 Collection,,,,,,,,0.0,0.4,,skin-4429b6507c58
+R8 Revolver | Amber Fade (Field-Tested),placebo_classified,False,Pistols,R8 Revolver,Amber Fade,Field-Tested,False,False,False,Classified,The Dust 2 Collection,,,,,,,,0.0,0.4,,skin-4429b6507c58
+R8 Revolver | Amber Fade (Minimal Wear),placebo_classified,False,Pistols,R8 Revolver,Amber Fade,Minimal Wear,False,False,False,Classified,The Dust 2 Collection,,,,,,,,0.0,0.4,,skin-4429b6507c58
+R8 Revolver | Amber Fade (Well-Worn),placebo_classified,False,Pistols,R8 Revolver,Amber Fade,Well-Worn,False,False,False,Classified,The Dust 2 Collection,,,,,,,,0.0,0.4,,skin-4429b6507c58
+SCAR-20 | Splash Jam (Battle-Scarred),placebo_classified,False,Rifles,SCAR-20,Splash Jam,Battle-Scarred,False,False,False,Classified,The Militia Collection,,,,,,,,0.06,0.8,,skin-76f4d15e1865
+SCAR-20 | Splash Jam (Factory New),placebo_classified,False,Rifles,SCAR-20,Splash Jam,Factory New,False,False,False,Classified,The Militia Collection,,,,,,,,0.06,0.8,,skin-76f4d15e1865
+SCAR-20 | Splash Jam (Field-Tested),placebo_classified,False,Rifles,SCAR-20,Splash Jam,Field-Tested,False,False,False,Classified,The Militia Collection,,,,,,,,0.06,0.8,,skin-76f4d15e1865
+SCAR-20 | Splash Jam (Minimal Wear),placebo_classified,False,Rifles,SCAR-20,Splash Jam,Minimal Wear,False,False,False,Classified,The Militia Collection,,,,,,,,0.06,0.8,,skin-76f4d15e1865
+SCAR-20 | Splash Jam (Well-Worn),placebo_classified,False,Rifles,SCAR-20,Splash Jam,Well-Worn,False,False,False,Classified,The Militia Collection,,,,,,,,0.06,0.8,,skin-76f4d15e1865
+SG 553 | Integrale (Battle-Scarred),placebo_classified,False,Rifles,SG 553,Integrale,Battle-Scarred,False,False,False,Classified,The 2018 Inferno Collection,,,,,,,,0.0,1.0,,skin-a7e309c3d23a
+SG 553 | Integrale (Factory New),placebo_classified,False,Rifles,SG 553,Integrale,Factory New,False,False,False,Classified,The 2018 Inferno Collection,,,,,,,,0.0,1.0,,skin-a7e309c3d23a
+SG 553 | Integrale (Field-Tested),placebo_classified,False,Rifles,SG 553,Integrale,Field-Tested,False,False,False,Classified,The 2018 Inferno Collection,,,,,,,,0.0,1.0,,skin-a7e309c3d23a
+SG 553 | Integrale (Minimal Wear),placebo_classified,False,Rifles,SG 553,Integrale,Minimal Wear,False,False,False,Classified,The 2018 Inferno Collection,,,,,,,,0.0,1.0,,skin-a7e309c3d23a
+SG 553 | Integrale (Well-Worn),placebo_classified,False,Rifles,SG 553,Integrale,Well-Worn,False,False,False,Classified,The 2018 Inferno Collection,,,,,,,,0.0,1.0,,skin-a7e309c3d23a
+Tec-9 | Remote Control (Battle-Scarred),placebo_classified,False,Pistols,Tec-9,Remote Control,Battle-Scarred,False,False,False,Classified,The 2018 Nuke Collection,,,,,,,,0.0,1.0,,skin-c7e68ecd7321
+Tec-9 | Remote Control (Factory New),placebo_classified,False,Pistols,Tec-9,Remote Control,Factory New,False,False,False,Classified,The 2018 Nuke Collection,,,,,,,,0.0,1.0,,skin-c7e68ecd7321
+Tec-9 | Remote Control (Field-Tested),placebo_classified,False,Pistols,Tec-9,Remote Control,Field-Tested,False,False,False,Classified,The 2018 Nuke Collection,,,,,,,,0.0,1.0,,skin-c7e68ecd7321
+Tec-9 | Remote Control (Minimal Wear),placebo_classified,False,Pistols,Tec-9,Remote Control,Minimal Wear,False,False,False,Classified,The 2018 Nuke Collection,,,,,,,,0.0,1.0,,skin-c7e68ecd7321
+Tec-9 | Remote Control (Well-Worn),placebo_classified,False,Pistols,Tec-9,Remote Control,Well-Worn,False,False,False,Classified,The 2018 Nuke Collection,,,,,,,,0.0,1.0,,skin-c7e68ecd7321

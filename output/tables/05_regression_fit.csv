@@ -1,0 +1,10 @@
+group,spec,window,n,clusters,r2,p_wild,p_wild_on
+treated_input,(1) controls only,-1_+1,569,19,0.7554402940996442,,
+treated_input,(2) + pool value,-1_+1,569,19,0.7815898962622281,0.002,log_pool
+treated_input,(3) + category FE,-1_+1,569,19,0.7937912683392552,0.001,log_pool
+treated_input,(4) pool without capped items,-1_+1,569,19,0.774791635432986,,
+treated_input,(5) pool weighted by realistic wear,-1_+1,569,19,0.7824065450283358,,
+treated_input,(6) long window -1_+60,-1_+60,569,19,0.7920323747845368,0.001,log_pool
+treated_output,(1) controls only,-1_+1,890,16,0.3558386047236958,,
+treated_output,(2) + input cost,-1_+1,890,16,0.35584066774859424,0.968,log_input_cost
+treated_output,(3) + routes,-1_+1,890,16,0.3578059776639274,0.391,log_input_cost

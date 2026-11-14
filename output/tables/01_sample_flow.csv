@@ -1,0 +1,12 @@
+role,items_in_window,after_est_data,after_burn_in,after_min_price,after_high_price,after_liquidity,after_min_returns,after_subclass,after_store_capsule
+case,42,42,42,40,40,40,40,40,40
+excluded,150,150,150,24,24,24,24,24,24
+index_alt,234,234,214,214,214,214,214,214,214
+index_main,89,86,79,62,61,53,53,53,30
+placebo,107,76,56,56,45,28,28,28,28
+placebo_low,63,62,62,62,61,52,52,52,52
+placebo_souvenir,32,21,16,16,9,0,0,0,0
+placebo_st,70,70,70,70,70,53,53,53,53
+treated_input,662,661,661,661,659,569,569,569,569
+treated_output,3592,3397,3344,3344,3179,965,965,890,890
+TOTAL,5041,4799,4694,4549,4362,1998,1998,1923,1900

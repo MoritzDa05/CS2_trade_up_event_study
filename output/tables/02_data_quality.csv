@@ -1,0 +1,12 @@
+Metric,Value
+Items in the main sample,1900.0
+Items with estimation-window data (before screening),4799.0
+Item-days in the estimation window,334400.0
+Item-days with a trade,255031.0
+Share of days without a trade,0.237
+90th percentile of the gap between trades in days (median across items),2.0
+Spike days flagged (data window),650.0
+"Spike days removed (volume <= 1, data window)",328.0
+Item-days at the 1544.73 EUR price cluster (data window),15.0
+Items flagged as high-price (all items with estimation data),192.0
+Items below the price floor (all items with estimation data),146.0

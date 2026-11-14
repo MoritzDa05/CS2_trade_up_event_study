@@ -1,0 +1,122 @@
+10:59:40 [INFO] T0 = 2025-10-23 | estimation window t = (-190, -15) | liquidity main >= 30 %
+10:59:40 [INFO] Loaded: 5041 items, 1999570 item-days
+10:59:40 [INFO] 
+10:59:40 [INFO] ----------------------------------------------------------------------
+10:59:40 [INFO] 1. ADDITIONAL METRICS
+10:59:40 [INFO] ----------------------------------------------------------------------
+10:59:40 [INFO] Usable returns in the estimation window (gap <= 5): median 25, minimum 0
+10:59:40 [INFO] Listed after the start of the estimation window: 145 items
+10:59:40 [INFO] Store-anchored capsules found: 23
+10:59:40 [INFO] 
+10:59:40 [INFO] ----------------------------------------------------------------------
+10:59:40 [INFO] 2. SAMPLES
+10:59:40 [INFO] ----------------------------------------------------------------------
+10:59:40 [INFO] Burn-in robustness (first sale >= 30 days before t = -190): drops 103 main-sample items
+10:59:40 [INFO]   by role: {'treated_output': 63, 'treated_input': 20, 'placebo_low': 15, 'placebo': 4, 'case': 1}
+10:59:40 [INFO] Main specification: 1900 of 5041 items
+10:59:40 [INFO] 
+10:59:40 [INFO] ----------------------------------------------------------------------
+10:59:40 [INFO] 3. TABLES
+10:59:40 [INFO] ----------------------------------------------------------------------
+10:59:40 [INFO] Index constituents: {'agents': 63, 'capsules': 30, 'combined': 244, 'musickits': 151}
+10:59:41 [INFO] 
+10:59:41 [INFO] ----------------------------------------------------------------------
+10:59:41 [INFO] 4. SAVE
+10:59:41 [INFO] ----------------------------------------------------------------------
+10:59:41 [INFO] -> data\clean\samples.parquet  (5041 items, 6 variants)
+10:59:41 [INFO] 
+10:59:41 [INFO] ----------------------------------------------------------------------
+10:59:41 [INFO] SAMPLE FLOW (main specification, cumulative)
+10:59:41 [INFO] ----------------------------------------------------------------------
+10:59:41 [INFO]                   items_in_window  after_est_data  after_burn_in  after_min_price  after_high_price  after_liquidity  after_min_returns  after_subclass  after_store_capsule
+10:59:41 [INFO] role                                                                                                                                                                        
+10:59:41 [INFO] case                           42              42             42               40                40               40                 40              40                   40
+10:59:41 [INFO] excluded                      150             150            150               24                24               24                 24              24                   24
+10:59:41 [INFO] index_alt                     234             234            214              214               214              214                214             214                  214
+10:59:41 [INFO] index_main                     89              86             79               62                61               53                 53              53                   30
+10:59:41 [INFO] placebo                       107              76             56               56                45               28                 28              28                   28
+10:59:41 [INFO] placebo_low                    63              62             62               62                61               52                 52              52                   52
+10:59:41 [INFO] placebo_souvenir               32              21             16               16                 9                0                  0               0                    0
+10:59:41 [INFO] placebo_st                     70              70             70               70                70               53                 53              53                   53
+10:59:41 [INFO] treated_input                 662             661            661              661               659              569                569             569                  569
+10:59:41 [INFO] treated_output               3592            3397           3344             3344              3179              965                965             890                  890
+10:59:41 [INFO] TOTAL                        5041            4799           4694             4549              4362             1998               1998            1923                 1900
+10:59:41 [INFO] 
+10:59:41 [INFO] ----------------------------------------------------------------------
+10:59:41 [INFO] ITEMS PER ROLE AND VARIANT
+10:59:41 [INFO] ----------------------------------------------------------------------
+10:59:41 [INFO]                   main  liq50  subclass_all  illiquid  launch  burn_in30
+10:59:41 [INFO] role                                                                    
+10:59:41 [INFO] case                40     40            40         0       0         39
+10:59:41 [INFO] excluded            24     24            24         0       0         24
+10:59:41 [INFO] index_alt          214    214           214         0      20        214
+10:59:41 [INFO] index_main          30     25            30         5       6         30
+10:59:41 [INFO] placebo             28     24            28         1      18         24
+10:59:41 [INFO] placebo_low         52     46            52         0       0         37
+10:59:41 [INFO] placebo_souvenir     0      0             0         0       3          0
+10:59:41 [INFO] placebo_st          53     49            53         4       0         53
+10:59:41 [INFO] treated_input      569    510           569        16       0        549
+10:59:41 [INFO] treated_output     890    547           965       165       4        827
+10:59:41 [INFO] TOTAL             1900   1479          1975       191      51       1797
+10:59:41 [INFO] 
+10:59:41 [INFO] ----------------------------------------------------------------------
+10:59:41 [INFO] WHY ITEMS DROP OUT (main specification)
+10:59:41 [INFO] ----------------------------------------------------------------------
+10:59:41 [INFO] drop_reason       passed  est_data  burn_in  min_price  high_price  liquidity  subclass  store_capsule
+10:59:41 [INFO] role                                                                                                  
+10:59:41 [INFO] case                  40         0        0          2           0          0         0              0
+10:59:41 [INFO] excluded              24         0        0        126           0          0         0              0
+10:59:41 [INFO] index_alt            214         0       20          0           0          0         0              0
+10:59:41 [INFO] index_main            30         3        7         17           1          8         0             23
+10:59:41 [INFO] placebo               28        31       20          0          11         17         0              0
+10:59:41 [INFO] placebo_low           52         1        0          0           1          9         0              0
+10:59:41 [INFO] placebo_souvenir       0        11        5          0           7          9         0              0
+10:59:41 [INFO] placebo_st            53         0        0          0           0         17         0              0
+10:59:41 [INFO] treated_input        569         1        0          0           2         90         0              0
+10:59:41 [INFO] treated_output       890       195       53          0         165       2214        75              0
+10:59:41 [INFO] 
+10:59:41 [INFO] ----------------------------------------------------------------------
+10:59:41 [INFO] MAIN SAMPLE: PRICE AND LIQUIDITY
+10:59:41 [INFO] ----------------------------------------------------------------------
+10:59:41 [INFO]                 items  median_price  trade_share  est_returns  stattrak
+10:59:41 [INFO] role                                                                   
+10:59:41 [INFO] case               40          4.59         1.00        176.0         0
+10:59:41 [INFO] excluded           24          1.20         0.99        175.0         0
+10:59:41 [INFO] index_alt         214          5.09         1.00        176.0         0
+10:59:41 [INFO] index_main         30         19.99         0.76        133.0         0
+10:59:41 [INFO] placebo            28        166.14         0.91        160.0         0
+10:59:41 [INFO] placebo_low        52          9.71         1.00        176.0         0
+10:59:41 [INFO] placebo_st         53         43.64         0.97        170.0        53
+10:59:41 [INFO] treated_input     569         42.36         0.99        174.0       213
+10:59:41 [INFO] treated_output    890        179.48         0.59        103.0        81
+10:59:41 [INFO] 
+10:59:41 [INFO] ----------------------------------------------------------------------
+10:59:41 [INFO] EVENT-WINDOW COVERAGE (diagnostic only)
+10:59:41 [INFO] ----------------------------------------------------------------------
+10:59:41 [INFO] Lowest coverage across all windows, per role:
+10:59:41 [INFO]                 share_with_anchor_and_end
+10:59:41 [INFO] role                                     
+10:59:41 [INFO] placebo                             0.857
+10:59:41 [INFO] placebo_low                         0.923
+10:59:41 [INFO] placebo_st                          0.943
+10:59:41 [INFO] index_main                          0.967
+10:59:41 [INFO] treated_input                       0.972
+10:59:41 [INFO] treated_output                      0.974
+10:59:41 [INFO] index_alt                           0.986
+10:59:41 [INFO] case                                1.000
+10:59:41 [INFO] excluded                            1.000
+10:59:41 [INFO] 
+10:59:41 [INFO] Below 90 % in 2 role/window combinations -> see 01_event_coverage.csv
+10:59:41 [INFO] 
+10:59:41 [INFO] ----------------------------------------------------------------------
+10:59:41 [INFO] CHECKS
+10:59:41 [INFO] ----------------------------------------------------------------------
+10:59:41 [INFO] Variants without a single item: none
+10:59:41 [INFO]   treated_output      890 items in main
+10:59:41 [INFO]   treated_input       569 items in main
+10:59:41 [INFO]   placebo              28 items in main
+10:59:41 [INFO]   placebo_low          52 items in main
+10:59:41 [INFO]   placebo_st           53 items in main
+10:59:41 [INFO] Main benchmark 'capsules': 30 constituents
+10:59:41 [INFO] 
+10:59:41 [INFO] Done.

@@ -1,0 +1,25 @@
+Panel A. Items by group,,,,,,
+Group,Item list,Price history,Not traded,In data window,Spikes removed,Retrieved
+"Output, knives","3,428","3,393",139,"3,254",424,"Aug 28, Sep 1"
+"Output, gloves",360,360,22,338,64,Aug 28
+Input,668,668,6,662,145,Aug 28
+Placebo ST,70,70,0,70,20,Sep 1
+Placebo Map,154,154,47,107,13,Sep 1
+Placebo Classified,63,63,0,63,8,Sep 18
+Souvenir Coverts,40,38,6,32,0,Sep 1
+Sticker capsules,91,91,2,89,5,Aug 28
+Music kits,183,183,12,171,13,Aug 28
+Agents,63,63,0,63,0,Aug 28
+Cases,42,42,0,42,0,Aug 28
+Graffiti,150,150,0,150,5,Aug 28
+All groups,"5,312","5,275",234,"5,041",697,
+"Panel B. Items not traded in the data window, by when they traded",,,,,,
+Group,Only before,Only after,Before and after,Total,,
+"Output, knives",112,0,27,139,,
+"Output, gloves",17,0,5,22,,
+Input,6,0,0,6,,
+Placebo Map,21,20,6,47,,
+Souvenir Coverts,6,0,0,6,,
+Sticker capsules,1,1,0,2,,
+Music kits,0,12,0,12,,
+All groups,163,33,38,234,,

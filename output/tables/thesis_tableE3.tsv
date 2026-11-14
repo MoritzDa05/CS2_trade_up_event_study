@@ -1,0 +1,28 @@
+Variant	Items	Efficient, change (%)	Noise, change (%)	Relative to control group (%)	p-value
+Panel A. Output					
+Main	886	−25.5	−36.6	−37.6	0.066
+k = 1 to 6	886	−38.7	−28.6	−48.8	0.012
+After: t = 30 to 104	887	−29.9	−42.0	−62.1	0.118
+Before: t = −190 to −40	886	−15.7	−36.1	−20.3	0.160
+Weekly autocovariance	886	−23.7	−42.0	−31.1	0.178
+Daily trade-to-trade	890	−11.5	−25.3	−18.2	0.342
+Trade share ≥ 50%	547	−25.4	−34.0	−34.1	0.076
+Not demeaned	886	−28.0	−36.0	−38.1	< 0.01
+Panel B. Input					
+Main	566	−30.9	−13.5	−42.1	0.032
+k = 1 to 6	566	−36.0	−9.0	−46.6	0.030
+After: t = 30 to 104	563	−39.0	−23.8	−67.0	0.058
+Before: t = −190 to −40	566	−28.4	−10.5	−32.3	0.028
+Weekly autocovariance	566	−38.0	+36.3	−44.0	0.058
+Daily trade-to-trade	569	−8.1	+39.5	−15.0	0.432
+Trade share ≥ 50%	510	−31.9	−14.2	−39.8	0.038
+Not demeaned	566	−32.4	−13.6	−41.9	< 0.01
+Panel C. Control group					
+Main	79	+19.4	−7.2		
+k = 1 to 6	79	+19.7	−4.2		
+After: t = 30 to 104	78	+85.0	–		
+Before: t = −190 to −40	79	+5.8	+34.6		
+Weekly autocovariance	79	+10.7	+44.0		
+Daily trade-to-trade	80	+8.1	−2.9		
+Trade share ≥ 50%	70	+13.2	+9.5		
+Not demeaned	79	+16.4	−10.6		

@@ -1,0 +1,28 @@
+Panel A. Returns in the estimation window,,,,,,,
+Group,Items,Returns,SD (%),Skewness,Excess kurtosis,Zero returns (%),AR(1)
+Output,890,103,9.25,−0.11,1.03,0.0,−0.43
+Input,569,174,5.94,−0.10,2.20,0.0,−0.34
+Placebo ST,53,170,7.06,−0.11,1.60,0.0,−0.39
+Placebo Map,28,160,8.17,−0.05,4.23,0.0,−0.39
+Placebo Classified,52,176,4.60,−0.14,3.50,0.0,−0.21
+Benchmark (sticker capsules),30,133,6.76,−0.25,4.05,0.0,−0.18
+Music kits and agents,214,176,4.26,−0.10,1.33,0.0,−0.26
+Cases,40,176,2.64,−0.01,2.77,0.6,0.15
+Graffiti,24,175,9.08,0.01,3.76,0.6,−0.30
+Panel B. Market model estimates,,,,,,,
+Group,β (α = 0),α (% per day),R²,σ (%),r̄,,
+Output,0.066,−0.062,0.003,7.91,0.006,,
+Input,0.118,−0.006,0.004,5.84,0.026,,
+Placebo ST,0.170,−0.055,0.005,6.38,0.014,,
+Placebo Map,0.096,0.402,0.002,7.85,0.028,,
+Placebo Classified,0.055,−0.114,0.003,4.61,0.034,,
+Benchmark (sticker capsules),1.059,0.050,0.043,5.67,−0.044,,
+Music kits and agents,0.157,−0.062,0.004,4.26,0.057,,
+Cases,0.173,0.033,0.015,2.63,0.216,,
+Graffiti,−0.171,−0.010,0.004,8.98,0.028,,
+Panel C. Correlation of returns between two items,,,,,,,
+Pair of items,Pairs,"Mean, daily","Mean, five-day","Median, five-day",,,
+"Same skin, different wear","3,233",0.040,0.140,0.134,,,
+"Same case, different skin","39,226",0.012,0.053,0.055,,,
+"Same group, different case","434,645",0.017,0.063,0.064,,,
+Different group,"1,146,207",0.012,0.055,0.056,,,

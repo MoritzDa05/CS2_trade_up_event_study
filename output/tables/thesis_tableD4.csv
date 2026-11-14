@@ -1,0 +1,15 @@
+"Panel A. Change against the level before the update, by window",,,,,,,
+Window,Routes,"Gap to 0.870, before",Δ ln P,Δ ln E[V],Δ ln R,Gap closed (%),From Coverts (%)
+t = 0,265,1.44,+0.92,−0.59,+1.51,104.6,60.8
+t = 1 to 7,279,1.41,+1.00,−0.56,+1.56,110.8,64.2
+t = 30 to 60,280,1.41,+1.43,−0.43,+1.86,132.1,77.1
+t = 150 to 200,280,1.41,+1.50,−0.41,+1.91,135.9,78.5
+Panel B. Daily path during the interim recovery of the output,,,,,,,
+Day,Routes,,Δ ln P,Δ ln E[V],Δ ln R,Median R,Below 0.870 (%)
+t = 7,279,,+1.05,−0.52,+1.57,0.99,26.5
+t = 10,280,,+1.11,−0.42,+1.53,0.96,33.9
+t = 16,280,,+1.41,−0.26,+1.67,1.12,3.9
+t = 28,280,,+1.36,−0.44,+1.80,1.28,0.0
+Change (%),,,,,,,
+t = 7 to 16,,,+42.9,+29.9,+10.0,,
+t = 16 to 28,,,−4.4,−16.7,+14.7,,

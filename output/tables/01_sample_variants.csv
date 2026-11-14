@@ -1,0 +1,12 @@
+role,main,liq50,subclass_all,illiquid,launch,burn_in30
+case,40,40,40,0,0,39
+excluded,24,24,24,0,0,24
+index_alt,214,214,214,0,20,214
+index_main,30,25,30,5,6,30
+placebo,28,24,28,1,18,24
+placebo_low,52,46,52,0,0,37
+placebo_souvenir,0,0,0,0,3,0
+placebo_st,53,49,53,4,0,53
+treated_input,569,510,569,16,0,549
+treated_output,890,547,965,165,4,827
+TOTAL,1900,1479,1975,191,51,1797

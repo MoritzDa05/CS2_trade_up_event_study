@@ -1,0 +1,16 @@
+check,game_file,item_list,agree,differ,detail
+Cases with a knife or glove pool,42,42,42,0,
+Other containers with a knife or glove pool,1,0,0,1,"Sealed Dead Hand Terminal (5181, volatile_pricing_gloves weapon_case_selfopening_collection, pool: ★ Gloves ★)"
+Pool holds knives or gloves,42,42,42,0,
+Knife type of cases with a single knife type,8,8,8,0,
+Covert weapon skins in the cases,79,79,79,0,
+Rarity of the weapon skins,121,121,121,0,
+Map Coverts outside containers with a pool,28,28,26,2,AWP | Queen's Gambit is in Sealed Dead Hand Terminal; Glock-18 | Fully Tuned is in Sealed Dead Hand Terminal
+Collections of Placebo Classified without a Covert,11,11,11,0,
+Float range of the weapon skins,121,121,121,0,
+Float range of the knife and glove finishes,628,628,628,0,
+Cases sharing a pool,19,19,19,0,
+Names of the weapon skins,121,121,121,0,
+Pool finishes that exist in the game,522,500,500,0,
+Paint kits of the pool finishes,628,628,628,0,
+Knife and glove finishes of the game in a pool,522,500,500,22,★ Driver Gloves | Brocade Crane in no pool; ★ Driver Gloves | Brocade Flowers in no pool; ★ Driver Gloves | Dragon Fists in no pool; ★ Driver Gloves | Garden in no pool; ★ Driver Gloves | Hand Sweaters in no pool; ... (22 in total)

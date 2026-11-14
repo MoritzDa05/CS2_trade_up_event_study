@@ -1,0 +1,24 @@
+Panel A. Days 30 to 190 against before the update (multiple),,,,,,
+Group,Items,Units sold,Average price,Turnover in EUR,,
+Output,890,2.72,0.61,1.65,,
+,,[2.61; 2.83],[0.59; 0.62],[1.60; 1.71],,
+Input,569,0.69,2.90,2.00,,
+,,[0.64; 0.74],[2.37; 3.60],[1.68; 2.38],,
+Control group,80,1.14,1.51,1.72,,
+,,[0.89; 1.41],[1.08; 2.13],[1.45; 2.06],,
+Placebo ST,53,1.45,1.53,2.22,,
+,,[1.15; 1.93],[1.26; 1.89],[1.58; 3.48],,
+Benchmark (sticker capsules),30,0.75,1.03,0.77,,
+,,[0.64; 0.88],[0.95; 1.09],[0.62; 0.92],,
+Music kits and agents,214,0.93,1.08,1.00,,
+,,[0.90; 0.95],[1.05; 1.10],[0.96; 1.03],,
+Cases,40,0.98,1.04,1.02,,
+,,[0.88; 1.08],[0.98; 1.10],[0.93; 1.12],,
+Panel B. Relative to the control group,,,,,,
+Group,Units sold,p-value,Average price,p-value,Turnover in EUR,p-value
+Output,2.39,< 0.01,0.40,< 0.01,0.96,0.671
+Input,0.60,< 0.01,1.92,< 0.01,1.16,0.204
+Placebo ST,1.28,0.154,1.01,0.971,1.29,0.256
+Benchmark (sticker capsules),0.66,< 0.01,0.68,0.028,0.45,< 0.01
+Music kits and agents,0.81,0.088,0.71,0.056,0.58,< 0.01
+Cases,0.86,0.246,0.69,0.034,0.60,< 0.01

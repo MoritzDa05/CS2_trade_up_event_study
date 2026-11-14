@@ -1,0 +1,14 @@
+Panel A. Echo of the seven-day trade hold						
+Group	Items	First wave, [0, +2]	Returned, [+7, +9]	Echo share (%)	Relative to control group (pp)	p-value
+Control group	170	46,687	17,286	37.0		
+				[28.9; 41.9]		
+Placebo ST	70	16,147	10,113	62.6	+25.6	< 0.01
+				[56.7; 66.2]	[+18.1; +34.9]	
+Input	662	1,166,220	76,300	6.5	−30.5	< 0.01
+				[5.4; 7.6]	[−35.5; −22.2]	
+Output	3,592	173,245	54,816	31.6	−5.4	0.256
+				[30.3; 33.0]	[−10.4; +3.1]	
+Panel B. Unit balance						
+Statistic		Input, [0, +60]	Output, [+7, +67]	Input units per output unit		
+Excess units		1,986,523	469,488	4.23		
+				[2.88; 5.86]		

@@ -1,0 +1,9 @@
+# Python 3.14.3, environment built with uv 0.10.11 (uv venv; uv pip install -r requirements.txt)
+# Direct dependencies only, pinned to the versions of the thesis run (checked against uv pip freeze).
+matplotlib==3.11.2
+numpy==2.5.2
+pandas==3.0.5
+pyarrow==25.0.1
+python-dotenv==1.2.3
+requests==2.34.2
+scipy==1.18.1
